@@ -15,21 +15,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '20'
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install Python dependencies
+        run: |
+          pip install requests feedparser
 
       - name: Run news scraping script
         run: |
-          # The scraping script would update lib/data.ts
-          # For now, this is a placeholder that simulates an update
-          echo "Running daily news update..."
-          # In production, this would run a Python scraping script
-          # python scripts/gen.py
+          cd scripts
+          python gen.py
 
       - name: Commit and push if changes
         run: |
