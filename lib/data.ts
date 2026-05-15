@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-15 13:55:03
+// Auto-generated news data at 2026-05-15 06:52:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -28,7 +28,7 @@ export interface NewsData {
 
 const newsData: NewsData = {
   date: '2026年05月15日',
-  update_time: '2026-05-15 13:55:03',
+  update_time: '2026-05-15 06:52:53',
   banner: [
       {
             "id": "ai-7893e9",
@@ -150,6 +150,17 @@ const newsData: NewsData = {
 ],
     b2b: [
       {
+            "id": "b2b-851136",
+            "tag": "B2B营销",
+            "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+            "summary": "Debt agents working for British Gas had broken into the homes of vulnerable customers to fit pre-payment energy meters.",
+            "source": "BBC",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-785512",
             "tag": "B2B营销",
             "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
@@ -192,40 +203,62 @@ const newsData: NewsData = {
             "link": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&amp;at_campaign=rss",
             "image": "",
             "category": "b2b"
-      },
-      {
-            "id": "b2b-93aa1c",
-            "tag": "B2B营销",
-            "title": "Trump brought top CEOs to Beijing but few big deals emerge",
-            "summary": "There were plenty of choreographed ceremonies but no sweeping trade breakthrough as Trump met Xi in Beijing.",
-            "source": "BBC",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
-            "image": "",
-            "category": "b2b"
       }
 ],
     world: [
       {
-            "id": "world-001",
+            "id": "wor-d3e40f",
             "tag": "国际要闻",
-            "title": "全球制造业PMI连续回升",
-            "summary": "摩根大通数据显示全球制造业PMI达52.4，连续三个月处于扩张区间。",
-            "source": "Reuters",
+            "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+            "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+            "source": "BBC",
             "time": "今日",
-            "link": "https://reuters.com",
-            "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+            "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
             "category": "world"
       },
       {
-            "id": "world-002",
+            "id": "wor-22d5d4",
             "tag": "国际要闻",
-            "title": "德国工业4.0工厂突破千家",
-            "summary": "德国制造业数字化转型加速，1023家工业4.0示范工厂建成使用。",
-            "source": "Handelsblatt",
+            "title": "'Floating armoury' ship reportedly seized by Iran",
+            "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+            "source": "BBC",
             "time": "今日",
-            "link": "https://handelsblatt.com",
-            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
+            "category": "world"
+      },
+      {
+            "id": "wor-42e535",
+            "tag": "国际要闻",
+            "title": "CIA chief visits Cuba as energy crisis worsens",
+            "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+            "source": "BBC",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
+            "category": "world"
+      },
+      {
+            "id": "wor-18da89",
+            "tag": "国际要闻",
+            "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+            "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+            "source": "BBC",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
+            "category": "world"
+      },
+      {
+            "id": "wor-053c17",
+            "tag": "国际要闻",
+            "title": "Giant new dinosaur identified from fossils in Thailand",
+            "summary": "The nagatitan is the largest dinosaur found in South-East Asia and weighs as much as nine elephants.",
+            "source": "BBC",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss",
+            "image": "",
             "category": "world"
       }
 ],
