@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-17 04:38:29
+// Auto-generated news data at 2026-05-18 04:49:56
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月17日',
-  update_time: '2026-05-17 04:38:29',
+  date: '2026年05月18日',
+  update_time: '2026-05-18 04:49:56',
   banner: [
       {
             "id": "ai-001",
