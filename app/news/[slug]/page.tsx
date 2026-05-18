@@ -58,10 +58,14 @@ export default function NewsArticlePage({ params }: Props) {
         </div>
       </header>
 
-      <img src={item.image} alt={item.title} className="article-image" />
+      {item.image && (
+        <img src={item.image} alt={item.title} className="article-image" />
+      )}
 
       <div className="article-content">
-        <p>{item.summary}</p>
+        {item.content.split('\n').map((paragraph, index) => (
+          paragraph.trim() ? <p key={index}>{paragraph}</p> : null
+        ))}
       </div>
 
       <a
