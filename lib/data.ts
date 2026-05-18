@@ -248,3 +248,23 @@ const newsData: NewsData = {
 export function getNewsData(): NewsData {
   return newsData;
 }
+
+// Slug generation: use article ID as slug for stable URLs
+export function slugify(item: NewsItem): string {
+  return item.id;
+}
+
+// Find article by slug (ID)
+export function findNewsItemBySlug(slug: string): NewsItem | null {
+  const data = getNewsData();
+  const allItems = [
+    ...data.banner,
+    ...data.sections.ai,
+    ...data.sections.sand,
+    ...data.sections.casting,
+    ...data.sections.b2b,
+    ...data.sections.world,
+    ...data.sections.mfg,
+  ];
+  return allItems.find(item => item.id === slug) || null;
+}
