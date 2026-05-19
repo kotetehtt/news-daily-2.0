@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-18 14:33:25
+// Auto-generated news data at 2026-05-19 04:41:56
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月18日',
-  update_time: '2026-05-18 14:33:25',
+  date: '2026年05月19日',
+  update_time: '2026-05-19 04:41:56',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-4c16e8",
+            "id": "ai-0ae55e",
             "tag": "AI人工智能",
-            "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-            "content": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+            "title": "Robo-top: The machines that could make your next t-shirt",
+            "content": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c2023l60370o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ec05/live/8bea2980-5079-11f1-b637-39d6d94b351f.jpg",
+            "link": "https://www.bbc.com/news/articles/c0q2gkj97eko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c642/live/2ac2db00-4d33-11f1-bd52-e755d604ece4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-a3535b",
+            "id": "ai-26d096",
             "tag": "AI人工智能",
-            "title": "X pledges quicker action on hate and terror content in the UK",
-            "content": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
+            "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+            "content": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clyp9652v18o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4d12/live/72777cd0-505d-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c202g60qrlpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4993/live/c53b1340-52d9-11f1-a650-a94a8fc7de38.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7893e9",
+            "id": "ai-d3fd37",
             "tag": "AI人工智能",
-            "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-            "content": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart.",
+            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+            "content": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/61c3/live/5604dcc0-5024-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
             "category": "ai"
       }
 ],
@@ -214,6 +214,50 @@ const newsData: NewsData = {
             "link": "https://techcrunch.com/category/enterprise/",
             "image": "",
             "category": "b2b"
+      },
+      {
+            "id": "b2b-4dbf5c",
+            "tag": "B2B营销",
+            "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
+            "content": "Greater Manchester Mayor Andy Burnham is looking to manage the markets as well as the Makerfield byelection",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c0e2dl455d5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e83b/live/203c2430-52fa-11f1-a254-dfebbd019402.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-c2a18d",
+            "tag": "B2B营销",
+            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+            "content": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-767bd0",
+            "tag": "B2B营销",
+            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+            "content": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5291/live/227907c0-52ed-11f1-b2aa-4dd7163d2cb4.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-61e349",
+            "tag": "B2B营销",
+            "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
+            "content": "Starbucks withdrew the campaign for its drink tumblers after many said it referenced a bloody crackdown.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c0k2dz4y6gxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bb8/live/0f644f40-532a-11f1-9c13-5d0b58370758.jpg",
+            "category": "b2b"
       }
 ],
     world: [
@@ -248,6 +292,39 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bloomberg.com/technology",
             "image": "",
+            "category": "world"
+      },
+      {
+            "id": "wor-38fe87",
+            "tag": "国际要闻",
+            "title": "Trump says he called off new Iran attack at request of Gulf states",
+            "content": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c7079e55zjro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7abc/live/e242fd30-530c-11f1-8b8c-6d33e1d5abb6.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-f6f5d2",
+            "tag": "国际要闻",
+            "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+            "content": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c5y7q66gq56o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3234/live/805e0a80-5328-11f1-8b8c-6d33e1d5abb6.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-2b6c78",
+            "tag": "国际要闻",
+            "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
+            "content": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg",
             "category": "world"
       }
 ],
