@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-19 04:41:56
+// Auto-generated news data at 2026-05-20 04:45:51
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月19日',
-  update_time: '2026-05-19 04:41:56',
+  date: '2026年05月20日',
+  update_time: '2026-05-20 04:45:51',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-0ae55e",
+            "id": "ai-45eb04",
             "tag": "AI人工智能",
-            "title": "Robo-top: The machines that could make your next t-shirt",
-            "content": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+            "title": "Google to release first smart glasses since Google Glass flop",
+            "content": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0q2gkj97eko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c642/live/2ac2db00-4d33-11f1-bd52-e755d604ece4.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1e90/live/b63e1cf0-53c6-11f1-8eca-7537a828d115.png",
             "category": "ai"
       },
       {
-            "id": "ai-26d096",
+            "id": "ai-ff7a62",
             "tag": "AI人工智能",
-            "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-            "content": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+            "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+            "content": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c202g60qrlpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4993/live/c53b1340-52d9-11f1-a650-a94a8fc7de38.jpg",
+            "link": "https://www.bbc.com/news/articles/crlp991nw41o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/12af/live/30355be0-536d-11f1-b319-63ed6ac90e5f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d3fd37",
+            "id": "ai-12ff11",
             "tag": "AI人工智能",
-            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-            "content": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+            "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+            "content": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b634/live/37c3c920-536b-11f1-b682-cf91850925ea.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4dbf5c",
+            "id": "b2b-d02ee4",
             "tag": "B2B营销",
-            "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
-            "content": "Greater Manchester Mayor Andy Burnham is looking to manage the markets as well as the Makerfield byelection",
+            "title": "Supermarkets urged to limit food prices by government",
+            "content": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0e2dl455d5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e83b/live/203c2430-52fa-11f1-a254-dfebbd019402.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y7qz806q3o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba78/live/6c694910-53a3-11f1-962f-7dc94fa2f5d0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c2a18d",
+            "id": "b2b-f0e792",
             "tag": "B2B营销",
-            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-            "content": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+            "title": "UK loosens Russian oil sanctions as fuel prices rise",
+            "content": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cy42x3g7r89o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-767bd0",
+            "id": "b2b-11cc9d",
             "tag": "B2B营销",
-            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-            "content": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
+            "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
+            "content": "The finance watchdog warns bogus brokers are selling fake car insurance through social media.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5291/live/227907c0-52ed-11f1-b2aa-4dd7163d2cb4.jpg",
+            "link": "https://www.bbc.com/news/articles/c1w29zw0q44o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1c36/live/b81dea30-53aa-11f1-b682-cf91850925ea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-61e349",
+            "id": "b2b-77f3e5",
             "tag": "B2B营销",
-            "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
-            "content": "Starbucks withdrew the campaign for its drink tumblers after many said it referenced a bloody crackdown.",
+            "title": "UK should set maximum working temperature rules, advisers say",
+            "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0k2dz4y6gxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bb8/live/0f644f40-532a-11f1-9c13-5d0b58370758.jpg",
+            "link": "https://www.bbc.com/news/articles/cm2p1j4y0kro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/476d/live/5bad1aa0-53a0-11f1-a184-d13a0f944f44.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-38fe87",
+            "id": "wor-d0ac1f",
             "tag": "国际要闻",
-            "title": "Trump says he called off new Iran attack at request of Gulf states",
-            "content": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+            "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+            "content": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c7079e55zjro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7abc/live/e242fd30-530c-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c8bb/live/9d165df0-5394-11f1-82e5-bb1c743931bd.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f6f5d2",
+            "id": "wor-167df8",
             "tag": "国际要闻",
-            "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-            "content": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+            "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+            "content": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y7q66gq56o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3234/live/805e0a80-5328-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff64/live/547a9890-536c-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2b6c78",
+            "id": "wor-b62922",
             "tag": "国际要闻",
-            "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
-            "content": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+            "title": "Key people smuggler arrested after BBC uncovered identity",
+            "content": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg",
+            "link": "https://www.bbc.com/news/articles/c5yejzmvy56o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb77/live/7cc0fc40-5399-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       }
 ],
