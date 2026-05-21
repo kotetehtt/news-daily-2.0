@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-20 04:45:51
+// Auto-generated news data at 2026-05-21 04:52:12
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月20日',
-  update_time: '2026-05-20 04:45:51',
+  date: '2026年05月21日',
+  update_time: '2026-05-21 04:52:12',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-45eb04",
+            "id": "ai-7659e7",
             "tag": "AI人工智能",
-            "title": "Google to release first smart glasses since Google Glass flop",
-            "content": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
+            "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+            "content": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1e90/live/b63e1cf0-53c6-11f1-8eca-7537a828d115.png",
+            "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ce53/live/9f67cd50-546b-11f1-97ab-4b256b476233.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ff7a62",
+            "id": "ai-210638",
             "tag": "AI人工智能",
-            "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-            "content": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
+            "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+            "content": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/crlp991nw41o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/12af/live/30355be0-536d-11f1-b319-63ed6ac90e5f.jpg",
+            "link": "https://www.bbc.com/news/articles/cg4pe2953q1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a257/live/e755c9b0-5497-11f1-b691-3398bf815b45.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-12ff11",
+            "id": "ai-2557d0",
             "tag": "AI人工智能",
-            "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-            "content": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
+            "title": "US groups urge investigation into child safety and spending on Roblox",
+            "content": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b634/live/37c3c920-536b-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cgqpz809e7lo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/39da/live/15572780-5431-11f1-97ae-1b4b9bb4c9eb.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d02ee4",
+            "id": "b2b-eedf39",
             "tag": "B2B营销",
-            "title": "Supermarkets urged to limit food prices by government",
-            "content": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
+            "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+            "content": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y7qz806q3o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba78/live/6c694910-53a3-11f1-962f-7dc94fa2f5d0.jpg",
+            "link": "https://www.bbc.com/news/articles/cg4pe2953q1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a257/live/e755c9b0-5497-11f1-b691-3398bf815b45.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f0e792",
+            "id": "b2b-b683e3",
             "tag": "B2B营销",
-            "title": "UK loosens Russian oil sanctions as fuel prices rise",
-            "content": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+            "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+            "content": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy42x3g7r89o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg",
+            "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ce53/live/9f67cd50-546b-11f1-97ab-4b256b476233.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-11cc9d",
+            "id": "b2b-313c03",
             "tag": "B2B营销",
-            "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
-            "content": "The finance watchdog warns bogus brokers are selling fake car insurance through social media.",
+            "title": "UK agrees £3.7bn trade deal with six Gulf states",
+            "content": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1w29zw0q44o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1c36/live/b81dea30-53aa-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/c4g85dryv24o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/94d1/live/06552200-5477-11f1-b287-b773a2980223.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-77f3e5",
+            "id": "b2b-44b4c9",
             "tag": "B2B营销",
-            "title": "UK should set maximum working temperature rules, advisers say",
-            "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+            "title": "Samsung strike on hold as workers push for AI bonus",
+            "content": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cm2p1j4y0kro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/476d/live/5bad1aa0-53a0-11f1-a184-d13a0f944f44.jpg",
+            "link": "https://www.bbc.com/news/articles/c4g04qkqlk2o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/639b/live/8df67be0-54b9-11f1-aebe-91fb4001196b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d0ac1f",
+            "id": "wor-3de377",
             "tag": "国际要闻",
-            "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-            "content": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
+            "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+            "content": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c8bb/live/9d165df0-5394-11f1-82e5-bb1c743931bd.jpg",
+            "link": "https://www.bbc.com/news/articles/c3r219yxl5eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/303e/live/c129b180-54cd-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       },
       {
-            "id": "wor-167df8",
+            "id": "wor-e44bd4",
             "tag": "国际要闻",
-            "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-            "content": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+            "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+            "content": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff64/live/547a9890-536c-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c8r8me3nlllo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f31d/live/403b1fd0-5466-11f1-90bc-1d92dab59cbe.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b62922",
+            "id": "wor-cb9f62",
             "tag": "国际要闻",
-            "title": "Key people smuggler arrested after BBC uncovered identity",
-            "content": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
+            "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+            "content": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5yejzmvy56o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb77/live/7cc0fc40-5399-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/clyp32weyn8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c3ee/live/74d107a0-5457-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       }
 ],
