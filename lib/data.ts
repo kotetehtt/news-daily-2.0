@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-22 04:43:53
+// Auto-generated news data at 2026-05-23 04:24:16
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月22日',
-  update_time: '2026-05-22 04:43:53',
+  date: '2026年05月23日',
+  update_time: '2026-05-23 04:24:16',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9f46c1",
+            "id": "ai-4c2ed5",
             "tag": "AI人工智能",
-            "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-            "content": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+            "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+            "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy42w782ejvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5bd0/live/9dc52e40-5586-11f1-b4ba-7bcbf1fd159f.png",
+            "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/efef/live/f79080f0-4de8-11f1-9cc8-93479330ab4b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-aa481d",
+            "id": "ai-c1c2a1",
             "tag": "AI人工智能",
-            "title": "Love factually: Dating start-ups promise to cut the cheats",
-            "content": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+            "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+            "content": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cnvpme6811do",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e2f1/live/e7462a50-4de9-11f1-ac78-2112837ce2aa.jpg",
+            "link": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16e9/live/5b08f8f0-55f1-11f1-a174-f9c47fab594e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-480fdd",
+            "id": "ai-70b311",
             "tag": "AI人工智能",
-            "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
-            "content": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
+            "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+            "content": "Bungie said the online shooter will get its final update on 9 June but will still be playable.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gv0qg2levo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e9e8/live/3e700fd0-5542-11f1-bf6a-71733cf77f82.jpg",
+            "link": "https://www.bbc.com/news/articles/c1728w58dyqo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1067/live/c8b92a20-55d1-11f1-9a5f-8f70d4bfa4fc.jpg",
             "category": "ai"
       }
 ],
@@ -223,40 +223,40 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c0l2x5351n4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2189/live/97f7c0d0-555a-11f1-89a3-d1f559421220.jpg",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5bd6/live/041d2320-55c6-11f1-b682-cf91850925ea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-638a71",
+            "id": "b2b-cf3012",
             "tag": "B2B营销",
-            "title": "Prepare for half term queues at Dover due to EU border process, port says",
-            "content": "It is the first holiday period since the EU's new border system was fully implemented.",
+            "title": "Bank boss sorry after describing workers as 'lower value human capital'",
+            "content": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpqpygjwywjo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f933/live/1da8b570-5526-11f1-87e7-8195a3fea8aa.jpg",
+            "link": "https://www.bbc.com/news/articles/c98rqld1j3yo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2966/live/1d310e00-55e2-11f1-947c-0dd8001fb995.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-13cfbd",
+            "id": "b2b-91dc5c",
             "tag": "B2B营销",
-            "title": "'Monitoring the situation': why young men are drawn to prediction markets",
-            "content": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
+            "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+            "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c93xv27kpwxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99b7/live/be15f1f0-5506-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/efef/live/f79080f0-4de8-11f1-9cc8-93479330ab4b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4ef78f",
+            "id": "b2b-c55f31",
             "tag": "B2B营销",
-            "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-            "content": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+            "title": "Trump wants new Fed chair to be 'totally independent'",
+            "content": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy42w782ejvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5bd0/live/9dc52e40-5586-11f1-b4ba-7bcbf1fd159f.png",
+            "link": "https://www.bbc.com/news/articles/cvgz311dq3ko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e03a/live/d0384590-5605-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6d39b3",
+            "id": "wor-9d3bbf",
             "tag": "国际要闻",
-            "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-            "content": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+            "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+            "content": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7399/live/04ee7920-5553-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y74lwx395o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5f800b",
+            "id": "wor-63e8d1",
             "tag": "国际要闻",
-            "title": "Three ways Cuba crisis could play out after US indictment of Raúl Castro",
-            "content": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
+            "title": "SpaceX launches massive Starship V3 rocket on test flight",
+            "content": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9c3d/live/dc634240-553b-11f1-a125-a1007a98f90d.jpg",
+            "link": "https://www.bbc.com/news/articles/c62d65y16nno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ff/live/9fa417a0-565b-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d778dd",
+            "id": "wor-adee26",
             "tag": "国际要闻",
-            "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-            "content": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+            "title": "Rubio tries to reassure Nato allies over US troop deployments",
+            "content": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d547/live/0b3c0980-5573-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cedpz9669deo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg",
             "category": "world"
       }
 ],
