@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-23 04:24:16
+// Auto-generated news data at 2026-05-24 04:47:15
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月23日',
-  update_time: '2026-05-23 04:24:16',
+  date: '2026年05月24日',
+  update_time: '2026-05-24 04:47:15',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,9 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-4c2ed5",
+            "id": "ai-637bc0",
             "tag": "AI人工智能",
-            "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+            "title": "AI may speed up search for drugs to treat brain conditions",
             "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
             "source": "BBC News",
             "time": "今日",
@@ -238,9 +238,9 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-91dc5c",
+            "id": "b2b-526a52",
             "tag": "B2B营销",
-            "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+            "title": "AI may speed up search for drugs to treat brain conditions",
             "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
             "source": "BBC News",
             "time": "今日",
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9d3bbf",
+            "id": "wor-0ad6f6",
             "tag": "国际要闻",
-            "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-            "content": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+            "title": "Suspect killed after opening fire on Secret Service near White House",
+            "content": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y74lwx395o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a817/live/fec30310-571c-11f1-83cc-573d6bc3aa6b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-63e8d1",
+            "id": "wor-68c9b0",
             "tag": "国际要闻",
-            "title": "SpaceX launches massive Starship V3 rocket on test flight",
-            "content": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+            "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+            "content": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c62d65y16nno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ff/live/9fa417a0-565b-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/crmp121z3z8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       },
       {
-            "id": "wor-adee26",
+            "id": "wor-692b66",
             "tag": "国际要闻",
-            "title": "Rubio tries to reassure Nato allies over US troop deployments",
-            "content": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+            "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+            "content": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cedpz9669deo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       }
 ],
