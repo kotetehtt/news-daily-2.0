@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-24 04:47:15
+// Auto-generated news data at 2026-05-25 05:02:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月24日',
-  update_time: '2026-05-24 04:47:15',
+  date: '2026年05月25日',
+  update_time: '2026-05-25 05:02:53',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-c1295a",
+            "id": "b2b-e57448",
             "tag": "B2B营销",
-            "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-            "content": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+            "title": "Oil prices slide on hopes of US-Iran peace deal",
+            "content": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0l2x5351n4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5bd6/live/041d2320-55c6-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/c809m7g29r7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-cf3012",
+            "id": "b2b-d265a9",
             "tag": "B2B营销",
-            "title": "Bank boss sorry after describing workers as 'lower value human capital'",
-            "content": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
+            "title": "'I live in survival mode': The rise of the multi-job workforce",
+            "content": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c98rqld1j3yo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2966/live/1d310e00-55e2-11f1-947c-0dd8001fb995.jpg",
+            "link": "https://www.bbc.com/news/articles/c70vwr8z7pyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a08c/live/f7103250-55c8-11f1-9a5f-8f70d4bfa4fc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-526a52",
+            "id": "b2b-703d18",
             "tag": "B2B营销",
-            "title": "AI may speed up search for drugs to treat brain conditions",
-            "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+            "title": "Beer boom goes flat as breweries call last orders",
+            "content": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/efef/live/f79080f0-4de8-11f1-9cc8-93479330ab4b.jpg",
+            "link": "https://www.bbc.com/news/articles/c9werp5keqlo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d4f/live/bca26360-4892-11f1-9c3f-fddcc2cc89aa.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c55f31",
+            "id": "b2b-de5c6a",
             "tag": "B2B营销",
-            "title": "Trump wants new Fed chair to be 'totally independent'",
-            "content": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
+            "title": "How Saudi Arabia's spending spree reached the end of the line",
+            "content": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgz311dq3ko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e03a/live/d0384590-5605-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cx21g0828reo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9fad/live/a0a6efd0-55e6-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-0ad6f6",
+            "id": "wor-4c1d40",
             "tag": "国际要闻",
-            "title": "Suspect killed after opening fire on Secret Service near White House",
-            "content": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+            "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+            "content": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a817/live/fec30310-571c-11f1-83cc-573d6bc3aa6b.jpg",
+            "link": "https://www.bbc.com/news/articles/clyp0040x7po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-68c9b0",
+            "id": "wor-9b37e6",
             "tag": "国际要闻",
-            "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-            "content": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+            "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+            "content": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/crmp121z3z8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-692b66",
+            "id": "wor-c7474a",
             "tag": "国际要闻",
-            "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-            "content": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+            "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+            "content": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/clyp6831yp5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/321a/live/ffcd6860-5783-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       }
 ],
