@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-26 04:42:55
+// Auto-generated news data at 2026-05-27 04:55:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月26日',
-  update_time: '2026-05-26 04:42:55',
+  date: '2026年05月27日',
+  update_time: '2026-05-27 04:55:02',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-d28ce5",
+            "id": "ai-734554",
             "tag": "AI人工智能",
-            "title": "Social media as bad for young people as smoking, top doctors say",
-            "content": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+            "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+            "content": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c3r2zjpryzro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-876588",
+            "tag": "AI人工智能",
+            "title": "Instagram betting ads featuring Kane and Haaland banned",
+            "content": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c3w220y2l8xo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a06/live/db897500-5915-11f1-8b8c-6d33e1d5abb6.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-2ad6d4",
+            "tag": "AI人工智能",
+            "title": "Starmer vows to act on social media after meeting bereaved parents",
+            "content": "Some parents believe whether the government will take strong enough action remains to be seen.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/12d7/live/c842a850-55d6-11f1-bb1a-df2243910f20.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-98829e",
-            "tag": "AI人工智能",
-            "title": "The rise of the fruit that tastes like custard",
-            "content": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3190/live/90f2c990-4ac1-11f1-b55d-0f258dce1735.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-637bc0",
-            "tag": "AI人工智能",
-            "title": "AI may speed up search for drugs to treat brain conditions",
-            "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/efef/live/f79080f0-4de8-11f1-9cc8-93479330ab4b.jpg",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b751/live/1942fc20-591d-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4e6c66",
+            "id": "b2b-2d222c",
             "tag": "B2B营销",
-            "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-            "content": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
+            "title": "Instagram betting ads featuring Kane and Haaland banned",
+            "content": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c2024r6lzyro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac17/live/ec2c7fc0-55ef-11f1-a174-f9c47fab594e.jpg",
+            "link": "https://www.bbc.com/news/articles/c3w220y2l8xo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a06/live/db897500-5915-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f715b4",
+            "id": "b2b-6d69b7",
             "tag": "B2B营销",
-            "title": "Social media as bad for young people as smoking, top doctors say",
-            "content": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+            "title": "Booming AI chip demand helps create two new $1tn club members",
+            "content": "SK Hynix and Micron are the latest tech firms to join the growing list of stocks with mega valuations.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/12d7/live/c842a850-55d6-11f1-bb1a-df2243910f20.jpg",
+            "link": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b8ee/live/f9aa1360-5973-11f1-8898-d9c0304099c7.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e57448",
+            "id": "b2b-9d8c4d",
             "tag": "B2B营销",
-            "title": "Oil prices slide on hopes of US-Iran peace deal",
-            "content": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+            "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+            "content": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c809m7g29r7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg",
+            "link": "https://www.bbc.com/news/articles/c3r2zjpryzro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-703d18",
+            "id": "b2b-9373e6",
             "tag": "B2B营销",
-            "title": "Beer boom goes flat as breweries call last orders",
-            "content": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
+            "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+            "content": "BP declined to comment on whether bullying behaviour was part of the reason for his immediate dismissal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9werp5keqlo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d4f/live/bca26360-4892-11f1-9c3f-fddcc2cc89aa.jpg",
+            "link": "https://www.bbc.com/news/articles/cjrppppwvwlo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d0f3/live/d150e340-58ff-11f1-a656-5bf9ca1d9342.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1c86ea",
+            "id": "wor-f65a10",
             "tag": "国际要闻",
-            "title": "US launches new strikes on Iran, targeting missile sites and boats",
-            "content": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war.",
+            "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+            "content": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg",
+            "link": "https://www.bbc.com/news/articles/cx211rgngp0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/690d/live/00e9aae0-5952-11f1-97b9-c54e8e0c397c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5d457d",
+            "id": "wor-fdf9ed",
             "tag": "国际要闻",
-            "title": "Deal with US not imminent, Iran says",
-            "content": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+            "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+            "content": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cglpp2yk336o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a0c1/live/741c5a20-5827-11f1-8df1-478734c7d1a9.jpg",
+            "link": "https://www.bbc.com/news/articles/c4g44yl7q70o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/60fa/live/b45e44b0-593d-11f1-8f5a-71117a5267dc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-51d0dc",
+            "id": "wor-83231c",
             "tag": "国际要闻",
-            "title": "Oil prices slide on hopes of US-Iran peace deal",
-            "content": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+            "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+            "content": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c809m7g29r7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg",
+            "link": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
             "category": "world"
       }
 ],
