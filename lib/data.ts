@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-27 04:55:02
+// Auto-generated news data at 2026-05-28 04:49:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月27日',
-  update_time: '2026-05-27 04:55:02',
+  date: '2026年05月28日',
+  update_time: '2026-05-28 04:49:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-734554",
+            "id": "ai-632221",
             "tag": "AI人工智能",
-            "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
-            "content": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+            "title": "Google worker charged with using internal data to make $1.2m on bets",
+            "content": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3r2zjpryzro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg",
+            "link": "https://www.bbc.com/news/articles/c052yv259jvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c42/live/ad6ddc90-5a39-11f1-b445-b9f1ca9c9352.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-876588",
+            "id": "ai-98829e",
             "tag": "AI人工智能",
-            "title": "Instagram betting ads featuring Kane and Haaland banned",
-            "content": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+            "title": "The rise of the fruit that tastes like custard",
+            "content": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3w220y2l8xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a06/live/db897500-5915-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3190/live/90f2c990-4ac1-11f1-b55d-0f258dce1735.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-2ad6d4",
+            "id": "ai-681930",
             "tag": "AI人工智能",
-            "title": "Starmer vows to act on social media after meeting bereaved parents",
-            "content": "Some parents believe whether the government will take strong enough action remains to be seen.",
+            "title": "Porn company fined £600,000 by Ofcom over age check failings",
+            "content": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b751/live/1942fc20-591d-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/clypxw6penno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9566/live/4e891cb0-59b4-11f1-8ac0-d5b819ddbb8d.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2d222c",
+            "id": "b2b-e454cb",
             "tag": "B2B营销",
-            "title": "Instagram betting ads featuring Kane and Haaland banned",
-            "content": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+            "title": "One in six young people will not be in work or training in five years without action, report warns",
+            "content": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3w220y2l8xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a06/live/db897500-5915-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cy026x9jpd0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1fe3/live/cd580120-59b7-11f1-a709-a756a39103f6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6d69b7",
+            "id": "b2b-20b4bd",
             "tag": "B2B营销",
-            "title": "Booming AI chip demand helps create two new $1tn club members",
-            "content": "SK Hynix and Micron are the latest tech firms to join the growing list of stocks with mega valuations.",
+            "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
+            "content": "Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b8ee/live/f9aa1360-5973-11f1-8898-d9c0304099c7.jpg",
+            "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03a1/live/51a23700-59c9-11f1-b682-cf91850925ea.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-9d8c4d",
+            "id": "b2b-bcc63d",
             "tag": "B2B营销",
-            "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
-            "content": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+            "title": "Oil prices jump after US launches new attacks on Iran",
+            "content": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3r2zjpryzro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg",
+            "link": "https://www.bbc.com/news/articles/cp3p62xddq4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9241/live/6fc5faf0-5a2d-11f1-b118-2f2910cff054.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9373e6",
+            "id": "b2b-053cb7",
             "tag": "B2B营销",
-            "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
-            "content": "BP declined to comment on whether bullying behaviour was part of the reason for his immediate dismissal.",
+            "title": "Why Fifa is being investigated over World Cup ticket prices",
+            "content": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cjrppppwvwlo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d0f3/live/d150e340-58ff-11f1-a656-5bf9ca1d9342.jpg",
+            "link": "https://www.bbc.com/news/videos/cx2164ldp0ko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c5a/live/1bc4f3c0-5a28-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f65a10",
+            "id": "wor-4e235b",
             "tag": "国际要闻",
-            "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-            "content": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+            "title": "US strikes Iran targets for second time in three days",
+            "content": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx211rgngp0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/690d/live/00e9aae0-5952-11f1-97b9-c54e8e0c397c.jpg",
+            "link": "https://www.bbc.com/news/articles/c98r2qy5809o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
             "category": "world"
       },
       {
-            "id": "wor-fdf9ed",
+            "id": "wor-e3e55a",
             "tag": "国际要闻",
-            "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-            "content": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+            "title": "Israel issues evacuation order for swathes of southern Lebanon",
+            "content": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4g44yl7q70o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/60fa/live/b45e44b0-593d-11f1-8f5a-71117a5267dc.jpg",
+            "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-83231c",
+            "id": "wor-e30d59",
             "tag": "国际要闻",
-            "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-            "content": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+            "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+            "content": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1e22n55zn4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
+            "link": "https://www.bbc.com/news/articles/c99l270vy3no",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f04/live/8d909940-5a0b-11f1-8958-3b1169652509.jpg",
             "category": "world"
       }
 ],
