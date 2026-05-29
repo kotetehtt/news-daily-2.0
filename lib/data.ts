@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-28 04:49:28
+// Auto-generated news data at 2026-05-29 04:52:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月28日',
-  update_time: '2026-05-28 04:49:28',
+  date: '2026年05月29日',
+  update_time: '2026-05-29 04:52:53',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-632221",
+            "id": "ai-834b3b",
             "tag": "AI人工智能",
-            "title": "Google worker charged with using internal data to make $1.2m on bets",
-            "content": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+            "title": "Humanoid robots 'the future' of car making, says BMW",
+            "content": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c052yv259jvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c42/live/ad6ddc90-5a39-11f1-b445-b9f1ca9c9352.jpg",
+            "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c2f/live/48e23e10-4dd7-11f1-bd52-e755d604ece4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-98829e",
+            "id": "ai-4face5",
             "tag": "AI人工智能",
-            "title": "The rise of the fruit that tastes like custard",
-            "content": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+            "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+            "content": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3190/live/90f2c990-4ac1-11f1-b55d-0f258dce1735.jpg",
+            "link": "https://www.bbc.com/news/articles/crepleq2zyvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1690/live/1d1b02e0-5aa1-11f1-b682-cf91850925ea.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-681930",
+            "id": "ai-927b83",
             "tag": "AI人工智能",
-            "title": "Porn company fined £600,000 by Ofcom over age check failings",
-            "content": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification.",
+            "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+            "content": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clypxw6penno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9566/live/4e891cb0-59b4-11f1-8ac0-d5b819ddbb8d.jpg",
+            "link": "https://www.bbc.com/news/articles/cz725d5d1x7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea1/live/b8feab80-5a74-11f1-8954-638c887fc9b3.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e454cb",
+            "id": "b2b-00ecf5",
             "tag": "B2B营销",
-            "title": "One in six young people will not be in work or training in five years without action, report warns",
-            "content": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
+            "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+            "content": "A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cy026x9jpd0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1fe3/live/cd580120-59b7-11f1-a709-a756a39103f6.jpg",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3298/live/8a627ad0-5abb-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-20b4bd",
+            "id": "b2b-34af24",
             "tag": "B2B营销",
-            "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
-            "content": "Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.",
+            "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+            "content": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03a1/live/51a23700-59c9-11f1-b682-cf91850925ea.png",
+            "link": "https://www.bbc.com/news/articles/czx2qll4rlyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2e9/live/c2d3e6c0-5aba-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-bcc63d",
+            "id": "b2b-a6229e",
             "tag": "B2B营销",
-            "title": "Oil prices jump after US launches new attacks on Iran",
-            "content": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
+            "title": "US government prepares to print $250 note featuring Trump's face",
+            "content": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cp3p62xddq4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9241/live/6fc5faf0-5a2d-11f1-b118-2f2910cff054.jpg",
+            "link": "https://www.bbc.com/news/articles/clypeyx6nemo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/97ed/live/f6126600-5ad9-11f1-8db2-c1599f6fe43e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-053cb7",
+            "id": "b2b-bb7732",
             "tag": "B2B营销",
-            "title": "Why Fifa is being investigated over World Cup ticket prices",
-            "content": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
+            "title": "When trade soured, this American liquor maker moved to Canada",
+            "content": "Phillips Distilling lost 70% of its Canadian business after provinces banned the sale of US liquor. It has since found a way to sell its products in Canada again.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/videos/cx2164ldp0ko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c5a/live/1bc4f3c0-5a28-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c2l22ypl909o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5a9d/live/c815fa50-5908-11f1-a656-5bf9ca1d9342.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4e235b",
+            "id": "wor-792f46",
             "tag": "国际要闻",
-            "title": "US strikes Iran targets for second time in three days",
-            "content": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+            "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+            "content": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c98r2qy5809o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
+            "link": "https://www.bbc.com/news/articles/c87qng40wz9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e3e55a",
+            "id": "wor-b6fda5",
             "tag": "国际要闻",
-            "title": "Israel issues evacuation order for swathes of southern Lebanon",
-            "content": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+            "title": "Are US and Iran close to peace or sliding back to war?",
+            "content": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cze29764067o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e30d59",
+            "id": "wor-99867a",
             "tag": "国际要闻",
-            "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-            "content": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+            "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+            "content": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c99l270vy3no",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f04/live/8d909940-5a0b-11f1-8958-3b1169652509.jpg",
+            "link": "https://www.bbc.com/news/articles/cn9p40en4ngo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg",
             "category": "world"
       }
 ],
