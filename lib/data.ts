@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-29 04:52:53
+// Auto-generated news data at 2026-05-30 04:33:35
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月29日',
-  update_time: '2026-05-29 04:52:53',
+  date: '2026年05月30日',
+  update_time: '2026-05-30 04:33:35',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-cdb98b",
+            "tag": "AI人工智能",
+            "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+            "content": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c9q391y5088o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2ac/live/4da31040-5b66-11f1-8ea9-9775e47f19f8.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-834b3b",
             "tag": "AI人工智能",
             "title": "Humanoid robots 'the future' of car making, says BMW",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/crepleq2zyvo",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1690/live/1d1b02e0-5aa1-11f1-b682-cf91850925ea.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-927b83",
-            "tag": "AI人工智能",
-            "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-            "content": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\"",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cz725d5d1x7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea1/live/b8feab80-5a74-11f1-8954-638c887fc9b3.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,39 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-a3252e",
+            "tag": "B2B营销",
+            "title": "Only three-quarters of first class mail delivered on time",
+            "content": "Royal Mail says its service is improving and that it is on track to hit the regulator Ofcom's reduced targets",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cy02jyxz26po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a2b/live/1aa28260-5b5d-11f1-9ccc-5fe127efdf44.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-411e5c",
+            "tag": "B2B营销",
+            "title": "Universal rejects billionaire Bill Ackman's takeover bid",
+            "content": "The music giant said Pershing Square's offer fundamentally undervalued the business.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cn8pnd9yj4eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1327/live/03a29b70-3265-11f1-bdf9-bf5479a63eec.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-996562",
+            "tag": "B2B营销",
+            "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
+            "content": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c78kg45yx0vo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/37dd/live/ea709f80-5b40-11f1-9f9e-2f9c8c5baaa2.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-00ecf5",
             "tag": "B2B营销",
             "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
@@ -224,39 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cy026x9jpd0o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3298/live/8a627ad0-5abb-11f1-89a3-d1f559421220.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-34af24",
-            "tag": "B2B营销",
-            "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
-            "content": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx2qll4rlyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2e9/live/c2d3e6c0-5aba-11f1-89a3-d1f559421220.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a6229e",
-            "tag": "B2B营销",
-            "title": "US government prepares to print $250 note featuring Trump's face",
-            "content": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clypeyx6nemo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/97ed/live/f6126600-5ad9-11f1-8db2-c1599f6fe43e.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-bb7732",
-            "tag": "B2B营销",
-            "title": "When trade soured, this American liquor maker moved to Canada",
-            "content": "Phillips Distilling lost 70% of its Canadian business after provinces banned the sale of US liquor. It has since found a way to sell its products in Canada again.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c2l22ypl909o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5a9d/live/c815fa50-5908-11f1-a656-5bf9ca1d9342.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-792f46",
+            "id": "wor-d4324e",
             "tag": "国际要闻",
-            "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-            "content": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+            "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+            "content": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c87qng40wz9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg",
+            "link": "https://www.bbc.com/news/articles/c70vg7glglyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b6fda5",
+            "id": "wor-2b42da",
             "tag": "国际要闻",
-            "title": "Are US and Iran close to peace or sliding back to war?",
-            "content": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+            "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+            "content": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cze29764067o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0481/live/15366340-5b3b-11f1-9a6c-c14292377fff.jpg",
             "category": "world"
       },
       {
-            "id": "wor-99867a",
+            "id": "wor-79cbb6",
             "tag": "国际要闻",
-            "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-            "content": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+            "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+            "content": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn9p40en4ngo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg",
+            "link": "https://www.bbc.com/news/articles/c0r2d40r91qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f155/live/9136a770-5b77-11f1-b93a-99fdf449fe40.jpg",
             "category": "world"
       }
 ],
