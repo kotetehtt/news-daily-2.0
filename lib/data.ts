@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-30 04:33:35
+// Auto-generated news data at 2026-05-31 04:59:31
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月30日',
-  update_time: '2026-05-30 04:33:35',
+  date: '2026年05月31日',
+  update_time: '2026-05-31 04:59:31',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-a4c797",
+            "tag": "AI人工智能",
+            "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+            "content": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c1l2y7j7454o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-cdb98b",
             "tag": "AI人工智能",
             "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c2f/live/48e23e10-4dd7-11f1-bd52-e755d604ece4.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-4face5",
-            "tag": "AI人工智能",
-            "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-            "content": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/crepleq2zyvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1690/live/1d1b02e0-5aa1-11f1-b682-cf91850925ea.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-fd86c7",
+            "tag": "B2B营销",
+            "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+            "content": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c1l2y7j7454o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-a3252e",
             "tag": "B2B营销",
             "title": "Only three-quarters of first class mail delivered on time",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c78kg45yx0vo",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/37dd/live/ea709f80-5b40-11f1-9f9e-2f9c8c5baaa2.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-00ecf5",
-            "tag": "B2B营销",
-            "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
-            "content": "A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy026x9jpd0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3298/live/8a627ad0-5abb-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d4324e",
+            "id": "wor-62b67b",
             "tag": "国际要闻",
-            "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-            "content": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+            "title": "Hundreds arrested in France after wild Champions League celebrations",
+            "content": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c70vg7glglyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bb7d/live/5129c120-5c86-11f1-8550-93880216f188.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2b42da",
+            "id": "wor-ccd35a",
             "tag": "国际要闻",
-            "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-            "content": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+            "title": "US, UK and Australia to develop underwater drone technology",
+            "content": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0481/live/15366340-5b3b-11f1-9a6c-c14292377fff.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg",
             "category": "world"
       },
       {
-            "id": "wor-79cbb6",
+            "id": "wor-e09b53",
             "tag": "国际要闻",
-            "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-            "content": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+            "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+            "content": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0r2d40r91qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f155/live/9136a770-5b77-11f1-b93a-99fdf449fe40.jpg",
+            "link": "https://www.bbc.com/news/articles/c99ldxykz4zo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bc88/live/4ffbbcb0-5c6b-11f1-bb7c-79c4d11ae224.jpg",
             "category": "world"
       }
 ],
