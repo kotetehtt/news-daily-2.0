@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-05-31 04:59:31
+// Auto-generated news data at 2026-06-01 05:25:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年05月31日',
-  update_time: '2026-05-31 04:59:31',
+  date: '2026年06月01日',
+  update_time: '2026-06-01 05:25:02',
   banner: [
       {
             "id": "ai-001",
@@ -100,17 +100,6 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-a4c797",
-            "tag": "AI人工智能",
-            "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-            "content": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1l2y7j7454o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg",
-            "category": "ai"
-      },
-      {
             "id": "ai-cdb98b",
             "tag": "AI人工智能",
             "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
@@ -130,6 +119,17 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c2f/live/48e23e10-4dd7-11f1-bd52-e755d604ece4.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-4face5",
+            "tag": "AI人工智能",
+            "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+            "content": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/crepleq2zyvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1690/live/1d1b02e0-5aa1-11f1-b682-cf91850925ea.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,39 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-a184be",
+            "tag": "B2B营销",
+            "title": "Put a £5 deposit on vapes to stop littering, say waste companies",
+            "content": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c4g4vqex028o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/520c/live/a9b4d820-5cea-11f1-81d4-4b01427112e9.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-34ee31",
+            "tag": "B2B营销",
+            "title": "A year of grief and waiting: What remains when a plane falls from the sky",
+            "content": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/ce9pp53ky42o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb02/live/44600940-5b28-11f1-b682-cf91850925ea.png",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-7a0662",
+            "tag": "B2B营销",
+            "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+            "content": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cpwpeg57777o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-fd86c7",
             "tag": "B2B营销",
             "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
@@ -224,39 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c1l2y7j7454o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a3252e",
-            "tag": "B2B营销",
-            "title": "Only three-quarters of first class mail delivered on time",
-            "content": "Royal Mail says its service is improving and that it is on track to hit the regulator Ofcom's reduced targets",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy02jyxz26po",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a2b/live/1aa28260-5b5d-11f1-9ccc-5fe127efdf44.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-411e5c",
-            "tag": "B2B营销",
-            "title": "Universal rejects billionaire Bill Ackman's takeover bid",
-            "content": "The music giant said Pershing Square's offer fundamentally undervalued the business.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn8pnd9yj4eo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1327/live/03a29b70-3265-11f1-bdf9-bf5479a63eec.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-996562",
-            "tag": "B2B营销",
-            "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
-            "content": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c78kg45yx0vo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/37dd/live/ea709f80-5b40-11f1-9f9e-2f9c8c5baaa2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-62b67b",
+            "id": "wor-ae107a",
             "tag": "国际要闻",
-            "title": "Hundreds arrested in France after wild Champions League celebrations",
-            "content": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+            "title": "Iran and US report new wave of air strikes in Gulf",
+            "content": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bb7d/live/5129c120-5c86-11f1-8550-93880216f188.jpg",
+            "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e64/live/191ae050-5d73-11f1-860b-7bba4d9031fa.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ccd35a",
+            "id": "wor-d838a1",
             "tag": "国际要闻",
-            "title": "US, UK and Australia to develop underwater drone technology",
-            "content": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+            "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+            "content": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg",
+            "link": "https://www.bbc.com/news/articles/cdep04kzz5wo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e09b53",
+            "id": "wor-f83fe8",
             "tag": "国际要闻",
-            "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-            "content": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+            "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+            "content": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c99ldxykz4zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bc88/live/4ffbbcb0-5c6b-11f1-bb7c-79c4d11ae224.jpg",
+            "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       }
 ],
