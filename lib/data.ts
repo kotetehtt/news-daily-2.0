@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-01 05:25:02
+// Auto-generated news data at 2026-06-02 05:10:30
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月01日',
-  update_time: '2026-06-01 05:25:02',
+  date: '2026年06月02日',
+  update_time: '2026-06-02 05:10:30',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-cdb98b",
+            "id": "ai-3b22f2",
             "tag": "AI人工智能",
-            "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-            "content": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+            "title": "How 'confused' AI rollout hurts firms and baffles staff",
+            "content": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9q391y5088o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2ac/live/4da31040-5b66-11f1-8ea9-9775e47f19f8.jpg",
+            "link": "https://www.bbc.com/news/articles/c74d1ydv01eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b7c7/live/85925530-5033-11f1-89a3-d1f559421220.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-834b3b",
+            "id": "ai-2437fe",
             "tag": "AI人工智能",
-            "title": "Humanoid robots 'the future' of car making, says BMW",
-            "content": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+            "content": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c2f/live/48e23e10-4dd7-11f1-bd52-e755d604ece4.jpg",
+            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56df/live/5b04bfb0-5df3-11f1-9565-ef0970da1cfe.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-4face5",
+            "id": "ai-300066",
             "tag": "AI人工智能",
-            "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-            "content": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
+            "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+            "content": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/crepleq2zyvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1690/live/1d1b02e0-5aa1-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1da9/live/87ea54d0-5dae-11f1-8132-9508271dd882.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-a184be",
+            "id": "b2b-2ac079",
             "tag": "B2B营销",
-            "title": "Put a £5 deposit on vapes to stop littering, say waste companies",
-            "content": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
+            "title": "Steph Curry signs with Chinese brand Li-Ning after Under Armour split",
+            "content": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4g4vqex028o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/520c/live/a9b4d820-5cea-11f1-81d4-4b01427112e9.jpg",
+            "link": "https://www.bbc.com/news/articles/cj9pky3ldddo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9abb/live/e05033c0-5e16-11f1-979c-f74a1f312f08.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-34ee31",
+            "id": "b2b-960ad9",
             "tag": "B2B营销",
-            "title": "A year of grief and waiting: What remains when a plane falls from the sky",
-            "content": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+            "title": "AI giant Anthropic says it plans to list on US stock market",
+            "content": "AI giant Anthropic says it plans to list on US stock market",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce9pp53ky42o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb02/live/44600940-5b28-11f1-b682-cf91850925ea.png",
+            "link": "https://www.bbc.com/news/articles/c0k203kzp10o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/92f7/live/51e59160-5dd6-11f1-b682-cf91850925ea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7a0662",
+            "id": "b2b-e1b30d",
             "tag": "B2B营销",
-            "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-            "content": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+            "title": "Wise under investigation over money laundering control concerns",
+            "content": "Wise says it is working with the Brussels prosecutor's office but that \"no specific findings have been shared with us to date\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpwpeg57777o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg",
+            "link": "https://www.bbc.com/news/articles/cy42x8ye02vo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76c5/live/ea1f58f0-5db6-11f1-8b6d-5b89cbb85786.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fd86c7",
+            "id": "b2b-2d7c10",
             "tag": "B2B营销",
-            "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-            "content": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+            "content": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1l2y7j7454o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg",
+            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56df/live/5b04bfb0-5df3-11f1-9565-ef0970da1cfe.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ae107a",
+            "id": "wor-3a81bb",
             "tag": "国际要闻",
-            "title": "Iran and US report new wave of air strikes in Gulf",
-            "content": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz.",
+            "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
+            "content": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e64/live/191ae050-5d73-11f1-860b-7bba4d9031fa.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e640/live/ed0966d0-5e35-11f1-9786-1931b5c24ea1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d838a1",
+            "id": "wor-5d5496",
             "tag": "国际要闻",
-            "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-            "content": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+            "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+            "content": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdep04kzz5wo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c202rxp1z15o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f83fe8",
+            "id": "wor-4dc723",
             "tag": "国际要闻",
-            "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-            "content": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+            "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+            "content": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cedp3lee059o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/08db/live/a5895d30-5db6-11f1-8b6d-5b89cbb85786.jpg",
             "category": "world"
       }
 ],
