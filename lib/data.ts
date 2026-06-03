@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-02 05:10:30
+// Auto-generated news data at 2026-06-03 05:25:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月02日',
-  update_time: '2026-06-02 05:10:30',
+  date: '2026年06月03日',
+  update_time: '2026-06-03 05:25:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-3b22f2",
+            "id": "ai-8b7583",
             "tag": "AI人工智能",
-            "title": "How 'confused' AI rollout hurts firms and baffles staff",
-            "content": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+            "title": "Publishers in UK can opt out of Google AI search results",
+            "content": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c74d1ydv01eo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b7c7/live/85925530-5033-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c775pp26yz5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f805/live/92789b10-5e9d-11f1-be30-5d712cf191bd.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-2437fe",
+            "id": "ai-af5d51",
             "tag": "AI人工智能",
-            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-            "content": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+            "title": "Do you find yourself aimlessly scrolling? You're not alone",
+            "content": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56df/live/5b04bfb0-5df3-11f1-9565-ef0970da1cfe.jpg",
+            "link": "https://www.bbc.com/news/articles/czd2mq505dpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d94/live/98bfae50-5e66-11f1-9e22-3514086b3d4d.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-300066",
+            "id": "ai-1b9066",
             "tag": "AI人工智能",
-            "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-            "content": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
+            "title": "Microsoft testing wearable AI gadget aimed at office workers",
+            "content": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1da9/live/87ea54d0-5dae-11f1-8132-9508271dd882.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2ac079",
+            "id": "b2b-9957a1",
             "tag": "B2B营销",
-            "title": "Steph Curry signs with Chinese brand Li-Ning after Under Armour split",
-            "content": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
+            "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+            "content": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cj9pky3ldddo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9abb/live/e05033c0-5e16-11f1-979c-f74a1f312f08.jpg",
+            "link": "https://www.bbc.com/news/articles/c3928m30v89o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8519/live/55388150-5ea4-11f1-9c69-5be5e9be5821.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-960ad9",
+            "id": "b2b-4afe86",
             "tag": "B2B营销",
-            "title": "AI giant Anthropic says it plans to list on US stock market",
-            "content": "AI giant Anthropic says it plans to list on US stock market",
+            "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+            "content": "The Bank of England is asking the public which animals should appear on future banknotes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0k203kzp10o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/92f7/live/51e59160-5dd6-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c174/live/30ee9420-5dbd-11f1-b682-cf91850925ea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e1b30d",
+            "id": "b2b-33e07a",
             "tag": "B2B营销",
-            "title": "Wise under investigation over money laundering control concerns",
-            "content": "Wise says it is working with the Brussels prosecutor's office but that \"no specific findings have been shared with us to date\".",
+            "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
+            "content": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy42x8ye02vo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76c5/live/ea1f58f0-5db6-11f1-8b6d-5b89cbb85786.jpg",
+            "link": "https://www.bbc.com/news/articles/czr2dlerv0zo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d128/live/be4ec750-5eed-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2d7c10",
+            "id": "b2b-d98229",
             "tag": "B2B营销",
-            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-            "content": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+            "title": "Microsoft testing wearable AI gadget aimed at office workers",
+            "content": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56df/live/5b04bfb0-5df3-11f1-9565-ef0970da1cfe.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3a81bb",
+            "id": "wor-888750",
             "tag": "国际要闻",
-            "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
-            "content": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
+            "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+            "content": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e640/live/ed0966d0-5e35-11f1-9786-1931b5c24ea1.jpg",
+            "link": "https://www.bbc.com/news/articles/c936zvne0l6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5d5496",
+            "id": "wor-36242d",
             "tag": "国际要闻",
-            "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-            "content": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
+            "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+            "content": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c202rxp1z15o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
+            "link": "https://www.bbc.com/news/articles/c5yx135yg53o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2c96/live/bd99f610-5ec8-11f1-9a1b-293f5ae3cc4e.png",
             "category": "world"
       },
       {
-            "id": "wor-4dc723",
+            "id": "wor-a60d63",
             "tag": "国际要闻",
-            "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-            "content": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+            "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+            "content": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cedp3lee059o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/08db/live/a5895d30-5db6-11f1-8b6d-5b89cbb85786.jpg",
+            "link": "https://www.bbc.com/news/articles/cy82339793go",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       }
 ],
