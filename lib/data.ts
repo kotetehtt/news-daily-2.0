@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-03 05:25:28
+// Auto-generated news data at 2026-06-04 05:20:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月03日',
-  update_time: '2026-06-03 05:25:28',
+  date: '2026年06月04日',
+  update_time: '2026-06-04 05:20:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-8b7583",
+            "id": "ai-b3a036",
             "tag": "AI人工智能",
-            "title": "Publishers in UK can opt out of Google AI search results",
-            "content": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
+            "title": "Phone signal on trains not good enough most of the time, research says",
+            "content": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c775pp26yz5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f805/live/92789b10-5e9d-11f1-be30-5d712cf191bd.jpg",
+            "link": "https://www.bbc.com/news/articles/c5yr1penq56o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cd99/live/c2e3f350-5f4f-11f1-ae51-c396b5163a64.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-af5d51",
+            "id": "ai-0e81f5",
             "tag": "AI人工智能",
-            "title": "Do you find yourself aimlessly scrolling? You're not alone",
-            "content": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
+            "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+            "content": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czd2mq505dpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d94/live/98bfae50-5e66-11f1-9e22-3514086b3d4d.jpg",
+            "link": "https://www.bbc.com/news/articles/c9d37gdxp7xo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b4c/live/ed2896a0-5f3d-11f1-89a3-d1f559421220.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-1b9066",
+            "id": "ai-a088c6",
             "tag": "AI人工智能",
-            "title": "Microsoft testing wearable AI gadget aimed at office workers",
-            "content": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
+            "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
+            "content": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
+            "link": "https://www.bbc.com/news/articles/c93x0k194yno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/947f/live/8311e710-5f35-11f1-b9e6-7bbc2b9cb9c1.jpg",
             "category": "ai"
       }
 ],
@@ -216,9 +216,31 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9957a1",
+            "id": "b2b-30d471",
             "tag": "B2B营销",
-            "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+            "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
+            "content": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cvgz237n40jo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d260/live/b4a84e40-5f99-11f1-994c-dd7b6299b2d3.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-92d9da",
+            "tag": "B2B营销",
+            "title": "US announces new tariffs over forced labour concerns",
+            "content": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-a86117",
+            "tag": "B2B营销",
+            "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
             "content": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
             "source": "BBC News",
             "time": "今日",
@@ -227,36 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4afe86",
+            "id": "b2b-f3fdab",
             "tag": "B2B营销",
-            "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+            "title": "The 18 creatures in the running to be on the new banknotes",
             "content": "The Bank of England is asking the public which animals should appear on future banknotes.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c174/live/30ee9420-5dbd-11f1-b682-cf91850925ea.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-33e07a",
-            "tag": "B2B营销",
-            "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-            "content": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czr2dlerv0zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d128/live/be4ec750-5eed-11f1-8b8c-6d33e1d5abb6.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-d98229",
-            "tag": "B2B营销",
-            "title": "Microsoft testing wearable AI gadget aimed at office workers",
-            "content": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-888750",
+            "id": "wor-0c3a0d",
             "tag": "国际要闻",
-            "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-            "content": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+            "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+            "content": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c936zvne0l6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       },
       {
-            "id": "wor-36242d",
+            "id": "wor-532344",
             "tag": "国际要闻",
-            "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
-            "content": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
+            "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+            "content": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5yx135yg53o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2c96/live/bd99f610-5ec8-11f1-9a1b-293f5ae3cc4e.png",
+            "link": "https://www.bbc.com/news/articles/cj6pldg39deo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a60d63",
+            "id": "wor-1f841e",
             "tag": "国际要闻",
-            "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-            "content": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+            "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+            "content": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy82339793go",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg",
             "category": "world"
       }
 ],
