@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-04 05:20:39
+// Auto-generated news data at 2026-06-05 04:56:06
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月04日',
-  update_time: '2026-06-04 05:20:39',
+  date: '2026年06月05日',
+  update_time: '2026-06-05 04:56:06',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-b3a036",
+            "id": "ai-ef9de1",
             "tag": "AI人工智能",
-            "title": "Phone signal on trains not good enough most of the time, research says",
-            "content": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi.",
+            "title": "The ancient trick making food waste useful and tasty",
+            "content": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5yr1penq56o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cd99/live/c2e3f350-5f4f-11f1-ae51-c396b5163a64.jpg",
+            "link": "https://www.bbc.com/news/articles/c78kmj2kyklo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e61/live/8661ed20-5297-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-0e81f5",
+            "id": "ai-9481d8",
             "tag": "AI人工智能",
-            "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
-            "content": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
+            "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+            "content": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9d37gdxp7xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b4c/live/ed2896a0-5f3d-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y71106g07o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e3e4/live/b6ae4610-600a-11f1-b2a6-1d4191f0f436.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-a088c6",
+            "id": "ai-6902fc",
             "tag": "AI人工智能",
-            "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
-            "content": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
+            "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+            "content": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/947f/live/8311e710-5f35-11f1-b9e6-7bbc2b9cb9c1.jpg",
+            "link": "https://www.bbc.com/news/articles/cx2124z7g45o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-30d471",
+            "id": "b2b-760e3f",
             "tag": "B2B营销",
-            "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
-            "content": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
+            "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+            "content": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgz237n40jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d260/live/b4a84e40-5f99-11f1-994c-dd7b6299b2d3.jpg",
+            "link": "https://www.bbc.com/news/articles/cx2124z7g45o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-92d9da",
+            "id": "b2b-63bdb2",
             "tag": "B2B营销",
-            "title": "US announces new tariffs over forced labour concerns",
-            "content": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+            "title": "British Heart Foundation plans to close 150 charity shops",
+            "content": "The charity says it is facing \"an exceptionally challenging trading environment\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgzg48d9q0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3b5b/live/452c6a40-6068-11f1-89f7-47e36b8faab0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a86117",
+            "id": "b2b-522d4e",
             "tag": "B2B营销",
-            "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
-            "content": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+            "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+            "content": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3928m30v89o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8519/live/55388150-5ea4-11f1-9c69-5be5e9be5821.jpg",
+            "link": "https://www.bbc.com/news/articles/clypy34pj6yo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/01fe/live/b7319ce0-6078-11f1-8ba8-b772d95cbb2a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f3fdab",
+            "id": "b2b-2c9d7f",
             "tag": "B2B营销",
-            "title": "The 18 creatures in the running to be on the new banknotes",
-            "content": "The Bank of England is asking the public which animals should appear on future banknotes.",
+            "title": "Trump announces $700m coal investment using wartime powers",
+            "content": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c174/live/30ee9420-5dbd-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cy0209r62k5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c871/live/46bc1be0-6071-11f1-87ff-e9c4a52fea2b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-0c3a0d",
+            "id": "wor-69f96c",
             "tag": "国际要闻",
-            "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-            "content": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+            "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+            "content": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
             "category": "world"
       },
       {
-            "id": "wor-532344",
+            "id": "wor-0949f7",
             "tag": "国际要闻",
-            "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
-            "content": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+            "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+            "content": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cj6pldg39deo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/c052343r812o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1f841e",
+            "id": "wor-7d0f1a",
             "tag": "国际要闻",
-            "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-            "content": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+            "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+            "content": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg",
+            "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6465/live/58a61730-600c-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       }
 ],
