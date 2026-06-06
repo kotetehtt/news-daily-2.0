@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-05 04:56:06
+// Auto-generated news data at 2026-06-06 04:36:26
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月05日',
-  update_time: '2026-06-05 04:56:06',
+  date: '2026年06月06日',
+  update_time: '2026-06-06 04:36:26',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-ef9de1",
+            "id": "ai-7c1bfc",
             "tag": "AI人工智能",
-            "title": "The ancient trick making food waste useful and tasty",
-            "content": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+            "title": "Trump to meet AI leaders to discuss US investment in their companies",
+            "content": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c78kmj2kyklo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e61/live/8661ed20-5297-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9481d8",
+            "id": "ai-121810",
             "tag": "AI人工智能",
-            "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-            "content": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
+            "title": "Raspberry Pi raises profit forecast as AI demand grows",
+            "content": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y71106g07o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e3e4/live/b6ae4610-600a-11f1-b2a6-1d4191f0f436.jpg",
+            "link": "https://www.bbc.com/news/articles/czx2x3yl9rgo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3f8b/live/a6093d80-60d5-11f1-a287-e3696ffd679c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-6902fc",
+            "id": "ai-bfaa67",
             "tag": "AI人工智能",
-            "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
-            "content": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+            "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
+            "content": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2124z7g45o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg",
+            "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg",
             "category": "ai"
       }
 ],
@@ -216,9 +216,9 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-760e3f",
+            "id": "b2b-8eb737",
             "tag": "B2B营销",
-            "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+            "title": "We need to stop AI developing without humans, says Anthropic co-founder",
             "content": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
             "source": "BBC News",
             "time": "今日",
@@ -227,36 +227,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-63bdb2",
+            "id": "b2b-5ce79d",
             "tag": "B2B营销",
-            "title": "British Heart Foundation plans to close 150 charity shops",
-            "content": "The charity says it is facing \"an exceptionally challenging trading environment\".",
+            "title": "Trump to meet AI leaders to discuss US investment in their companies",
+            "content": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzg48d9q0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3b5b/live/452c6a40-6068-11f1-89f7-47e36b8faab0.jpg",
+            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-522d4e",
+            "id": "b2b-e723d6",
             "tag": "B2B营销",
-            "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-            "content": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+            "title": "US stocks slump as fears over Big Tech shake Wall Street",
+            "content": "The Nasdaq saw its biggest daily fall since early 2025.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clypy34pj6yo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/01fe/live/b7319ce0-6078-11f1-8ba8-b772d95cbb2a.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb5f/live/3a5bfce0-6124-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2c9d7f",
+            "id": "b2b-7662a9",
             "tag": "B2B营销",
-            "title": "Trump announces $700m coal investment using wartime powers",
-            "content": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
+            "title": "Who can buy shares in Elon Musk's SpaceX?",
+            "content": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy0209r62k5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c871/live/46bc1be0-6071-11f1-87ff-e9c4a52fea2b.jpg",
+            "link": "https://www.bbc.com/news/articles/czx299wpp56o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1c7/live/4c7073c0-6034-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-69f96c",
+            "id": "wor-0dae62",
             "tag": "国际要闻",
-            "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-            "content": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+            "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+            "content": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+            "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0949f7",
+            "id": "wor-094fbf",
             "tag": "国际要闻",
-            "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-            "content": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+            "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+            "content": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c052343r812o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
+            "link": "https://www.bbc.com/news/articles/c707098wkzpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/590d/live/6821ba00-60f9-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7d0f1a",
+            "id": "wor-2ac45b",
             "tag": "国际要闻",
-            "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-            "content": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+            "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+            "content": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6465/live/58a61730-600c-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c5y7yryg01mo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg",
             "category": "world"
       }
 ],
