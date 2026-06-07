@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-06 04:36:26
+// Auto-generated news data at 2026-06-07 05:06:18
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月06日',
-  update_time: '2026-06-06 04:36:26',
+  date: '2026年06月07日',
+  update_time: '2026-06-07 05:06:18',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-504270",
+            "tag": "AI人工智能",
+            "title": "The gamers taking on the industry to stop it switching off games",
+            "content": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/514b/live/1dd0c530-60be-11f1-bca0-e975c953fcd1.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-7c1bfc",
             "tag": "AI人工智能",
             "title": "Trump to meet AI leaders to discuss US investment in their companies",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/czx2x3yl9rgo",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3f8b/live/a6093d80-60d5-11f1-a287-e3696ffd679c.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-bfaa67",
-            "tag": "AI人工智能",
-            "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
-            "content": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-0dae62",
+            "id": "wor-9b858b",
             "tag": "国际要闻",
-            "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-            "content": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+            "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+            "content": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg",
+            "link": "https://www.bbc.com/news/articles/cg7498kz808o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
             "category": "world"
       },
       {
-            "id": "wor-094fbf",
+            "id": "wor-d8217a",
             "tag": "国际要闻",
-            "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-            "content": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+            "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+            "content": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c707098wkzpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/590d/live/6821ba00-60f9-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2ac45b",
+            "id": "wor-979343",
             "tag": "国际要闻",
-            "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-            "content": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+            "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+            "content": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5y7yryg01mo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg",
+            "link": "https://www.bbc.com/news/articles/c802e7jk458o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/82e7/live/c3681e00-61ed-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       }
 ],
