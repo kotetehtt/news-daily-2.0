@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-07 05:06:18
+// Auto-generated news data at 2026-06-08 05:11:59
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月07日',
-  update_time: '2026-06-07 05:06:18',
+  date: '2026年06月08日',
+  update_time: '2026-06-08 05:11:59',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8eb737",
+            "id": "b2b-c83b9e",
             "tag": "B2B营销",
-            "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-            "content": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+            "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+            "content": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2124z7g45o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg",
+            "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bfa4/live/426f4c70-62e1-11f1-9a4b-dd5933001427.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5ce79d",
+            "id": "b2b-10c59b",
             "tag": "B2B营销",
-            "title": "Trump to meet AI leaders to discuss US investment in their companies",
-            "content": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+            "title": "M&S launches new traineeship for 1,000 young people",
+            "content": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg",
+            "link": "https://www.bbc.com/news/articles/cr7xr3dvxp9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2bb4/live/57ade640-6256-11f1-be00-fb33099ec41d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e723d6",
+            "id": "b2b-0d757d",
             "tag": "B2B营销",
-            "title": "US stocks slump as fears over Big Tech shake Wall Street",
-            "content": "The Nasdaq saw its biggest daily fall since early 2025.",
+            "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+            "content": "The European country had 9.1 million international visitors in April, the most ever for that month.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb5f/live/3a5bfce0-6124-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gvndd2qelo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bbd8/live/0fc580a0-5fe4-11f1-89a3-d1f559421220.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7662a9",
+            "id": "b2b-15ccd1",
             "tag": "B2B营销",
-            "title": "Who can buy shares in Elon Musk's SpaceX?",
-            "content": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
+            "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+            "content": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx299wpp56o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1c7/live/4c7073c0-6034-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/cnvpn253re4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fd0/live/251e9ba0-60eb-11f1-92fe-5faf9b4f0321.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9b858b",
+            "id": "wor-d41a98",
             "tag": "国际要闻",
-            "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-            "content": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+            "title": "Israel strikes Beirut suburb days after US-brokered truce",
+            "content": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cg7498kz808o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
+            "link": "https://www.bbc.com/news/articles/c0qyevk8139o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d8217a",
+            "id": "wor-de6632",
             "tag": "国际要闻",
-            "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-            "content": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+            "title": "Zelensky's close European allies set out five conditions for peace talks",
+            "content": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8377/live/19ba4ba0-62b8-11f1-acb9-e1f505bb1661.jpg",
             "category": "world"
       },
       {
-            "id": "wor-979343",
+            "id": "wor-57bb60",
             "tag": "国际要闻",
-            "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-            "content": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+            "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+            "content": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c802e7jk458o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/82e7/live/c3681e00-61ed-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cx212p8r28eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5caf/live/02106910-60d0-11f1-89a3-d1f559421220.jpg",
             "category": "world"
       }
 ],
