@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-08 05:11:59
+// Auto-generated news data at 2026-06-09 04:44:50
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月08日',
-  update_time: '2026-06-08 05:11:59',
+  date: '2026年06月09日',
+  update_time: '2026-06-09 04:44:50',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-504270",
+            "id": "ai-0d059d",
             "tag": "AI人工智能",
-            "title": "The gamers taking on the industry to stop it switching off games",
-            "content": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
+            "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+            "content": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/514b/live/1dd0c530-60be-11f1-bca0-e975c953fcd1.jpg",
+            "link": "https://www.bbc.com/news/articles/cd958eqg1n5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7c1bfc",
+            "id": "ai-8b6f36",
             "tag": "AI人工智能",
-            "title": "Trump to meet AI leaders to discuss US investment in their companies",
-            "content": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+            "title": "Could humanoid robots be heading for the battlefield?",
+            "content": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg",
+            "link": "https://www.bbc.com/news/articles/cedpxwe26l1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d78/live/f2f74de0-5387-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-121810",
+            "id": "ai-21caff",
             "tag": "AI人工智能",
-            "title": "Raspberry Pi raises profit forecast as AI demand grows",
-            "content": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026.",
+            "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+            "content": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx2x3yl9rgo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3f8b/live/a6093d80-60d5-11f1-a287-e3696ffd679c.jpg",
+            "link": "https://www.bbc.com/news/articles/cnv9dr996v8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05e0/live/e8ad0890-637a-11f1-b382-59f565e05e9c.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-c83b9e",
+            "id": "b2b-b075e3",
             "tag": "B2B营销",
-            "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-            "content": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
+            "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+            "content": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bfa4/live/426f4c70-62e1-11f1-9a4b-dd5933001427.jpg",
+            "link": "https://www.bbc.com/news/articles/cd958eqg1n5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-10c59b",
+            "id": "b2b-57f336",
             "tag": "B2B营销",
-            "title": "M&S launches new traineeship for 1,000 young people",
-            "content": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
+            "title": "US adds BYD to list of firms with alleged Chinese military ties",
+            "content": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cr7xr3dvxp9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2bb4/live/57ade640-6256-11f1-be00-fb33099ec41d.jpg",
+            "link": "https://www.bbc.com/news/articles/c75y6e5p9reo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e75e/live/fed6e420-639c-11f1-a458-bdcf0d8cd59b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0d757d",
+            "id": "b2b-a4446d",
             "tag": "B2B营销",
-            "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-            "content": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+            "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+            "content": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gvndd2qelo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bbd8/live/0fc580a0-5fe4-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-15ccd1",
+            "id": "b2b-89b221",
             "tag": "B2B营销",
-            "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-            "content": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+            "title": "Driving test booking rules tightened after thousands of no shows",
+            "content": "Learner drivers can only swap their test to the three centres nearest to their original booking.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cnvpn253re4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fd0/live/251e9ba0-60eb-11f1-92fe-5faf9b4f0321.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gyel9n02zo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed13/live/eb9d4750-6351-11f1-9ab1-e7b37d275c11.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d41a98",
+            "id": "wor-7cfbbe",
             "tag": "国际要闻",
-            "title": "Israel strikes Beirut suburb days after US-brokered truce",
-            "content": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+            "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+            "content": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0qyevk8139o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg",
+            "link": "https://www.bbc.com/news/articles/cj6ge150z5go",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b893/live/37578f50-63bd-11f1-9da2-67f039688aec.jpg",
             "category": "world"
       },
       {
-            "id": "wor-de6632",
+            "id": "wor-f500ec",
             "tag": "国际要闻",
-            "title": "Zelensky's close European allies set out five conditions for peace talks",
-            "content": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
+            "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+            "content": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8377/live/19ba4ba0-62b8-11f1-acb9-e1f505bb1661.jpg",
+            "link": "https://www.bbc.com/news/videos/cd958e7j8q9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/305a/live/a96b31c0-6389-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-57bb60",
+            "id": "wor-03f0e8",
             "tag": "国际要闻",
-            "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-            "content": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+            "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+            "content": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx212p8r28eo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5caf/live/02106910-60d0-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/cp8lm75186lo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ebdf/live/c889b160-6395-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       }
 ],
