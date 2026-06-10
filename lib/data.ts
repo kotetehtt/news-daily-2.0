@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-09 04:44:50
+// Auto-generated news data at 2026-06-10 04:56:48
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月09日',
-  update_time: '2026-06-09 04:44:50',
+  date: '2026年06月10日',
+  update_time: '2026-06-10 04:56:48',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-0d059d",
+            "id": "ai-16ec64",
             "tag": "AI人工智能",
-            "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-            "content": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+            "title": "Kalshi to make some users reveal job details to tackle insider trading",
+            "content": "After issues with insider trading, the prediction betting platform is adding new rules.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd958eqg1n5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
+            "link": "https://www.bbc.com/news/articles/cx2vn7wp33po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ffd3/live/4fd303f0-644b-11f1-b85d-d958efe4702d.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-8b6f36",
+            "id": "ai-03802f",
             "tag": "AI人工智能",
-            "title": "Could humanoid robots be heading for the battlefield?",
-            "content": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+            "title": "Version of AI tool 'too powerful for public' released to public",
+            "content": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cedpxwe26l1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d78/live/f2f74de0-5387-11f1-8b8c-6d33e1d5abb6.jpg",
+            "link": "https://www.bbc.com/news/articles/ckg701v1dp6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-21caff",
+            "id": "ai-62afed",
             "tag": "AI人工智能",
-            "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-            "content": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps.",
+            "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+            "content": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cnv9dr996v8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05e0/live/e8ad0890-637a-11f1-b382-59f565e05e9c.jpg",
+            "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e2d6/live/9a3ff590-6420-11f1-b421-199136196dd5.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b075e3",
+            "id": "b2b-ebe2bd",
             "tag": "B2B营销",
-            "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-            "content": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+            "title": "World's largest chipmaker does not rule out price rises as costs increase",
+            "content": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd958eqg1n5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
+            "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-57f336",
+            "id": "b2b-688dab",
             "tag": "B2B营销",
-            "title": "US adds BYD to list of firms with alleged Chinese military ties",
-            "content": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+            "title": "How to enjoy the World Cup - and keep your boss on side",
+            "content": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c75y6e5p9reo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e75e/live/fed6e420-639c-11f1-a458-bdcf0d8cd59b.jpg",
+            "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5904/live/3e5cd850-641c-11f1-9216-c3eba4acaf31.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a4446d",
+            "id": "b2b-8ae013",
             "tag": "B2B营销",
-            "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-            "content": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
+            "title": "Bill debt soars but many don't know help is available",
+            "content": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8541/live/b73af030-63f0-11f1-abe1-f36e5ae3bba8.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-89b221",
+            "id": "b2b-6478f8",
             "tag": "B2B营销",
-            "title": "Driving test booking rules tightened after thousands of no shows",
-            "content": "Learner drivers can only swap their test to the three centres nearest to their original booking.",
+            "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
+            "content": "The mask is not \"clinically proven to reduce wrinkles in four weeks\", the advertising watchdog finds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyel9n02zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed13/live/eb9d4750-6351-11f1-9ab1-e7b37d275c11.jpg",
+            "link": "https://www.bbc.com/news/articles/c892lj7xn02o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e698/live/f5bbf290-63e2-11f1-a3a0-bfd230095adb.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7cfbbe",
+            "id": "wor-180def",
             "tag": "国际要闻",
-            "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-            "content": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+            "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+            "content": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cj6ge150z5go",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b893/live/37578f50-63bd-11f1-9da2-67f039688aec.jpg",
+            "link": "https://www.bbc.com/news/articles/c20y6966xqzo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f500ec",
+            "id": "wor-26d8cc",
             "tag": "国际要闻",
-            "title": "Watch: Trump tells BBC Netanyahu did not defy him",
-            "content": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+            "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
+            "content": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/videos/cd958e7j8q9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/305a/live/a96b31c0-6389-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/cze9359gglyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-03f0e8",
+            "id": "wor-d7de48",
             "tag": "国际要闻",
-            "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-            "content": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+            "title": "World's largest chipmaker does not rule out price rises as costs increase",
+            "content": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cp8lm75186lo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ebdf/live/c889b160-6395-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg",
             "category": "world"
       }
 ],
