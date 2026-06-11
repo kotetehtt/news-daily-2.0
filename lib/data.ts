@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-10 04:56:48
+// Auto-generated news data at 2026-06-11 05:08:29
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月10日',
-  update_time: '2026-06-10 04:56:48',
+  date: '2026年06月11日',
+  update_time: '2026-06-11 05:08:29',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-d9ca38",
+            "tag": "AI人工智能",
+            "title": "Social media on trial: Four important cases to watch",
+            "content": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c9q39l447l4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7dc/live/e50392d0-5ffc-11f1-89a3-d1f559421220.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-16ec64",
             "tag": "AI人工智能",
             "title": "Kalshi to make some users reveal job details to tackle insider trading",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/ckg701v1dp6o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-62afed",
-            "tag": "AI人工智能",
-            "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-            "content": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e2d6/live/9a3ff590-6420-11f1-b421-199136196dd5.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-ebe2bd",
+            "id": "b2b-04bf39",
             "tag": "B2B营销",
-            "title": "World's largest chipmaker does not rule out price rises as costs increase",
-            "content": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+            "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+            "content": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg",
+            "link": "https://www.bbc.com/news/articles/c07y92gplmyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cdd3/live/930ddea0-651e-11f1-ac28-17d6b833da1d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-688dab",
+            "id": "b2b-1e77e0",
             "tag": "B2B营销",
-            "title": "How to enjoy the World Cup - and keep your boss on side",
-            "content": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
+            "title": "The furious dispute over what caused Air India flight 171 to crash",
+            "content": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5904/live/3e5cd850-641c-11f1-9216-c3eba4acaf31.jpg",
+            "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed7c/live/3e56e6a0-64a5-11f1-b1db-af71d47507d6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8ae013",
+            "id": "b2b-e34d8c",
             "tag": "B2B营销",
-            "title": "Bill debt soars but many don't know help is available",
-            "content": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+            "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+            "content": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8541/live/b73af030-63f0-11f1-abe1-f36e5ae3bba8.jpg",
+            "link": "https://www.bbc.com/news/articles/cd0mg79ggm0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8351/live/77446c20-64bf-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6478f8",
+            "id": "b2b-a8a405",
             "tag": "B2B营销",
-            "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
-            "content": "The mask is not \"clinically proven to reduce wrinkles in four weeks\", the advertising watchdog finds.",
+            "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+            "content": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c892lj7xn02o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e698/live/f5bbf290-63e2-11f1-a3a0-bfd230095adb.jpg",
+            "link": "https://www.bbc.com/news/articles/c0myzxjkw99o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-180def",
+            "id": "wor-140b56",
             "tag": "国际要闻",
-            "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-            "content": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+            "title": "US and Iran exchange strikes across Middle East for second day in a row",
+            "content": "The US carries out strikes on military targets in southern Iran. Tehran responds by targeting US military assets in Kuwait, Bahrain and Jordan.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c20y6966xqzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de8b/live/3a5bcf80-653a-11f1-8930-2fc51b460c39.jpg",
             "category": "world"
       },
       {
-            "id": "wor-26d8cc",
+            "id": "wor-ce389d",
             "tag": "国际要闻",
-            "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
-            "content": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+            "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+            "content": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cze9359gglyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg",
+            "link": "https://www.bbc.com/news/articles/c0myzxjkw99o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d7de48",
+            "id": "wor-476bf7",
             "tag": "国际要闻",
-            "title": "World's largest chipmaker does not rule out price rises as costs increase",
-            "content": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+            "title": "The furious dispute over what caused Air India flight 171 to crash",
+            "content": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg",
+            "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed7c/live/3e56e6a0-64a5-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       }
 ],
