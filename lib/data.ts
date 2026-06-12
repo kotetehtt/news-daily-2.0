@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-11 05:08:29
+// Auto-generated news data at 2026-06-12 05:13:38
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月11日',
-  update_time: '2026-06-11 05:08:29',
+  date: '2026年06月12日',
+  update_time: '2026-06-12 05:13:38',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-8fdd6b",
+            "tag": "AI人工智能",
+            "title": "India's 'blue gold' starts a new drinks industry",
+            "content": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4da3/live/edc38a50-58eb-11f1-b682-cf91850925ea.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-1dd94d",
+            "tag": "AI人工智能",
+            "title": "Who is Elon Musk and what is his net worth?",
+            "content": "The boss of X, Tesla and SpaceX is the world's richest person - and might even soon become a trillionaire.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c0r1975ded7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6512/live/d31cff00-65a8-11f1-b0b4-ff7d574215ed.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-d9ca38",
             "tag": "AI人工智能",
             "title": "Social media on trial: Four important cases to watch",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c9q39l447l4o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7dc/live/e50392d0-5ffc-11f1-89a3-d1f559421220.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-16ec64",
-            "tag": "AI人工智能",
-            "title": "Kalshi to make some users reveal job details to tackle insider trading",
-            "content": "After issues with insider trading, the prediction betting platform is adding new rules.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2vn7wp33po",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ffd3/live/4fd303f0-644b-11f1-b85d-d958efe4702d.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-03802f",
-            "tag": "AI人工智能",
-            "title": "Version of AI tool 'too powerful for public' released to public",
-            "content": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ckg701v1dp6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-04bf39",
+            "id": "b2b-337542",
             "tag": "B2B营销",
-            "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-            "content": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+            "title": "Why the economics make this the craziest World Cup ever",
+            "content": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c07y92gplmyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cdd3/live/930ddea0-651e-11f1-ac28-17d6b833da1d.jpg",
+            "link": "https://www.bbc.com/news/articles/cpv32417nlwo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bf58/live/e0108980-65a7-11f1-b1db-af71d47507d6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1e77e0",
+            "id": "b2b-aaf861",
             "tag": "B2B营销",
-            "title": "The furious dispute over what caused Air India flight 171 to crash",
-            "content": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+            "title": "My friends always want to split the bill equally, how do I say no?",
+            "content": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed7c/live/3e56e6a0-64a5-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/czxqdznzy7ro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1fd/live/ba3a51f0-65bb-11f1-bdbe-7dc6d39617db.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e34d8c",
+            "id": "b2b-51e271",
             "tag": "B2B营销",
-            "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
-            "content": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
+            "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
+            "content": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd0mg79ggm0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8351/live/77446c20-64bf-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy034q89j4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3800/live/3c948cc0-65cf-11f1-94fa-99c9438be586.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a8a405",
+            "id": "b2b-126056",
             "tag": "B2B营销",
-            "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-            "content": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+            "title": "Ryanair investigated over charging parents to sit with children",
+            "content": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0myzxjkw99o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg",
+            "link": "https://www.bbc.com/news/articles/czj87rvx349o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff23/live/748ee4d0-658a-11f1-b1db-af71d47507d6.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-140b56",
+            "id": "wor-02e040",
             "tag": "国际要闻",
-            "title": "US and Iran exchange strikes across Middle East for second day in a row",
-            "content": "The US carries out strikes on military targets in southern Iran. Tehran responds by targeting US military assets in Kuwait, Bahrain and Jordan.",
+            "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+            "content": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de8b/live/3a5bcf80-653a-11f1-8930-2fc51b460c39.jpg",
+            "link": "https://www.bbc.com/news/articles/c78y6w78828o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19ee/live/31485490-661b-11f1-ac3e-c1a2e88f59e9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ce389d",
+            "id": "wor-b7d5d8",
             "tag": "国际要闻",
-            "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-            "content": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+            "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+            "content": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0myzxjkw99o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg",
+            "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/2d59dbf0-65d1-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-476bf7",
+            "id": "wor-530b27",
             "tag": "国际要闻",
-            "title": "The furious dispute over what caused Air India flight 171 to crash",
-            "content": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+            "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+            "content": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed7c/live/3e56e6a0-64a5-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgzzndx780o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a45a/live/20223720-582a-11f1-8df1-478734c7d1a9.jpg",
             "category": "world"
       }
 ],
