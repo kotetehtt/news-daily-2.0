@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-12 05:13:38
+// Auto-generated news data at 2026-06-13 05:00:33
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月12日',
-  update_time: '2026-06-12 05:13:38',
+  date: '2026年06月13日',
+  update_time: '2026-06-13 05:00:33',
   banner: [
       {
             "id": "ai-001",
@@ -100,21 +100,21 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-8fdd6b",
+            "id": "ai-11d570",
             "tag": "AI人工智能",
-            "title": "India's 'blue gold' starts a new drinks industry",
-            "content": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+            "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+            "content": "The BBC breaks down how the tech mogul's fortune has grown.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4da3/live/edc38a50-58eb-11f1-b682-cf91850925ea.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gyp523ly8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/02a3/live/56817dd0-6680-11f1-b1db-af71d47507d6.png",
             "category": "ai"
       },
       {
             "id": "ai-1dd94d",
             "tag": "AI人工智能",
             "title": "Who is Elon Musk and what is his net worth?",
-            "content": "The boss of X, Tesla and SpaceX is the world's richest person - and might even soon become a trillionaire.",
+            "content": "The boss of X, Tesla and SpaceX, already the world's richest person, is now also its first trillionaire.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c0r1975ded7o",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-337542",
+            "id": "b2b-2a48e1",
             "tag": "B2B营销",
-            "title": "Why the economics make this the craziest World Cup ever",
-            "content": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+            "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+            "content": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpv32417nlwo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bf58/live/e0108980-65a7-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-aaf861",
+            "id": "b2b-f9f36d",
             "tag": "B2B营销",
-            "title": "My friends always want to split the bill equally, how do I say no?",
-            "content": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+            "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+            "content": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czxqdznzy7ro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1fd/live/ba3a51f0-65bb-11f1-bdbe-7dc6d39617db.jpg",
+            "link": "https://www.bbc.com/news/articles/ceqdl8xre7qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0b2d/live/d76ca2d0-6694-11f1-ba1a-d91f8cef28c9.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-51e271",
+            "id": "b2b-40d64f",
             "tag": "B2B营销",
-            "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-            "content": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+            "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+            "content": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy034q89j4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3800/live/3c948cc0-65cf-11f1-94fa-99c9438be586.jpg",
+            "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0e6b/live/d55152a0-6641-11f1-8546-8f19e4fe30f4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-126056",
+            "id": "b2b-f1e1a3",
             "tag": "B2B营销",
-            "title": "Ryanair investigated over charging parents to sit with children",
-            "content": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+            "title": "UK economy contracts as Iran war impact felt",
+            "content": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czj87rvx349o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff23/live/748ee4d0-658a-11f1-b1db-af71d47507d6.png",
+            "link": "https://www.bbc.com/news/articles/c77y47248k4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ce7/live/edd669e0-657f-11f1-9f01-693d064aea27.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-02e040",
+            "id": "wor-676151",
             "tag": "国际要闻",
-            "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-            "content": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
+            "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+            "content": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c78y6w78828o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19ee/live/31485490-661b-11f1-ac3e-c1a2e88f59e9.jpg",
+            "link": "https://www.bbc.com/news/articles/c39y02x98k8o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b7d5d8",
+            "id": "wor-bc5b74",
             "tag": "国际要闻",
-            "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-            "content": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+            "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+            "content": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/2d59dbf0-65d1-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg",
             "category": "world"
       },
       {
-            "id": "wor-530b27",
+            "id": "wor-06513f",
             "tag": "国际要闻",
-            "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-            "content": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+            "title": "French town buries murdered child as questions mount over police failings",
+            "content": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgzzndx780o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a45a/live/20223720-582a-11f1-8df1-478734c7d1a9.jpg",
+            "link": "https://www.bbc.com/news/articles/cy9rq21dqego",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9052/live/f8e9bda0-6679-11f1-b44a-dfe6fe570742.jpg",
             "category": "world"
       }
 ],
