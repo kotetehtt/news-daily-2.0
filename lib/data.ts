@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-13 05:00:33
+// Auto-generated news data at 2026-06-14 05:15:38
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月13日',
-  update_time: '2026-06-13 05:00:33',
+  date: '2026年06月14日',
+  update_time: '2026-06-14 05:15:38',
   banner: [
       {
             "id": "ai-001",
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-676151",
+            "id": "wor-c5a277",
             "tag": "国际要闻",
-            "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-            "content": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+            "content": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c39y02x98k8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg",
+            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bc5b74",
+            "id": "wor-9d9f4b",
             "tag": "国际要闻",
-            "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-            "content": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+            "title": "Switzerland to vote on plan to cap population at 10 million",
+            "content": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg",
+            "link": "https://www.bbc.com/news/articles/cx23kz7e76po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg",
             "category": "world"
       },
       {
-            "id": "wor-06513f",
+            "id": "wor-ee1276",
             "tag": "国际要闻",
-            "title": "French town buries murdered child as questions mount over police failings",
-            "content": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+            "title": "Nigerian author accuses hospital of stalling review into her son's death",
+            "content": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy9rq21dqego",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9052/live/f8e9bda0-6679-11f1-b44a-dfe6fe570742.jpg",
+            "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e80/live/e9ef2460-677e-11f1-9177-9b1b06fa8e36.jpg",
             "category": "world"
       }
 ],
