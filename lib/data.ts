@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-14 05:15:38
+// Auto-generated news data at 2026-06-15 05:36:25
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月14日',
-  update_time: '2026-06-14 05:15:38',
+  date: '2026年06月15日',
+  update_time: '2026-06-15 05:36:25',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2a48e1",
+            "id": "b2b-13c2db",
             "tag": "B2B营销",
-            "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-            "content": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+            "title": "Oil prices slide after US-Iran deal announced",
+            "content": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg",
+            "link": "https://www.bbc.com/news/articles/c6217106px6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7640/live/4688b200-67d3-11f1-9c4b-77e30dd66647.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f9f36d",
+            "id": "b2b-6d72e9",
             "tag": "B2B营销",
-            "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
-            "content": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
+            "title": "Millions of people can get discounts on their bills - here's how",
+            "content": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ceqdl8xre7qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0b2d/live/d76ca2d0-6694-11f1-ba1a-d91f8cef28c9.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gyplpyj00o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cf0a/live/99c89070-6585-11f1-be7e-9d9e15bac6ec.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-40d64f",
+            "id": "b2b-de9514",
             "tag": "B2B营销",
-            "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
-            "content": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
+            "title": "Surge in scams as fraudsters use AI to target people",
+            "content": "On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0e6b/live/d55152a0-6641-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5333/live/5995e9a0-6597-11f1-99b8-5530f29d65f4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f1e1a3",
+            "id": "b2b-5f6c33",
             "tag": "B2B营销",
-            "title": "UK economy contracts as Iran war impact felt",
-            "content": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
+            "title": "Is the convertible heading into the sunset?",
+            "content": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c77y47248k4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ce7/live/edd669e0-657f-11f1-9f01-693d064aea27.jpg",
+            "link": "https://www.bbc.com/news/articles/cx212yy4er0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bc2/live/7082e5b0-641a-11f1-b8c4-d17e7970dcab.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c5a277",
+            "id": "wor-ee17c9",
             "tag": "国际要闻",
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "content": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+            "title": "Trump heralds Iran deal but questions - and risks - remain",
+            "content": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/c9824e0rz75o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2693/live/1ac2c340-6850-11f1-a06b-c973532480bb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9d9f4b",
+            "id": "wor-e6a39a",
             "tag": "国际要闻",
-            "title": "Switzerland to vote on plan to cap population at 10 million",
-            "content": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+            "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
+            "content": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx23kz7e76po",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg",
+            "link": "https://www.bbc.com/news/articles/cd952n4qz2qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b7/live/e0ea56d0-685c-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ee1276",
+            "id": "wor-8555e2",
             "tag": "国际要闻",
-            "title": "Nigerian author accuses hospital of stalling review into her son's death",
-            "content": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+            "title": "Oil prices slide after US-Iran deal announced",
+            "content": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e80/live/e9ef2460-677e-11f1-9177-9b1b06fa8e36.jpg",
+            "link": "https://www.bbc.com/news/articles/c6217106px6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7640/live/4688b200-67d3-11f1-9c4b-77e30dd66647.jpg",
             "category": "world"
       }
 ],
