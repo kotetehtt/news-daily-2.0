@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-15 05:36:25
+// Auto-generated news data at 2026-06-16 06:05:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月15日',
-  update_time: '2026-06-15 05:36:25',
+  date: '2026年06月16日',
+  update_time: '2026-06-16 06:05:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-11d570",
+            "id": "ai-3b47a0",
             "tag": "AI人工智能",
-            "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-            "content": "The BBC breaks down how the tech mogul's fortune has grown.",
+            "title": "What is Helium-3 and could we get it from the moon?",
+            "content": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyp523ly8o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/02a3/live/56817dd0-6680-11f1-b1db-af71d47507d6.png",
+            "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-1dd94d",
+            "id": "ai-069a16",
             "tag": "AI人工智能",
-            "title": "Who is Elon Musk and what is his net worth?",
-            "content": "The boss of X, Tesla and SpaceX, already the world's richest person, is now also its first trillionaire.",
+            "title": "Social media ban - bold and blunt, but no silver bullet",
+            "content": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0r1975ded7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6512/live/d31cff00-65a8-11f1-b0b4-ff7d574215ed.jpg",
+            "link": "https://www.bbc.com/news/articles/cddl65dp0rdo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc70/live/d452df50-68bb-11f1-9e56-5d712991879f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d9ca38",
+            "id": "ai-29cdbc",
             "tag": "AI人工智能",
-            "title": "Social media on trial: Four important cases to watch",
-            "content": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+            "title": "Under-16s will be banned from social media from early 2027",
+            "content": "Sites including Instagram, YouTube and TikTok will become inaccessible for millions of children, the prime minister has announced.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9q39l447l4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7dc/live/e50392d0-5ffc-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/c2kydl0zqeko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/894c/live/4e1b94c0-68d1-11f1-a53d-a3fd187200ab.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-13c2db",
+            "id": "b2b-2769c7",
             "tag": "B2B营销",
-            "title": "Oil prices slide after US-Iran deal announced",
-            "content": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+            "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+            "content": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c6217106px6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7640/live/4688b200-67d3-11f1-9c4b-77e30dd66647.jpg",
+            "link": "https://www.bbc.com/news/articles/cly089d0wl7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8193/live/9e5a3f20-690a-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6d72e9",
+            "id": "b2b-f0f16a",
             "tag": "B2B营销",
-            "title": "Millions of people can get discounts on their bills - here's how",
-            "content": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
+            "title": "Japan raises interest rate to highest since 1995",
+            "content": "The Bank of Japan has been raising rates from near-zero since 2024.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyplpyj00o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cf0a/live/99c89070-6585-11f1-be7e-9d9e15bac6ec.jpg",
+            "link": "https://www.bbc.com/news/articles/cjdgl213dpzo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a76/live/d7e33c30-6872-11f1-8d7f-231b457c3604.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-de9514",
+            "id": "b2b-d8f3f1",
             "tag": "B2B营销",
-            "title": "Surge in scams as fraudsters use AI to target people",
-            "content": "On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.",
+            "title": "How could the US-Iran deal affect oil prices and the cost of food?",
+            "content": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5333/live/5995e9a0-6597-11f1-99b8-5530f29d65f4.jpg",
+            "link": "https://www.bbc.com/news/articles/cd0p8me2m5do",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cfa7/live/31930ca0-68a1-11f1-b9ac-e71b9be292bd.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5f6c33",
+            "id": "b2b-19aff2",
             "tag": "B2B营销",
-            "title": "Is the convertible heading into the sunset?",
-            "content": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+            "title": "SpaceX IPO raised $10bn more than thought",
+            "content": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx212yy4er0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bc2/live/7082e5b0-641a-11f1-b8c4-d17e7970dcab.jpg",
+            "link": "https://www.bbc.com/news/articles/cgrk21wnvy9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/62fc/live/fe9e1080-68e4-11f1-a322-77bd30adf518.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ee17c9",
+            "id": "wor-83db5a",
             "tag": "国际要闻",
-            "title": "Trump heralds Iran deal but questions - and risks - remain",
-            "content": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
+            "title": "Trump may release US-Iran deal before Friday, Vance says",
+            "content": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9824e0rz75o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2693/live/1ac2c340-6850-11f1-a06b-c973532480bb.jpg",
+            "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c3f0/live/f7f57fb0-6944-11f1-b8da-53bba3cad46c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e6a39a",
+            "id": "wor-7a1f78",
             "tag": "国际要闻",
-            "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
-            "content": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
+            "title": "Iran deal presents political nightmare for Netanyahu",
+            "content": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd952n4qz2qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b7/live/e0ea56d0-685c-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8555e2",
+            "id": "wor-df4e47",
             "tag": "国际要闻",
-            "title": "Oil prices slide after US-Iran deal announced",
-            "content": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+            "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+            "content": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c6217106px6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7640/live/4688b200-67d3-11f1-9c4b-77e30dd66647.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gyp099vl7o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2961/live/b6042340-68e5-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       }
 ],
