@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-16 06:05:17
+// Auto-generated news data at 2026-06-17 05:24:14
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月16日',
-  update_time: '2026-06-16 06:05:17',
+  date: '2026年06月17日',
+  update_time: '2026-06-17 05:24:14',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-5327a0",
+            "tag": "AI人工智能",
+            "title": "Five big questions about the UK's under-16s social media ban",
+            "content": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c9824zvpz9po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f489/live/f8af2a90-6977-11f1-a610-610c6ec6d3a5.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-46d082",
+            "tag": "AI人工智能",
+            "title": "When will social media ban start, and which apps will be affected?",
+            "content": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c5af/live/d0303040-6982-11f1-8e1d-bbbb1017d210.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-3b47a0",
             "tag": "AI人工智能",
             "title": "What is Helium-3 and could we get it from the moon?",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-069a16",
-            "tag": "AI人工智能",
-            "title": "Social media ban - bold and blunt, but no silver bullet",
-            "content": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cddl65dp0rdo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc70/live/d452df50-68bb-11f1-9e56-5d712991879f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-29cdbc",
-            "tag": "AI人工智能",
-            "title": "Under-16s will be banned from social media from early 2027",
-            "content": "Sites including Instagram, YouTube and TikTok will become inaccessible for millions of children, the prime minister has announced.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c2kydl0zqeko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/894c/live/4e1b94c0-68d1-11f1-a53d-a3fd187200ab.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-96b37a",
+            "tag": "B2B营销",
+            "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+            "content": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cy06d00jpn0o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a446/live/ac1d7340-6999-11f1-938e-83ab58a2163c.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-ce2c58",
+            "tag": "B2B营销",
+            "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+            "content": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-d66e1b",
+            "tag": "B2B营销",
+            "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
+            "content": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c75yd6dy2vlo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc30/live/7b572ab0-69a0-11f1-938e-83ab58a2163c.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-2769c7",
             "tag": "B2B营销",
             "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-            "content": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
+            "content": "The environment secretary says the deal does not do enough for consumers or the environment.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/cly089d0wl7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8193/live/9e5a3f20-690a-11f1-8e1d-bbbb1017d210.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-f0f16a",
-            "tag": "B2B营销",
-            "title": "Japan raises interest rate to highest since 1995",
-            "content": "The Bank of Japan has been raising rates from near-zero since 2024.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cjdgl213dpzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a76/live/d7e33c30-6872-11f1-8d7f-231b457c3604.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-d8f3f1",
-            "tag": "B2B营销",
-            "title": "How could the US-Iran deal affect oil prices and the cost of food?",
-            "content": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd0p8me2m5do",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cfa7/live/31930ca0-68a1-11f1-b9ac-e71b9be292bd.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-19aff2",
-            "tag": "B2B营销",
-            "title": "SpaceX IPO raised $10bn more than thought",
-            "content": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cgrk21wnvy9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/62fc/live/fe9e1080-68e4-11f1-a322-77bd30adf518.jpg",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/73b4c540-696b-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-83db5a",
+            "id": "wor-8af33f",
             "tag": "国际要闻",
-            "title": "Trump may release US-Iran deal before Friday, Vance says",
-            "content": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+            "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+            "content": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c3f0/live/f7f57fb0-6944-11f1-b8da-53bba3cad46c.jpg",
+            "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7a1f78",
+            "id": "wor-c94fc7",
             "tag": "国际要闻",
-            "title": "Iran deal presents political nightmare for Netanyahu",
-            "content": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+            "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+            "content": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-df4e47",
+            "id": "wor-65a462",
             "tag": "国际要闻",
-            "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-            "content": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
+            "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+            "content": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyp099vl7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2961/live/b6042340-68e5-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/c20yzm84r7lo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13ab/live/e6c7bcc0-69db-11f1-801f-7707cfed8b55.jpg",
             "category": "world"
       }
 ],
