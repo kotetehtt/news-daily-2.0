@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-17 05:24:14
+// Auto-generated news data at 2026-06-18 05:16:14
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月17日',
-  update_time: '2026-06-17 05:24:14',
+  date: '2026年06月18日',
+  update_time: '2026-06-18 05:16:14',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-5327a0",
+            "id": "ai-ec9b49",
             "tag": "AI人工智能",
-            "title": "Five big questions about the UK's under-16s social media ban",
-            "content": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+            "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+            "content": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9824zvpz9po",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f489/live/f8af2a90-6977-11f1-a610-610c6ec6d3a5.jpg",
+            "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1b53/live/14d94320-6a65-11f1-8e1d-bbbb1017d210.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-46d082",
+            "id": "ai-ed1ad9",
             "tag": "AI人工智能",
-            "title": "When will social media ban start, and which apps will be affected?",
-            "content": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+            "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
+            "content": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c5af/live/d0303040-6982-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo",
+            "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nsjk0y.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-3b47a0",
+            "id": "ai-832596",
             "tag": "AI人工智能",
-            "title": "What is Helium-3 and could we get it from the moon?",
-            "content": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+            "title": "Snap unveils £1,995 smart glasses after previous flops",
+            "content": "The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/clyr5knpklvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f8c/live/75a8a820-6a3e-11f1-8546-8f19e4fe30f4.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-96b37a",
+            "id": "b2b-d969f5",
             "tag": "B2B营销",
-            "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
-            "content": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
+            "title": "Interest rates expected to be held by Bank of England",
+            "content": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cy06d00jpn0o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a446/live/ac1d7340-6999-11f1-938e-83ab58a2163c.jpg",
+            "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a31/live/89a05f40-6a51-11f1-9ea9-fdea8f57a693.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ce2c58",
+            "id": "b2b-5319a1",
             "tag": "B2B营销",
-            "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-            "content": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+            "title": "Apple to raise prices as AI boom pushes up chip costs",
+            "content": "The firm's outgoing boss Tim Cook did not say when prices will rise or which products will be affected.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d66e1b",
+            "id": "b2b-12f3f3",
             "tag": "B2B营销",
-            "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
-            "content": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
+            "title": "Driving test wait time target will not be met until autumn next year",
+            "content": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c75yd6dy2vlo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc30/live/7b572ab0-69a0-11f1-938e-83ab58a2163c.jpg",
+            "link": "https://www.bbc.com/news/articles/cd7wv0xqvryo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0ff9/live/08534980-6a50-11f1-9ea9-fdea8f57a693.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2769c7",
+            "id": "b2b-a642a8",
             "tag": "B2B营销",
-            "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-            "content": "The environment secretary says the deal does not do enough for consumers or the environment.",
+            "title": "Fed holds US interest rates steady as uncertainty over Trump's Iran deal remains",
+            "content": "The Federal Reserve held rates between 3.5% and 3.75% after Kevin Warsh's first meeting in charge of the central bank.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cly089d0wl7o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/73b4c540-696b-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8343/live/037d0fe0-6a7d-11f1-8e56-530bbb41ec43.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-8af33f",
+            "id": "wor-66e7dd",
             "tag": "国际要闻",
-            "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-            "content": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+            "title": "What's in the US-Iran agreement?",
+            "content": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac9a/live/635a8da0-6ac0-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c94fc7",
+            "id": "wor-d586b1",
             "tag": "国际要闻",
-            "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-            "content": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+            "title": "Iran sends tankers loaded with oil past US military blockade",
+            "content": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/cpq37yxexd9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5622/live/98fcb090-6a49-11f1-8e1d-bbbb1017d210.png",
             "category": "world"
       },
       {
-            "id": "wor-65a462",
+            "id": "wor-144200",
             "tag": "国际要闻",
-            "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-            "content": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+            "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+            "content": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c20yzm84r7lo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13ab/live/e6c7bcc0-69db-11f1-801f-7707cfed8b55.jpg",
+            "link": "https://www.bbc.com/news/articles/cly8qd4595eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2069/live/d976b510-6a41-11f1-9742-4f68b41a569d.jpg",
             "category": "world"
       }
 ],
