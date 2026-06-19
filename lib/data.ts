@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-18 05:16:14
+// Auto-generated news data at 2026-06-19 05:33:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月18日',
-  update_time: '2026-06-18 05:16:14',
+  date: '2026年06月19日',
+  update_time: '2026-06-19 05:33:09',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-b62f94",
+            "tag": "AI人工智能",
+            "title": "The artificial ice pyramids saving India's mountain villages",
+            "content": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c072414183go",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac70/live/f0de5b80-6015-11f1-89a3-d1f559421220.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-b2b10c",
+            "tag": "AI人工智能",
+            "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
+            "content": "The developer has said pre-sales of the hugely anticipated game will begin on 25 June.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b6/live/03c3e400-6b19-11f1-be36-65d2d6d55e70.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-ec9b49",
             "tag": "AI人工智能",
             "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1b53/live/14d94320-6a65-11f1-8e1d-bbbb1017d210.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ed1ad9",
-            "tag": "AI人工智能",
-            "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
-            "content": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo",
-            "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nsjk0y.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-832596",
-            "tag": "AI人工智能",
-            "title": "Snap unveils £1,995 smart glasses after previous flops",
-            "content": "The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clyr5knpklvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f8c/live/75a8a820-6a3e-11f1-8546-8f19e4fe30f4.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d969f5",
+            "id": "b2b-0b70e2",
             "tag": "B2B营销",
-            "title": "Interest rates expected to be held by Bank of England",
-            "content": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+            "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+            "content": "Analysis showed how much the UK could have grown if it had not exited the EU.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a31/live/89a05f40-6a51-11f1-9ea9-fdea8f57a693.jpg",
+            "link": "https://www.bbc.com/news/articles/cvg75npqkq4o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d91a/live/1bd38900-6b5b-11f1-b47c-952f3223237b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5319a1",
+            "id": "b2b-f61789",
             "tag": "B2B营销",
-            "title": "Apple to raise prices as AI boom pushes up chip costs",
-            "content": "The firm's outgoing boss Tim Cook did not say when prices will rise or which products will be affected.",
+            "title": "'He hid the a la carte menu': Who should pay on the first date",
+            "content": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg",
+            "link": "https://www.bbc.com/news/articles/c74yl4gknzno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-12f3f3",
+            "id": "b2b-d258e0",
             "tag": "B2B营销",
-            "title": "Driving test wait time target will not be met until autumn next year",
-            "content": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
+            "title": "Five ways the Iran peace deal could affect you and your money",
+            "content": "With fuel and gas prices having fallen in recent days, we look at how the end of hostitlities might affect you - in five charts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cd7wv0xqvryo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0ff9/live/08534980-6a50-11f1-9ea9-fdea8f57a693.jpg",
+            "link": "https://www.bbc.com/news/articles/c4g5574pwreo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a0d6/live/f590fde0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a642a8",
+            "id": "b2b-1a3756",
             "tag": "B2B营销",
-            "title": "Fed holds US interest rates steady as uncertainty over Trump's Iran deal remains",
-            "content": "The Federal Reserve held rates between 3.5% and 3.75% after Kevin Warsh's first meeting in charge of the central bank.",
+            "title": "Heathrow's 'critical' expansion blueprint released",
+            "content": "A consultation is launched on the Heathrow expansion, outlining conditions for the project to go ahead.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8343/live/037d0fe0-6a7d-11f1-8e56-530bbb41ec43.jpg",
+            "link": "https://www.bbc.com/news/articles/cx2dem7y78no",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5a26/live/6ca7d030-6b32-11f1-bcc1-1395fad0ad8f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-66e7dd",
+            "id": "wor-ac321d",
             "tag": "国际要闻",
-            "title": "What's in the US-Iran agreement?",
-            "content": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+            "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+            "content": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac9a/live/635a8da0-6ac0-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/c8r2eejdd35o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2322/live/09e592b0-6b97-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d586b1",
+            "id": "wor-aa75e4",
             "tag": "国际要闻",
-            "title": "Iran sends tankers loaded with oil past US military blockade",
-            "content": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+            "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+            "content": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpq37yxexd9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5622/live/98fcb090-6a49-11f1-8e1d-bbbb1017d210.png",
+            "link": "https://www.bbc.com/news/articles/clyegr2mp8jo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-144200",
+            "id": "wor-558e69",
             "tag": "国际要闻",
-            "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-            "content": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+            "title": "What Iran and US get from deal and why both could struggle to keep it",
+            "content": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cly8qd4595eo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2069/live/d976b510-6a41-11f1-9742-4f68b41a569d.jpg",
+            "link": "https://www.bbc.com/news/articles/c932yqz8lggo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
             "category": "world"
       }
 ],
