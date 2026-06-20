@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-19 05:33:09
+// Auto-generated news data at 2026-06-20 04:50:36
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月19日',
-  update_time: '2026-06-19 05:33:09',
+  date: '2026年06月20日',
+  update_time: '2026-06-20 04:50:36',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-b62f94",
+            "id": "ai-67aa60",
             "tag": "AI人工智能",
-            "title": "The artificial ice pyramids saving India's mountain villages",
-            "content": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+            "title": "New video game console aims to get kids moving",
+            "content": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c072414183go",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac70/live/f0de5b80-6015-11f1-89a3-d1f559421220.jpg",
+            "link": "https://www.bbc.com/news/articles/czx50rrz7zro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b2b10c",
+            "id": "ai-9d0e40",
             "tag": "AI人工智能",
-            "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-            "content": "The developer has said pre-sales of the hugely anticipated game will begin on 25 June.",
+            "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+            "content": "UK's top data and AI regulator quits after 'inappropriate' humour",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b6/live/03c3e400-6b19-11f1-be36-65d2d6d55e70.jpg",
+            "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ce43/live/976528e0-6bc3-11f1-8e1d-bbbb1017d210.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ec9b49",
+            "id": "ai-d83609",
             "tag": "AI人工智能",
-            "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-            "content": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
+            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+            "content": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1b53/live/14d94320-6a65-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/c9q20djz4wno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ab0/live/49c33180-6bce-11f1-a94c-73f00a91c697.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-0b70e2",
+            "id": "b2b-088d84",
             "tag": "B2B营销",
-            "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-            "content": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+            "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+            "content": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvg75npqkq4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d91a/live/1bd38900-6b5b-11f1-b47c-952f3223237b.jpg",
+            "link": "https://www.bbc.com/news/articles/c6216g52p8wo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/91ea/live/9fc4e320-6bb1-11f1-8e5f-879143928516.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f61789",
+            "id": "b2b-c058c6",
             "tag": "B2B营销",
-            "title": "'He hid the a la carte menu': Who should pay on the first date",
+            "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
+            "content": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c4gyejpy221o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9e5/live/0b92a900-6bf0-11f1-8401-0ff9796d0d82.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-1d1251",
+            "tag": "B2B营销",
+            "title": "Warning over 'fragile' public finances as borrowing rises",
+            "content": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cqx1e8nrwgvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2738/live/ac4ba310-6ba5-11f1-ad4f-418bfa76e5cc.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-7ce0c3",
+            "tag": "B2B营销",
+            "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
             "content": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c74yl4gknzno",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-d258e0",
-            "tag": "B2B营销",
-            "title": "Five ways the Iran peace deal could affect you and your money",
-            "content": "With fuel and gas prices having fallen in recent days, we look at how the end of hostitlities might affect you - in five charts.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4g5574pwreo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a0d6/live/f590fde0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-1a3756",
-            "tag": "B2B营销",
-            "title": "Heathrow's 'critical' expansion blueprint released",
-            "content": "A consultation is launched on the Heathrow expansion, outlining conditions for the project to go ahead.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2dem7y78no",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5a26/live/6ca7d030-6b32-11f1-bcc1-1395fad0ad8f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ac321d",
+            "id": "wor-5431c8",
             "tag": "国际要闻",
-            "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-            "content": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+            "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+            "content": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c8r2eejdd35o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2322/live/09e592b0-6b97-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
             "category": "world"
       },
       {
-            "id": "wor-aa75e4",
+            "id": "wor-d6903b",
             "tag": "国际要闻",
-            "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-            "content": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+            "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+            "content": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clyegr2mp8jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg",
+            "link": "https://www.bbc.com/news/articles/c20y1ygn707o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/467b/live/b8c74c90-6bf3-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-558e69",
+            "id": "wor-f971a6",
             "tag": "国际要闻",
-            "title": "What Iran and US get from deal and why both could struggle to keep it",
-            "content": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+            "title": "US to stop funding HIV programmes in South Africa",
+            "content": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c932yqz8lggo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
+            "link": "https://www.bbc.com/news/articles/cdr457lxr71o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6893/live/8c956090-6bf7-11f1-8bf6-931d18012412.jpg",
             "category": "world"
       }
 ],
