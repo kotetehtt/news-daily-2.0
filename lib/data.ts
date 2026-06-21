@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-20 04:50:36
+// Auto-generated news data at 2026-06-21 05:24:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月20日',
-  update_time: '2026-06-20 04:50:36',
+  date: '2026年06月21日',
+  update_time: '2026-06-21 05:24:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-b13a0f",
+            "tag": "AI人工智能",
+            "title": "Why an AI company cleaned my New York City apartment for free",
+            "content": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cpwerjy20kyo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/570f/live/e297c6a0-6af7-11f1-8546-8f19e4fe30f4.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-8850eb",
+            "tag": "AI人工智能",
+            "title": "Why the social media ban is about so much more than social media",
+            "content": "If we are witnessing a profound shift in the online space, how will it reshape our relationship with it? Technology and AI editor Zoe Kleinman writes.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c1jy512r19ro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d09/live/48cc8790-6bf1-11f1-b1db-af71d47507d6.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-67aa60",
             "tag": "AI人工智能",
             "title": "New video game console aims to get kids moving",
-            "content": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
+            "content": "The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/czx50rrz7zro",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-9d0e40",
-            "tag": "AI人工智能",
-            "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-            "content": "UK's top data and AI regulator quits after 'inappropriate' humour",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ce43/live/976528e0-6bc3-11f1-8e1d-bbbb1017d210.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d83609",
-            "tag": "AI人工智能",
-            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-            "content": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9q20djz4wno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ab0/live/49c33180-6bce-11f1-a94c-73f00a91c697.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-5431c8",
+            "id": "wor-7aaaf6",
             "tag": "国际要闻",
-            "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-            "content": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+            "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+            "content": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
+            "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d6903b",
+            "id": "wor-2c075a",
             "tag": "国际要闻",
-            "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-            "content": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
+            "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+            "content": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c20y1ygn707o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/467b/live/b8c74c90-6bf3-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3bb/live/848ad050-6cbb-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f971a6",
+            "id": "wor-9d4ea7",
             "tag": "国际要闻",
-            "title": "US to stop funding HIV programmes in South Africa",
-            "content": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
+            "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+            "content": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cdr457lxr71o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6893/live/8c956090-6bf7-11f1-8bf6-931d18012412.jpg",
+            "link": "https://www.bbc.com/news/articles/cwylx1vq18zo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
             "category": "world"
       }
 ],
