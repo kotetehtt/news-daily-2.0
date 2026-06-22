@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-21 05:24:39
+// Auto-generated news data at 2026-06-22 05:40:54
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月21日',
-  update_time: '2026-06-21 05:24:39',
+  date: '2026年06月22日',
+  update_time: '2026-06-22 05:40:54',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-ca29e0",
+            "tag": "AI人工智能",
+            "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
+            "content": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/c8621dqewxzo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/001d/live/dccb1340-6bcd-11f1-8e1d-bbbb1017d210.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-b13a0f",
             "tag": "AI人工智能",
             "title": "Why an AI company cleaned my New York City apartment for free",
@@ -111,25 +122,14 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-8850eb",
+            "id": "ai-29148f",
             "tag": "AI人工智能",
-            "title": "Why the social media ban is about so much more than social media",
-            "content": "If we are witnessing a profound shift in the online space, how will it reshape our relationship with it? Technology and AI editor Zoe Kleinman writes.",
+            "title": "How the social media ban could reshape how all of us use the internet",
+            "content": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c1jy512r19ro",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d09/live/48cc8790-6bf1-11f1-b1db-af71d47507d6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-67aa60",
-            "tag": "AI人工智能",
-            "title": "New video game console aims to get kids moving",
-            "content": "The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/czx50rrz7zro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,28 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-889239",
+            "tag": "B2B营销",
+            "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
+            "content": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cx2xq1vngvdo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-5bf61f",
+            "tag": "B2B营销",
+            "title": "Toy Story 5 scores record opening weekend for franchise",
+            "content": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.com/news/articles/cx2kqg958v1o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee2c/live/b9eb0fb0-6dee-11f1-8546-8f19e4fe30f4.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-088d84",
             "tag": "B2B营销",
             "title": "Plans to end gazumping with binding agreements in house sales shake-up",
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.com/news/articles/c4gyejpy221o",
             "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9e5/live/0b92a900-6bf0-11f1-8401-0ff9796d0d82.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-1d1251",
-            "tag": "B2B营销",
-            "title": "Warning over 'fragile' public finances as borrowing rises",
-            "content": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cqx1e8nrwgvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2738/live/ac4ba310-6ba5-11f1-ad4f-418bfa76e5cc.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-7ce0c3",
-            "tag": "B2B营销",
-            "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-            "content": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c74yl4gknzno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7aaaf6",
+            "id": "wor-705084",
             "tag": "国际要闻",
-            "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-            "content": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+            "title": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
+            "content": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/068d/live/1ae9c670-6de6-11f1-80ec-79912f81f3b2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2c075a",
+            "id": "wor-babd14",
             "tag": "国际要闻",
-            "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-            "content": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
+            "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+            "content": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3bb/live/848ad050-6cbb-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/clye4ky2yzpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b28/live/3c9a52b0-6dde-11f1-bc2b-a3cafe1dcf78.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9d4ea7",
+            "id": "wor-bb45c6",
             "tag": "国际要闻",
-            "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-            "content": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+            "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+            "content": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwylx1vq18zo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
+            "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       }
 ],
