@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-22 05:40:54
+// Auto-generated news data at 2026-06-23 04:39:52
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月22日',
-  update_time: '2026-06-22 05:40:54',
+  date: '2026年06月23日',
+  update_time: '2026-06-23 04:39:52',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-ca29e0",
+            "id": "ai-f1cfb5",
             "tag": "AI人工智能",
-            "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-            "content": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
+            "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+            "content": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c8621dqewxzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/001d/live/dccb1340-6bcd-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.com/news/articles/c932d1r0p96o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b13a0f",
+            "id": "ai-ef7b94",
             "tag": "AI人工智能",
-            "title": "Why an AI company cleaned my New York City apartment for free",
-            "content": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
+            "title": "Do you know your 'sweat score'? The rise of hydration tech",
+            "content": "Hydration tracking gadgets are flooding the market but is it too much information?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cpwerjy20kyo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/570f/live/e297c6a0-6af7-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/385d/live/d8649f50-6be2-11f1-8546-8f19e4fe30f4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-29148f",
+            "id": "ai-54fa6a",
             "tag": "AI人工智能",
-            "title": "How the social media ban could reshape how all of us use the internet",
-            "content": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
+            "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+            "content": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c1jy512r19ro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d09/live/48cc8790-6bf1-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.com/news/articles/c8e2195k5j2o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/be5b/live/30742380-6e51-11f1-8c89-cfc50446b805.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-889239",
+            "id": "b2b-07d496",
             "tag": "B2B营销",
-            "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-            "content": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
+            "title": "Tesla crash that killed a woman under US federal investigation",
+            "content": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2xq1vngvdo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg",
+            "link": "https://www.bbc.com/news/articles/c07yp02mxyjo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f011/live/bacfac70-6e74-11f1-af12-adba0638fbd4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5bf61f",
+            "id": "b2b-6a1fc3",
             "tag": "B2B营销",
-            "title": "Toy Story 5 scores record opening weekend for franchise",
-            "content": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
+            "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+            "content": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cx2kqg958v1o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee2c/live/b9eb0fb0-6dee-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/011d/live/21b2c920-6e9a-11f1-ae80-bf13157382fa.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-088d84",
+            "id": "b2b-bbb337",
             "tag": "B2B营销",
-            "title": "Plans to end gazumping with binding agreements in house sales shake-up",
-            "content": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+            "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+            "content": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c6216g52p8wo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/91ea/live/9fc4e320-6bb1-11f1-8e5f-879143928516.jpg",
+            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/66d4/live/4c1d6d60-6ebc-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c058c6",
+            "id": "b2b-bf626f",
             "tag": "B2B营销",
-            "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
-            "content": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
+            "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
+            "content": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gyejpy221o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9e5/live/0b92a900-6bf0-11f1-8401-0ff9796d0d82.jpg",
+            "link": "https://www.bbc.com/news/articles/cn8q5nx6jw6o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03f3/live/d6a07f80-6eb3-11f1-8d28-330d80923bb9.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-705084",
+            "id": "wor-126398",
             "tag": "国际要闻",
-            "title": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-            "content": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+            "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+            "content": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/068d/live/1ae9c670-6de6-11f1-80ec-79912f81f3b2.jpg",
+            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f8a5/live/4c851ec0-6e8e-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-babd14",
+            "id": "wor-925eda",
             "tag": "国际要闻",
-            "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-            "content": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
+            "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+            "content": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/clye4ky2yzpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b28/live/3c9a52b0-6dde-11f1-bc2b-a3cafe1dcf78.jpg",
+            "link": "https://www.bbc.com/news/articles/cwy05llpjpno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e7c6/live/d4d68270-6e46-11f1-8a85-d1d176b992ab.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bb45c6",
+            "id": "wor-feb317",
             "tag": "国际要闻",
-            "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-            "content": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+            "title": "Ransom note claims Nancy Guthrie died after abduction",
+            "content": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
             "category": "world"
       }
 ],
