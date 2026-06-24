@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-23 04:39:52
+// Auto-generated news data at 2026-06-24 04:46:19
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月23日',
-  update_time: '2026-06-23 04:39:52',
+  date: '2026年06月24日',
+  update_time: '2026-06-24 04:46:19',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f1cfb5",
+            "id": "ai-6dab15",
             "tag": "AI人工智能",
-            "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+            "title": "Google's YouTube settles social media addiction case with teen",
+            "content": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c822/live/6dd71df0-6f4f-11f1-8546-8f19e4fe30f4.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-b2bc0b",
+            "tag": "AI人工智能",
+            "title": "Meta halts worker tracking for AI training due to privacy fears",
+            "content": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1db/live/ef7d0940-6f28-11f1-adf9-6fa2b518a522.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-259797",
+            "tag": "AI人工智能",
+            "title": "Millions in UK could claim share of £3bn after Apple case given green light",
             "content": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c932d1r0p96o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ef7b94",
-            "tag": "AI人工智能",
-            "title": "Do you know your 'sweat score'? The rise of hydration tech",
-            "content": "Hydration tracking gadgets are flooding the market but is it too much information?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/385d/live/d8649f50-6be2-11f1-8546-8f19e4fe30f4.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-54fa6a",
-            "tag": "AI人工智能",
-            "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-            "content": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c8e2195k5j2o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/be5b/live/30742380-6e51-11f1-8c89-cfc50446b805.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-07d496",
+            "id": "b2b-2da3a9",
             "tag": "B2B营销",
-            "title": "Tesla crash that killed a woman under US federal investigation",
-            "content": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+            "title": "The economic challenges facing the next prime minister",
+            "content": "Though the person in charge of the country will change, the fiscal issues remain the same.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c07yp02mxyjo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f011/live/bacfac70-6e74-11f1-af12-adba0638fbd4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61f4/live/c746c5a0-6f10-11f1-93e4-574a66c90712.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6a1fc3",
+            "id": "b2b-528fb3",
             "tag": "B2B营销",
-            "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-            "content": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
+            "title": "Ten years on, Brexit's economic impact is becoming clearer",
+            "content": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/011d/live/21b2c920-6e9a-11f1-ae80-bf13157382fa.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d195/live/4f1879d0-6e4c-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-bbb337",
+            "id": "b2b-f15d27",
             "tag": "B2B营销",
-            "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-            "content": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+            "title": "Stanford was their golden ticket - could AI help or hinder that?",
+            "content": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/66d4/live/4c1d6d60-6ebc-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3d3/live/bbd41bd0-6b4d-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-bf626f",
+            "id": "b2b-bed328",
             "tag": "B2B营销",
-            "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-            "content": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
+            "title": "Tech stocks tumble on concerns over AI spending",
+            "content": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cn8q5nx6jw6o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03f3/live/d6a07f80-6eb3-11f1-8d28-330d80923bb9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd9a/live/e42cc720-6f2c-11f1-8b65-27158411943c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-126398",
+            "id": "wor-c843e4",
             "tag": "国际要闻",
-            "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-            "content": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+            "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+            "content": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f8a5/live/4c851ec0-6e8e-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       },
       {
-            "id": "wor-925eda",
+            "id": "wor-cc08d9",
             "tag": "国际要闻",
-            "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-            "content": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+            "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+            "content": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cwy05llpjpno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e7c6/live/d4d68270-6e46-11f1-8a85-d1d176b992ab.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-feb317",
+            "id": "wor-414d7b",
             "tag": "国际要闻",
-            "title": "Ransom note claims Nancy Guthrie died after abduction",
-            "content": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+            "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+            "content": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg",
             "category": "world"
       }
 ],
