@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-24 04:46:19
+// Auto-generated news data at 2026-06-25 04:44:41
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月24日',
-  update_time: '2026-06-24 04:46:19',
+  date: '2026年06月25日',
+  update_time: '2026-06-25 04:44:41',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-ae4fee",
+            "tag": "AI人工智能",
+            "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
+            "content": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-638261",
+            "tag": "AI人工智能",
+            "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
+            "content": "The tech giant has consistently stood by its Majorana chip research despite scepticism from some experts in the field.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-6dab15",
             "tag": "AI人工智能",
             "title": "Google's YouTube settles social media addiction case with teen",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c822/live/6dd71df0-6f4f-11f1-8546-8f19e4fe30f4.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-b2bc0b",
-            "tag": "AI人工智能",
-            "title": "Meta halts worker tracking for AI training due to privacy fears",
-            "content": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1db/live/ef7d0940-6f28-11f1-adf9-6fa2b518a522.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-259797",
-            "tag": "AI人工智能",
-            "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-            "content": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2da3a9",
+            "id": "b2b-43b4dd",
             "tag": "B2B营销",
-            "title": "The economic challenges facing the next prime minister",
-            "content": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+            "title": "I've spent 30 years in recruitment - this is how to get a job",
+            "content": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61f4/live/c746c5a0-6f10-11f1-93e4-574a66c90712.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b813/live/a1869260-6fb9-11f1-8dfa-636ee713b41c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-528fb3",
+            "id": "b2b-3c5c88",
             "tag": "B2B营销",
-            "title": "Ten years on, Brexit's economic impact is becoming clearer",
-            "content": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+            "title": "VAT cut on theme parks and kids' meals comes into force",
+            "content": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d195/live/4f1879d0-6e4c-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03f1/live/ff8d5100-6f0f-11f1-93e4-574a66c90712.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f15d27",
+            "id": "b2b-54362a",
             "tag": "B2B营销",
-            "title": "Stanford was their golden ticket - could AI help or hinder that?",
-            "content": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+            "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
+            "content": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3d3/live/bbd41bd0-6b4d-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a02/live/8edd50c0-dc18-11f0-babc-21f9e89ffedf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-bed328",
+            "id": "b2b-95b700",
             "tag": "B2B营销",
-            "title": "Tech stocks tumble on concerns over AI spending",
-            "content": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
+            "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+            "content": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd9a/live/e42cc720-6f2c-11f1-8b65-27158411943c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c843e4",
+            "id": "wor-fdedb3",
             "tag": "国际要闻",
-            "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-            "content": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+            "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+            "content": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg",
             "category": "world"
       },
       {
-            "id": "wor-cc08d9",
+            "id": "wor-3ca879",
             "tag": "国际要闻",
-            "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-            "content": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+            "title": "Air conditioning creates political divide after France records hottest day",
+            "content": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8057/live/f19c7bb0-6fc9-11f1-8b2e-bdb65bec8399.jpg",
             "category": "world"
       },
       {
-            "id": "wor-414d7b",
+            "id": "wor-f95d66",
             "tag": "国际要闻",
-            "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-            "content": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+            "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+            "content": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcc8/live/65f531e0-6ff3-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       }
 ],
