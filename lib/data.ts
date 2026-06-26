@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-25 04:44:41
+// Auto-generated news data at 2026-06-26 04:49:08
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月25日',
-  update_time: '2026-06-25 04:44:41',
+  date: '2026年06月26日',
+  update_time: '2026-06-26 04:49:08',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-ae4fee",
+            "id": "ai-992c82",
             "tag": "AI人工智能",
-            "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
-            "content": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+            "title": "Teens who hacked TfL were known to police years before cyber-attack",
+            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
             "category": "ai"
       },
       {
-            "id": "ai-638261",
+            "id": "ai-22fa0b",
             "tag": "AI人工智能",
-            "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-            "content": "The tech giant has consistently stood by its Majorana chip research despite scepticism from some experts in the field.",
+            "title": "The abundant but expensive energy source that's under your feet",
+            "content": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-6dab15",
+            "id": "ai-9c11bd",
             "tag": "AI人工智能",
-            "title": "Google's YouTube settles social media addiction case with teen",
-            "content": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+            "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+            "content": "Apple said it had \"never seen a component price increase this much, this quickly\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c822/live/6dd71df0-6f4f-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f1d/live/ee942300-70a0-11f1-a074-f75fb10ee765.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-43b4dd",
+            "id": "b2b-2102b7",
             "tag": "B2B营销",
-            "title": "I've spent 30 years in recruitment - this is how to get a job",
-            "content": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+            "title": "Warning over power bank fire risk on flights as summer holidays begin",
+            "content": "Warning over power bank fire risk on flights as summer holidays begin",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b813/live/a1869260-6fb9-11f1-8dfa-636ee713b41c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly716qd146o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1adb/live/414682f0-70ce-11f1-b217-6f3746be3039.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3c5c88",
+            "id": "b2b-8c8627",
             "tag": "B2B营销",
-            "title": "VAT cut on theme parks and kids' meals comes into force",
-            "content": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
+            "title": "Yes, there have been rows but here's how I've made moving back home work",
+            "content": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03f1/live/ff8d5100-6f0f-11f1-93e4-574a66c90712.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9469/live/74937fd0-6d79-11f1-a2ba-775ae811ce10.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-54362a",
+            "id": "b2b-1f9bc0",
             "tag": "B2B营销",
-            "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
-            "content": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
+            "title": "Teens who hacked TfL were known to police years before cyber-attack",
+            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a02/live/8edd50c0-dc18-11f0-babc-21f9e89ffedf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-95b700",
+            "id": "b2b-a2c017",
             "tag": "B2B营销",
-            "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-            "content": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+            "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+            "content": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bff4/live/226c9520-70bc-11f1-b1db-af71d47507d6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-fdedb3",
+            "id": "wor-7d618c",
             "tag": "国际要闻",
-            "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-            "content": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+            "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+            "content": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3ca879",
+            "id": "wor-3a3c94",
             "tag": "国际要闻",
-            "title": "Air conditioning creates political divide after France records hottest day",
-            "content": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+            "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+            "content": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8057/live/f19c7bb0-6fc9-11f1-8b2e-bdb65bec8399.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca4e/live/476ba1c0-7104-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f95d66",
+            "id": "wor-2d674a",
             "tag": "国际要闻",
-            "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-            "content": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+            "title": "People flee as building collapses on Caracas outskirts",
+            "content": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcc8/live/65f531e0-6ff3-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3baf/live/7b34b590-70a6-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       }
 ],
