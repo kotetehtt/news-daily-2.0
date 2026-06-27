@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-26 04:49:08
+// Auto-generated news data at 2026-06-27 04:33:37
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月26日',
-  update_time: '2026-06-26 04:49:08',
+  date: '2026年06月27日',
+  update_time: '2026-06-27 04:33:37',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,14 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-992c82",
+            "id": "ai-92be12",
             "tag": "AI人工智能",
-            "title": "Teens who hacked TfL were known to police years before cyber-attack",
-            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+            "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+            "content": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
+            "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg",
             "category": "ai"
       },
       {
@@ -122,14 +122,14 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9c11bd",
+            "id": "ai-992c82",
             "tag": "AI人工智能",
-            "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-            "content": "Apple said it had \"never seen a component price increase this much, this quickly\".",
+            "title": "Teens who hacked TfL were known to police years before cyber-attack",
+            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f1d/live/ee942300-70a0-11f1-a074-f75fb10ee765.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
             "category": "ai"
       }
 ],
@@ -216,20 +216,31 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2102b7",
+            "id": "b2b-a025fe",
             "tag": "B2B营销",
-            "title": "Warning over power bank fire risk on flights as summer holidays begin",
-            "content": "Warning over power bank fire risk on flights as summer holidays begin",
+            "title": "Trump threatens 100% tariff on European nations over tech tax",
+            "content": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly716qd146o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1adb/live/414682f0-70ce-11f1-b217-6f3746be3039.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41d0/live/53fe5940-71a0-11f1-91d4-ab93ad9f4654.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8c8627",
+            "id": "b2b-2763a8",
             "tag": "B2B营销",
-            "title": "Yes, there have been rows but here's how I've made moving back home work",
+            "title": "Three unusual things about the King's tax bill",
+            "content": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6317/live/78d38340-7186-11f1-bcec-7f8ed2660388.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-60b86d",
+            "tag": "B2B营销",
+            "title": "I'm back at home again after uni - here's how I'm making it work",
             "content": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
             "source": "BBC News",
             "time": "今日",
@@ -238,25 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-1f9bc0",
+            "id": "b2b-26cb41",
             "tag": "B2B营销",
-            "title": "Teens who hacked TfL were known to police years before cyber-attack",
-            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+            "title": "Power banks and vapes now biggest fire risk on planes",
+            "content": "Power banks and vapes now biggest fire risk on planes",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a2c017",
-            "tag": "B2B营销",
-            "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-            "content": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bff4/live/226c9520-70bc-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly716qd146o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6069/live/65830dd0-7161-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7d618c",
+            "id": "wor-ca02e0",
             "tag": "国际要闻",
-            "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-            "content": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+            "title": "US conducts strikes on Iran after attack on cargo ship",
+            "content": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3a3c94",
+            "id": "wor-8aa485",
             "tag": "国际要闻",
-            "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-            "content": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+            "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+            "content": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca4e/live/476ba1c0-7104-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2d674a",
+            "id": "wor-bb5728",
             "tag": "国际要闻",
-            "title": "People flee as building collapses on Caracas outskirts",
-            "content": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+            "title": "Mother dies saving daughter in Venezuela earthquakes",
+            "content": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3baf/live/7b34b590-70a6-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       }
 ],
