@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-27 04:33:37
+// Auto-generated news data at 2026-06-28 04:59:13
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月27日',
-  update_time: '2026-06-27 04:33:37',
+  date: '2026年06月28日',
+  update_time: '2026-06-28 04:59:13',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,20 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-92be12",
+            "id": "ai-f9a1df",
             "tag": "AI人工智能",
-            "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+            "title": "Tech firms are blaming AI for mega device and console price rises",
+            "content": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff6d/live/46dc95d0-7180-11f1-a417-dfae8167aae6.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-da02be",
+            "tag": "AI人工智能",
+            "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
             "content": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
             "source": "BBC News",
             "time": "今日",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-992c82",
-            "tag": "AI人工智能",
-            "title": "Teens who hacked TfL were known to police years before cyber-attack",
-            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ca02e0",
+            "id": "wor-c6ca65",
             "tag": "国际要闻",
-            "title": "US conducts strikes on Iran after attack on cargo ship",
-            "content": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+            "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+            "content": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8aa485",
+            "id": "wor-10e298",
             "tag": "国际要闻",
-            "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-            "content": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+            "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+            "content": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bb5728",
+            "id": "wor-f26021",
             "tag": "国际要闻",
-            "title": "Mother dies saving daughter in Venezuela earthquakes",
-            "content": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+            "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+            "content": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
             "category": "world"
       }
 ],
