@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-28 04:59:13
+// Auto-generated news data at 2026-06-29 05:11:30
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月28日',
-  update_time: '2026-06-28 04:59:13',
+  date: '2026年06月29日',
+  update_time: '2026-06-29 05:11:30',
   banner: [
       {
             "id": "ai-001",
@@ -227,6 +227,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-b551a8",
+            "tag": "B2B营销",
+            "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+            "content": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22df/live/e20d5010-717d-11f1-b1db-af71d47507d6.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-2763a8",
             "tag": "B2B营销",
             "title": "Three unusual things about the King's tax bill",
@@ -238,25 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-60b86d",
+            "id": "b2b-21c82a",
             "tag": "B2B营销",
-            "title": "I'm back at home again after uni - here's how I'm making it work",
-            "content": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+            "title": "Who could be the UK's next chancellor?",
+            "content": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9469/live/74937fd0-6d79-11f1-a2ba-775ae811ce10.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-26cb41",
-            "tag": "B2B营销",
-            "title": "Power banks and vapes now biggest fire risk on planes",
-            "content": "Power banks and vapes now biggest fire risk on planes",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly716qd146o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6069/live/65830dd0-7161-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c1/live/b44abe80-6efb-11f1-b1db-af71d47507d6.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c6ca65",
+            "id": "wor-9675a8",
             "tag": "国际要闻",
-            "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-            "content": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+            "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+            "content": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
             "category": "world"
       },
       {
-            "id": "wor-10e298",
+            "id": "wor-2e0c3c",
             "tag": "国际要闻",
-            "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-            "content": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+            "title": "Pakistan launches deadly strikes along Afghan border",
+            "content": "Pakistan says its strikes were a response to \"recent terrorist attacks against innocent people\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89ac/live/71159fd0-7370-11f1-901e-634ba6f0a6ec.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f26021",
+            "id": "wor-4eadb3",
             "tag": "国际要闻",
-            "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-            "content": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+            "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+            "content": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
             "category": "world"
       }
 ],
