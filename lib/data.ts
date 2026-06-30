@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-29 05:11:30
+// Auto-generated news data at 2026-06-30 04:43:51
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月29日',
-  update_time: '2026-06-29 05:11:30',
+  date: '2026年06月30日',
+  update_time: '2026-06-30 04:43:51',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-9b9f98",
+            "tag": "AI人工智能",
+            "title": "WhatsApp to let people chat without swapping phone numbers",
+            "content": "The app's new usernames feature will be rolled out globally over the next few months.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/491b/live/ad07f250-73b5-11f1-a8ee-df4f88a2912f.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-6a3482",
+            "tag": "AI人工智能",
+            "title": "Ford rehires human engineers after AI fails to match quality checks",
+            "content": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-f9a1df",
             "tag": "AI人工智能",
             "title": "Tech firms are blaming AI for mega device and console price rises",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff6d/live/46dc95d0-7180-11f1-a417-dfae8167aae6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-da02be",
-            "tag": "AI人工智能",
-            "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
-            "content": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-22fa0b",
-            "tag": "AI人工智能",
-            "title": "The abundant but expensive energy source that's under your feet",
-            "content": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-a025fe",
+            "id": "b2b-7df28e",
             "tag": "B2B营销",
-            "title": "Trump threatens 100% tariff on European nations over tech tax",
-            "content": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+            "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+            "content": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41d0/live/53fe5940-71a0-11f1-91d4-ab93ad9f4654.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3821/live/5bbec4e0-73c0-11f1-aaa1-3f07d3ad2c35.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b551a8",
+            "id": "b2b-883eee",
             "tag": "B2B营销",
-            "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-            "content": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+            "title": "We had packed lunches every day for 10 years and retired at 40",
+            "content": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22df/live/e20d5010-717d-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1662/live/8c9d1790-73e0-11f1-8546-8f19e4fe30f4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2763a8",
+            "id": "b2b-d25285",
             "tag": "B2B营销",
-            "title": "Three unusual things about the King's tax bill",
-            "content": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+            "title": "Chinese tycoon sentenced to 30 years in US jail",
+            "content": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6317/live/78d38340-7186-11f1-bcec-7f8ed2660388.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c1d/live/f85c62b0-7417-11f1-8709-f3ededd8395d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-21c82a",
+            "id": "b2b-33f930",
             "tag": "B2B营销",
-            "title": "Who could be the UK's next chancellor?",
-            "content": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+            "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+            "content": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c1/live/b44abe80-6efb-11f1-b1db-af71d47507d6.png",
+            "link": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78c9/live/30070100-73bb-11f1-aaa1-3f07d3ad2c35.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9675a8",
+            "id": "wor-512305",
             "tag": "国际要闻",
-            "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
-            "content": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+            "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+            "content": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
+            "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
             "category": "world"
       },
       {
-            "id": "wor-2e0c3c",
+            "id": "wor-d240f0",
             "tag": "国际要闻",
-            "title": "Pakistan launches deadly strikes along Afghan border",
-            "content": "Pakistan says its strikes were a response to \"recent terrorist attacks against innocent people\".",
+            "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+            "content": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89ac/live/71159fd0-7370-11f1-901e-634ba6f0a6ec.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4eadb3",
+            "id": "wor-fa4ff7",
             "tag": "国际要闻",
-            "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-            "content": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+            "title": "Six people shot dead at centre for mothers and children in Germany",
+            "content": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
             "category": "world"
       }
 ],
