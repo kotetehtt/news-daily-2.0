@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-06-30 04:43:51
+// Auto-generated news data at 2026-07-01 05:05:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年06月30日',
-  update_time: '2026-06-30 04:43:51',
+  date: '2026年07月01日',
+  update_time: '2026-07-01 05:05:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9b9f98",
+            "id": "ai-f9edd9",
             "tag": "AI人工智能",
-            "title": "WhatsApp to let people chat without swapping phone numbers",
+            "title": "E-scooters being advertised for commuting despite UK road ban",
+            "content": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0355/live/78145a40-74ad-11f1-8546-8f19e4fe30f4.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-50d8d2",
+            "tag": "AI人工智能",
+            "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
             "content": "The app's new usernames feature will be rolled out globally over the next few months.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/491b/live/ad07f250-73b5-11f1-a8ee-df4f88a2912f.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dacc/live/fd4cf0c0-745b-11f1-9d0e-3bf8d84f830e.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-f9a1df",
-            "tag": "AI人工智能",
-            "title": "Tech firms are blaming AI for mega device and console price rises",
-            "content": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff6d/live/46dc95d0-7180-11f1-a417-dfae8167aae6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7df28e",
+            "id": "b2b-674600",
             "tag": "B2B营销",
-            "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-            "content": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+            "title": "Trump made more than $1bn from crypto in first year back in office",
+            "content": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3821/live/5bbec4e0-73c0-11f1-aaa1-3f07d3ad2c35.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-883eee",
+            "id": "b2b-d1995a",
             "tag": "B2B营销",
-            "title": "We had packed lunches every day for 10 years and retired at 40",
-            "content": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+            "title": "Plea for households to read energy meter as prices rise",
+            "content": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1662/live/8c9d1790-73e0-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7116/live/a644e1c0-746f-11f1-b8da-6d87dfdc4508.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d25285",
+            "id": "b2b-ecd16c",
             "tag": "B2B营销",
-            "title": "Chinese tycoon sentenced to 30 years in US jail",
-            "content": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+            "title": "Anthropic says US lifts export ban on its advanced AI tools",
+            "content": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c1d/live/f85c62b0-7417-11f1-8709-f3ededd8395d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-33f930",
+            "id": "b2b-51a576",
             "tag": "B2B营销",
-            "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
-            "content": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+            "title": "Why Gen Z are planning for life without a state pension",
+            "content": "Many younger people do not believe the state pension will exist when they are older",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78c9/live/30070100-73bb-11f1-aaa1-3f07d3ad2c35.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a03/live/0c434d60-716c-11f1-8e1d-bbbb1017d210.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-512305",
+            "id": "wor-6ff683",
             "tag": "国际要闻",
-            "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-            "content": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+            "title": "Trump made more than $1bn from crypto in first year back in office",
+            "content": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
+            "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d240f0",
+            "id": "wor-ff4282",
             "tag": "国际要闻",
-            "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-            "content": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+            "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+            "content": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9778/live/5b9c0de0-74c1-11f1-8546-8f19e4fe30f4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-fa4ff7",
+            "id": "wor-0645bc",
             "tag": "国际要闻",
-            "title": "Six people shot dead at centre for mothers and children in Germany",
-            "content": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+            "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+            "content": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg",
             "category": "world"
       }
 ],
