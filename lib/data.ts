@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-02 04:38:58
+// Auto-generated news data at 2026-07-03 04:25:00
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月02日',
-  update_time: '2026-07-02 04:38:58',
+  date: '2026年07月03日',
+  update_time: '2026-07-03 04:25:00',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-41c0b7",
+            "id": "ai-06e742",
             "tag": "AI人工智能",
-            "title": "Don't expect trackers to save your stolen car, experts say",
-            "content": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+            "title": "AI is 'not smart' so what's next in artificial intelligence?",
+            "content": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9911/live/376d7550-75a5-11f1-8672-df1a6610885c.png",
+            "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-686787",
+            "id": "ai-3f4014",
             "tag": "AI人工智能",
-            "title": "PlayStation will stop releasing games on discs in 2028",
-            "content": "The firm said future games would still be sold in shops, but they would come with a digital code only.",
+            "title": "Meta glasses wearers hit with paywall to use built-in feature",
+            "content": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/671f/live/b441e390-754b-11f1-a0e5-ab9c63e24c99.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da90/live/6a202b80-7615-11f1-ac6e-25f7e4f0c9b9.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-0838fe",
+            "id": "ai-a99629",
             "tag": "AI人工智能",
-            "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-            "content": "The actor, who died in 2016, appears in the Netflix show with the consent of his estate.",
+            "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+            "content": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f624/live/ed6342c0-7543-11f1-81d0-b57b06d692af.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9620/live/1da00990-75f9-11f1-8c3f-e37c76e39331.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-328145",
+            "id": "b2b-001c64",
             "tag": "B2B营销",
-            "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
-            "content": "Official documents show the US president made billions of dollars as he returned to the White House.",
+            "title": "'We give up to £400': How much should you gift at a wedding?",
+            "content": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/594f/live/8d250090-7572-11f1-9634-57b9e01d300c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ddb/live/ebaaa0d0-7544-11f1-80c5-0be6bd1362c3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-518c76",
+            "id": "b2b-2b4990",
             "tag": "B2B营销",
-            "title": "Don't expect trackers to save your stolen car, experts say",
-            "content": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+            "title": "Pubs allowed to stay open until 5am for England Mexico match",
+            "content": "The government had initially said it would not relax licensing laws further for the World Cup.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9911/live/376d7550-75a5-11f1-8672-df1a6610885c.png",
+            "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ab2/live/e30a5c40-7634-11f1-9510-1546718f668b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a21fd7",
+            "id": "b2b-8ee94a",
             "tag": "B2B营销",
-            "title": "Halifax brand to be scrapped after 173 years",
-            "content": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+            "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+            "content": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c59/live/a65a42d0-7551-11f1-a0e5-ab9c63e24c99.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5c2/live/ee508840-765c-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-605750",
+            "id": "b2b-b020ba",
             "tag": "B2B营销",
-            "title": "US blocks long-term renewal of North American trade deal",
-            "content": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+            "title": "Ryanair warns of 'queue chaos' from new EU border system",
+            "content": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/f7cb11e0-7609-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2d291b",
+            "id": "wor-1cbf4c",
             "tag": "国际要闻",
-            "title": "Russia launches deadly large-scale missile and drone strikes on Kyiv",
-            "content": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+            "title": "Venezuela quake survivor pulled out alive after eight days",
+            "content": "Venezuela quake survivor pulled out alive after eight days",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-fdeb3f",
+            "tag": "国际要闻",
+            "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+            "content": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b5a/live/4f8a2030-75c7-11f1-bb41-9f45e759ab46.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg",
             "category": "world"
       },
       {
-            "id": "wor-14bc4d",
+            "id": "wor-680eac",
             "tag": "国际要闻",
-            "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-            "content": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+            "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+            "content": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e305/live/80da2240-75ac-11f1-9510-1546718f668b.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-482ae5",
-            "tag": "国际要闻",
-            "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-            "content": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
             "category": "world"
       }
 ],
