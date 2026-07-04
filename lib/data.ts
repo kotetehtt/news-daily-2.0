@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-03 04:25:00
+// Auto-generated news data at 2026-07-04 04:10:43
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月03日',
-  update_time: '2026-07-03 04:25:00',
+  date: '2026年07月04日',
+  update_time: '2026-07-04 04:10:43',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-6705ba",
+            "tag": "AI人工智能",
+            "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+            "content": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef8/live/2a1f8cf0-76f2-11f1-b9cc-bd5880081b3f.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-06e742",
             "tag": "AI人工智能",
             "title": "AI is 'not smart' so what's next in artificial intelligence?",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da90/live/6a202b80-7615-11f1-ac6e-25f7e4f0c9b9.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-a99629",
-            "tag": "AI人工智能",
-            "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-            "content": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9620/live/1da00990-75f9-11f1-8c3f-e37c76e39331.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-001c64",
+            "id": "b2b-5a7dd7",
             "tag": "B2B营销",
-            "title": "'We give up to £400': How much should you gift at a wedding?",
+            "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+            "content": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edfe/live/f0916630-76cd-11f1-b508-3b3f1f22a3c1.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-b1ff07",
+            "tag": "B2B营销",
+            "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
             "content": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ddb/live/ebaaa0d0-7544-11f1-80c5-0be6bd1362c3.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed09/live/eee79ae0-76da-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2b4990",
+            "id": "b2b-3f4438",
             "tag": "B2B营销",
-            "title": "Pubs allowed to stay open until 5am for England Mexico match",
-            "content": "The government had initially said it would not relax licensing laws further for the World Cup.",
+            "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+            "content": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ab2/live/e30a5c40-7634-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/420a/live/847a2120-76c4-11f1-bd3f-0f791277aaa0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8ee94a",
+            "id": "b2b-26b085",
             "tag": "B2B营销",
-            "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-            "content": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+            "title": "Burnham says there is some room for movement on tax",
+            "content": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5c2/live/ee508840-765c-11f1-b976-0b9c15b0ccfc.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-b020ba",
-            "tag": "B2B营销",
-            "title": "Ryanair warns of 'queue chaos' from new EU border system",
-            "content": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/f7cb11e0-7609-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6eb7/live/8e7bce30-7647-11f1-83d0-9b0728fe8be0.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1cbf4c",
+            "id": "wor-41c69b",
             "tag": "国际要闻",
-            "title": "Venezuela quake survivor pulled out alive after eight days",
-            "content": "Venezuela quake survivor pulled out alive after eight days",
+            "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+            "content": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-fdeb3f",
+            "id": "wor-2893db",
             "tag": "国际要闻",
-            "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-            "content": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+            "title": "Polish PM warns critical months ahead in face of Russian threat",
+            "content": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-680eac",
+            "id": "wor-69d922",
             "tag": "国际要闻",
-            "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-            "content": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+            "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+            "content": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg",
             "category": "world"
       }
 ],
