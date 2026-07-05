@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-04 04:10:43
+// Auto-generated news data at 2026-07-05 04:39:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月04日',
-  update_time: '2026-07-04 04:10:43',
+  date: '2026年07月05日',
+  update_time: '2026-07-05 04:39:02',
   banner: [
       {
             "id": "ai-001",
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-41c69b",
+            "id": "wor-ea7ff1",
             "tag": "国际要闻",
-            "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-            "content": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+            "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+            "content": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2893db",
+            "id": "wor-292713",
             "tag": "国际要闻",
-            "title": "Polish PM warns critical months ahead in face of Russian threat",
-            "content": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+            "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+            "content": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
             "category": "world"
       },
       {
-            "id": "wor-69d922",
+            "id": "wor-4a62c6",
             "tag": "国际要闻",
-            "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-            "content": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+            "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+            "content": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
             "category": "world"
       }
 ],
