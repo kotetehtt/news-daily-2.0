@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-05 04:39:02
+// Auto-generated news data at 2026-07-06 04:50:44
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月05日',
-  update_time: '2026-07-05 04:39:02',
+  date: '2026年07月06日',
+  update_time: '2026-07-06 04:50:44',
   banner: [
       {
             "id": "ai-001",
@@ -227,36 +227,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b1ff07",
+            "id": "b2b-66d73b",
             "tag": "B2B营销",
-            "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-            "content": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+            "title": "Three things you can do to stop EU border checks at the airport costing you",
+            "content": "Queues are expected at airports this summer owing to EU's new digital border control system.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed09/live/eee79ae0-76da-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-3f4438",
+            "id": "b2b-0d0e2a",
             "tag": "B2B营销",
-            "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
-            "content": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+            "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+            "content": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/420a/live/847a2120-76c4-11f1-bd3f-0f791277aaa0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-26b085",
+            "id": "b2b-9701e1",
             "tag": "B2B营销",
-            "title": "Burnham says there is some room for movement on tax",
-            "content": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+            "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
+            "content": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6eb7/live/8e7bce30-7647-11f1-83d0-9b0728fe8be0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwykk095yzzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ea7ff1",
+            "id": "wor-45d41e",
             "tag": "国际要闻",
-            "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-            "content": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+            "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+            "content": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f067/live/f76e6560-789a-11f1-9510-1546718f668b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-292713",
+            "id": "wor-1ccd58",
             "tag": "国际要闻",
-            "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-            "content": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+            "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+            "content": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+            "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f07e/live/a49ba830-7899-11f1-9510-1546718f668b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4a62c6",
+            "id": "wor-383bec",
             "tag": "国际要闻",
-            "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-            "content": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+            "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+            "content": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg",
             "category": "world"
       }
 ],
