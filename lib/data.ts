@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-06 04:50:44
+// Auto-generated news data at 2026-07-07 04:32:15
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月06日',
-  update_time: '2026-07-06 04:50:44',
+  date: '2026年07月07日',
+  update_time: '2026-07-07 04:32:15',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-0b15c8",
+            "tag": "AI人工智能",
+            "title": "Robots available for rent: But what can they do?",
+            "content": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d48c/live/eaf47f10-6ed4-11f1-b1db-af71d47507d6.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-752a76",
+            "tag": "AI人工智能",
+            "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+            "content": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc35/live/26aac8a0-794f-11f1-bfee-d367081f1131.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-6705ba",
             "tag": "AI人工智能",
             "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef8/live/2a1f8cf0-76f2-11f1-b9cc-bd5880081b3f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-06e742",
-            "tag": "AI人工智能",
-            "title": "AI is 'not smart' so what's next in artificial intelligence?",
-            "content": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-3f4014",
-            "tag": "AI人工智能",
-            "title": "Meta glasses wearers hit with paywall to use built-in feature",
-            "content": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da90/live/6a202b80-7615-11f1-ac6e-25f7e4f0c9b9.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5a7dd7",
+            "id": "b2b-9ce538",
             "tag": "B2B营销",
-            "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-            "content": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+            "title": "Banks accused of failing most vulnerable customers",
+            "content": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edfe/live/f0916630-76cd-11f1-b508-3b3f1f22a3c1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-66d73b",
+            "id": "b2b-9b4aa5",
             "tag": "B2B营销",
-            "title": "Three things you can do to stop EU border checks at the airport costing you",
-            "content": "Queues are expected at airports this summer owing to EU's new digital border control system.",
+            "title": "Amazon bars breastfeeding boss from business course",
+            "content": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png",
+            "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94fe/live/0f15c2b0-798d-11f1-97bb-1f6a9ee67044.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0d0e2a",
+            "id": "b2b-65dbf5",
             "tag": "B2B营销",
-            "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-            "content": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+            "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
+            "content": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png",
+            "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caee/live/a28950a0-7962-11f1-9ade-614b823fa1e3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9701e1",
+            "id": "b2b-a8d19b",
             "tag": "B2B营销",
-            "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
-            "content": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
+            "title": "Samsung profits jump 1,800% as AI chip sales soar",
+            "content": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwykk095yzzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63fa/live/777f2260-78cf-11f1-99f6-757fc101c54a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-45d41e",
+            "id": "wor-fe74b8",
             "tag": "国际要闻",
-            "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-            "content": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+            "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+            "content": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f067/live/f76e6560-789a-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1ccd58",
+            "id": "wor-76cf1f",
             "tag": "国际要闻",
-            "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-            "content": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+            "title": "Trump confirms he asked Fifa to review Balogun ban",
+            "content": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f07e/live/a49ba830-7899-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-383bec",
+            "id": "wor-da0a69",
             "tag": "国际要闻",
-            "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-            "content": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+            "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+            "content": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
             "category": "world"
       }
 ],
