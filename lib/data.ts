@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-07 04:32:15
+// Auto-generated news data at 2026-07-08 03:53:43
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月07日',
-  update_time: '2026-07-07 04:32:15',
+  date: '2026年07月08日',
+  update_time: '2026-07-08 03:53:43',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9ce538",
+            "id": "b2b-92e738",
             "tag": "B2B营销",
-            "title": "Banks accused of failing most vulnerable customers",
-            "content": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+            "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+            "content": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b4e/live/7543c880-7a68-11f1-b3a0-9d60633dee75.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9b4aa5",
+            "id": "b2b-6215a2",
             "tag": "B2B营销",
-            "title": "Amazon bars breastfeeding boss from business course",
-            "content": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+            "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+            "content": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94fe/live/0f15c2b0-798d-11f1-97bb-1f6a9ee67044.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6272/live/5288e910-7a2c-11f1-9510-1546718f668b.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-65dbf5",
+            "id": "b2b-fccbc3",
             "tag": "B2B营销",
-            "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-            "content": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
+            "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+            "content": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caee/live/a28950a0-7962-11f1-9ade-614b823fa1e3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd9/live/d28bdfb0-7a3a-11f1-ab76-d75965dea4d1.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a8d19b",
+            "id": "b2b-4fbd0d",
             "tag": "B2B营销",
-            "title": "Samsung profits jump 1,800% as AI chip sales soar",
-            "content": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+            "title": "Australia dock workers call for 28-hour week in AI talks",
+            "content": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63fa/live/777f2260-78cf-11f1-99f6-757fc101c54a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ee/live/e53155d0-7a64-11f1-8afe-8b17e9163080.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-fe74b8",
+            "id": "wor-5463f0",
             "tag": "国际要闻",
-            "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-            "content": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+            "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+            "content": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74d0/live/60cd7970-7a7f-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-76cf1f",
+            "id": "wor-b2cf34",
             "tag": "国际要闻",
-            "title": "Trump confirms he asked Fifa to review Balogun ban",
-            "content": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+            "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+            "content": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
             "category": "world"
       },
       {
-            "id": "wor-da0a69",
+            "id": "wor-8d62c5",
             "tag": "国际要闻",
-            "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-            "content": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+            "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+            "content": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
             "category": "world"
       }
 ],
