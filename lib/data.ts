@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-08 03:53:43
+// Auto-generated news data at 2026-07-09 04:29:27
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月08日',
-  update_time: '2026-07-08 03:53:43',
+  date: '2026年07月09日',
+  update_time: '2026-07-09 04:29:27',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-0b15c8",
+            "id": "ai-9eb832",
             "tag": "AI人工智能",
-            "title": "Robots available for rent: But what can they do?",
-            "content": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+            "title": "Wealthy AI workers send San Francisco house prices soaring",
+            "content": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d48c/live/eaf47f10-6ed4-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c6c/live/84338380-79eb-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-752a76",
+            "id": "ai-116df0",
             "tag": "AI人工智能",
-            "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-            "content": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+            "content": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc35/live/26aac8a0-794f-11f1-bfee-d367081f1131.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fa5/live/3d76fa30-7adb-11f1-bee8-53ce494e1abc.png",
             "category": "ai"
       },
       {
-            "id": "ai-6705ba",
+            "id": "ai-8643af",
             "tag": "AI人工智能",
-            "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-            "content": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+            "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
+            "content": "The Esports World Cup gets going in Paris after a last-minute move from Saudi Arabia. Is it any less controversial?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef8/live/2a1f8cf0-76f2-11f1-b9cc-bd5880081b3f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/761c/live/51aa33c0-7a2a-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "ai"
       }
 ],
@@ -216,14 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-92e738",
+            "id": "b2b-ddbfa4",
             "tag": "B2B营销",
-            "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-            "content": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+            "title": "Why electric cars cost more to insure - and what's being done about it",
+            "content": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b4e/live/7543c880-7a68-11f1-b3a0-9d60633dee75.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bac1/live/0041f990-7959-11f1-b976-0b9c15b0ccfc.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-7bec91",
+            "tag": "B2B营销",
+            "title": "I run the UK's biggest bank, here are five ways to manage your money",
+            "content": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47dd/live/7709e540-7ae6-11f1-9a9c-53fd8f110370.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-15f412",
+            "tag": "B2B营销",
+            "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+            "content": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fac/live/fce6af60-7ab2-11f1-9510-1546718f668b.jpg",
             "category": "b2b"
       },
       {
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6272/live/5288e910-7a2c-11f1-9510-1546718f668b.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-fccbc3",
-            "tag": "B2B营销",
-            "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-            "content": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd9/live/d28bdfb0-7a3a-11f1-ab76-d75965dea4d1.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-4fbd0d",
-            "tag": "B2B营销",
-            "title": "Australia dock workers call for 28-hour week in AI talks",
-            "content": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ee/live/e53155d0-7a64-11f1-8afe-8b17e9163080.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-5463f0",
+            "id": "wor-9b94bc",
             "tag": "国际要闻",
-            "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-            "content": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+            "title": "US launches more strikes on Iran with blasts reported in south of country",
+            "content": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74d0/live/60cd7970-7a7f-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b2cf34",
+            "id": "wor-8f7a19",
             "tag": "国际要闻",
-            "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-            "content": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+            "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+            "content": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8d62c5",
+            "id": "wor-53161f",
             "tag": "国际要闻",
-            "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-            "content": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+            "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+            "content": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
             "category": "world"
       }
 ],
