@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-09 04:29:27
+// Auto-generated news data at 2026-07-10 04:32:40
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月09日',
-  update_time: '2026-07-09 04:29:27',
+  date: '2026年07月10日',
+  update_time: '2026-07-10 04:32:40',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9eb832",
+            "id": "ai-930f8b",
             "tag": "AI人工智能",
-            "title": "Wealthy AI workers send San Francisco house prices soaring",
-            "content": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+            "content": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c6c/live/84338380-79eb-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4f/live/3385e7f0-7ba5-11f1-867f-b981d6d1f257.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-116df0",
+            "id": "ai-d99aec",
             "tag": "AI人工智能",
-            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-            "content": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+            "title": "Pressure builds on Europe's biggest port to be greener",
+            "content": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fa5/live/3d76fa30-7adb-11f1-bee8-53ce494e1abc.png",
+            "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c82f/live/34e11c20-7397-11f1-b1db-af71d47507d6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-8643af",
+            "id": "ai-b3faad",
             "tag": "AI人工智能",
-            "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
-            "content": "The Esports World Cup gets going in Paris after a last-minute move from Saudi Arabia. Is it any less controversial?",
+            "title": "Porn site company fined £630,000 over failed age checks",
+            "content": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/761c/live/51aa33c0-7a2a-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a15f/live/ee3faaa0-7b86-11f1-881d-8fcf7e2296a7.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-ddbfa4",
+            "id": "b2b-8174a1",
             "tag": "B2B营销",
-            "title": "Why electric cars cost more to insure - and what's being done about it",
-            "content": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+            "content": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bac1/live/0041f990-7959-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4f/live/3385e7f0-7ba5-11f1-867f-b981d6d1f257.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7bec91",
+            "id": "b2b-029282",
             "tag": "B2B营销",
-            "title": "I run the UK's biggest bank, here are five ways to manage your money",
-            "content": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+            "title": "Vapes to have less enticing names to protect children, under UK plans",
+            "content": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47dd/live/7709e540-7ae6-11f1-9a9c-53fd8f110370.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/aaac8d00-7b93-11f1-897a-ebe8a20106d3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-15f412",
+            "id": "b2b-ab268b",
             "tag": "B2B营销",
-            "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-            "content": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+            "title": "We saved £6,000 on holidays by swapping homes with strangers",
+            "content": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fac/live/fce6af60-7ab2-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/74796a60-7b6a-11f1-936a-038dbfe02d14.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6215a2",
+            "id": "b2b-44ed21",
             "tag": "B2B营销",
-            "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-            "content": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+            "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+            "content": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6272/live/5288e910-7a2c-11f1-9510-1546718f668b.png",
+            "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9b94bc",
+            "id": "wor-042eb1",
             "tag": "国际要闻",
-            "title": "US launches more strikes on Iran with blasts reported in south of country",
-            "content": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+            "title": "US and Iran trade attacks as Khamenei is buried",
+            "content": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25b2/live/c138fc50-7bf4-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8f7a19",
+            "id": "wor-ec0b88",
             "tag": "国际要闻",
-            "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
-            "content": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+            "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
+            "content": "Six people were injured in the blaze in Los Gallardos in the province of Almería.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-53161f",
+            "id": "wor-461ca9",
             "tag": "国际要闻",
-            "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-            "content": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+            "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+            "content": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
             "category": "world"
       }
 ],
