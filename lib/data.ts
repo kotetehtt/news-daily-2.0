@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-10 04:32:40
+// Auto-generated news data at 2026-07-11 03:51:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月10日',
-  update_time: '2026-07-10 04:32:40',
+  date: '2026年07月11日',
+  update_time: '2026-07-11 03:51:02',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-930f8b",
+            "id": "ai-f4c0f7",
             "tag": "AI人工智能",
-            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-            "content": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+            "title": "Meta pulls new AI image feature after days of backlash",
+            "content": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4f/live/3385e7f0-7ba5-11f1-867f-b981d6d1f257.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
             "category": "ai"
       },
       {
-            "id": "ai-d99aec",
+            "id": "ai-f77b61",
             "tag": "AI人工智能",
-            "title": "Pressure builds on Europe's biggest port to be greener",
-            "content": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+            "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+            "content": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c82f/live/34e11c20-7397-11f1-b1db-af71d47507d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b3faad",
+            "id": "ai-a07dea",
             "tag": "AI人工智能",
-            "title": "Porn site company fined £630,000 over failed age checks",
-            "content": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
+            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+            "content": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a15f/live/ee3faaa0-7b86-11f1-881d-8fcf7e2296a7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,28 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-11b147",
+            "tag": "B2B营销",
+            "title": "Major car firms found not to have installed emissions-cheating devices",
+            "content": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2090/live/3976f070-7c75-11f1-917a-91e958a7e786.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-f8708a",
+            "tag": "B2B营销",
+            "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+            "content": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18e4/live/9e552290-7c30-11f1-b3bb-a3d4161295ad.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-8174a1",
             "tag": "B2B营销",
             "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
@@ -223,40 +245,18 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4f/live/3385e7f0-7ba5-11f1-867f-b981d6d1f257.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40f4/live/3731f960-7c3c-11f1-9510-1546718f668b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-029282",
+            "id": "b2b-2175e7",
             "tag": "B2B营销",
-            "title": "Vapes to have less enticing names to protect children, under UK plans",
-            "content": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
+            "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+            "content": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/aaac8d00-7b93-11f1-897a-ebe8a20106d3.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-ab268b",
-            "tag": "B2B营销",
-            "title": "We saved £6,000 on holidays by swapping homes with strangers",
-            "content": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/74796a60-7b6a-11f1-936a-038dbfe02d14.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-44ed21",
-            "tag": "B2B营销",
-            "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-            "content": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c20/live/34d39400-7c5d-11f1-802c-e767a91f6051.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-042eb1",
+            "id": "wor-7bf102",
             "tag": "国际要闻",
-            "title": "US and Iran trade attacks as Khamenei is buried",
-            "content": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+            "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+            "content": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25b2/live/c138fc50-7bf4-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ec0b88",
+            "id": "wor-30a687",
             "tag": "国际要闻",
-            "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
-            "content": "Six people were injured in the blaze in Los Gallardos in the province of Almería.",
+            "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+            "content": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/738c/live/597cfe00-7c8e-11f1-aaf7-dd74e91b17e4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-461ca9",
+            "id": "wor-ad80be",
             "tag": "国际要闻",
-            "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-            "content": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+            "title": "Meet the crypto billionaires building a world where money buys you a vote",
+            "content": "They think democracy has run its course - so they're setting up their own nations instead.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
             "category": "world"
       }
 ],
