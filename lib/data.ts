@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-11 03:51:02
+// Auto-generated news data at 2026-07-12 04:06:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月11日',
-  update_time: '2026-07-11 03:51:02',
+  date: '2026年07月12日',
+  update_time: '2026-07-12 04:06:11',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-c8b16b",
+            "tag": "B2B营销",
+            "title": "Will Trump Accounts deliver for American children?",
+            "content": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-11b147",
             "tag": "B2B营销",
             "title": "Major car firms found not to have installed emissions-cheating devices",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40f4/live/3731f960-7c3c-11f1-9510-1546718f668b.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-2175e7",
-            "tag": "B2B营销",
-            "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-            "content": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c20/live/34d39400-7c5d-11f1-802c-e767a91f6051.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7bf102",
+            "id": "wor-945ccd",
             "tag": "国际要闻",
-            "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-            "content": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+            "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+            "content": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-30a687",
+            "id": "wor-c652f1",
             "tag": "国际要闻",
-            "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-            "content": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+            "title": "China's second typhoon in a week makes landfall",
+            "content": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/738c/live/597cfe00-7c8e-11f1-aaf7-dd74e91b17e4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ad80be",
+            "id": "wor-8a51f9",
             "tag": "国际要闻",
-            "title": "Meet the crypto billionaires building a world where money buys you a vote",
-            "content": "They think democracy has run its course - so they're setting up their own nations instead.",
+            "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+            "content": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       }
 ],
