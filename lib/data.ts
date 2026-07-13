@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-12 04:06:11
+// Auto-generated news data at 2026-07-13 04:08:21
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月12日',
-  update_time: '2026-07-12 04:06:11',
+  date: '2026年07月13日',
+  update_time: '2026-07-13 04:08:21',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-5ed721",
+            "tag": "AI人工智能",
+            "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+            "content": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+            "category": "ai"
+      },
+      {
             "id": "ai-f4c0f7",
             "tag": "AI人工智能",
             "title": "Meta pulls new AI image feature after days of backlash",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-a07dea",
-            "tag": "AI人工智能",
-            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-            "content": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-c8b16b",
+            "id": "b2b-b43ae4",
             "tag": "B2B营销",
-            "title": "Will Trump Accounts deliver for American children?",
-            "content": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+            "title": "Why switching to save money is easier than you might think",
+            "content": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/a606cc70-7c74-11f1-917a-91e958a7e786.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-11b147",
+            "id": "b2b-4dda56",
             "tag": "B2B营销",
-            "title": "Major car firms found not to have installed emissions-cheating devices",
-            "content": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
+            "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+            "content": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2090/live/3976f070-7c75-11f1-917a-91e958a7e786.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-f8708a",
+            "id": "b2b-b3c4fa",
             "tag": "B2B营销",
-            "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-            "content": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+            "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+            "content": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18e4/live/9e552290-7c30-11f1-b3bb-a3d4161295ad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8174a1",
+            "id": "b2b-3b6928",
             "tag": "B2B营销",
-            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-            "content": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+            "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+            "content": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40f4/live/3731f960-7c3c-11f1-9510-1546718f668b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4172/live/943434a0-7d24-11f1-ba31-ed66fa13cdef.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-945ccd",
+            "id": "wor-6b5883",
             "tag": "国际要闻",
-            "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-            "content": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+            "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+            "content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-e5b7be",
+            "tag": "国际要闻",
+            "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+            "content": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c652f1",
+            "id": "wor-b5d71c",
             "tag": "国际要闻",
-            "title": "China's second typhoon in a week makes landfall",
-            "content": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+            "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+            "content": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-8a51f9",
-            "tag": "国际要闻",
-            "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-            "content": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
             "category": "world"
       }
 ],
