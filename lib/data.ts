@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-13 04:08:21
+// Auto-generated news data at 2026-07-14 03:43:55
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月13日',
-  update_time: '2026-07-13 04:08:21',
+  date: '2026年07月14日',
+  update_time: '2026-07-14 03:43:55',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-1acab6",
+            "tag": "AI人工智能",
+            "title": "Is tracking your food purchases good for your health?",
+            "content": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ac4/live/19124130-7492-11f1-8e1d-bbbb1017d210.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-5ed721",
             "tag": "AI人工智能",
             "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-f77b61",
-            "tag": "AI人工智能",
-            "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-            "content": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b43ae4",
+            "id": "b2b-8c5579",
             "tag": "B2B营销",
-            "title": "Why switching to save money is easier than you might think",
-            "content": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+            "title": "The secretive crypto firm backed by Farage's biggest donor",
+            "content": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/a606cc70-7c74-11f1-917a-91e958a7e786.png",
+            "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ae0/live/c36317c0-7ef3-11f1-83a7-0959f8cc10cc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4dda56",
+            "id": "b2b-698009",
             "tag": "B2B营销",
-            "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-            "content": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+            "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+            "content": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+            "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f19/live/cf46fe70-7c6a-11f1-b259-7334926d10bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b3c4fa",
+            "id": "b2b-4775bf",
             "tag": "B2B营销",
-            "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-            "content": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+            "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+            "content": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78bd/live/e5f7dff0-7edf-11f1-931d-ab3863ef09cd.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3b6928",
+            "id": "b2b-3b8775",
             "tag": "B2B营销",
-            "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-            "content": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+            "title": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
+            "content": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4172/live/943434a0-7d24-11f1-ba31-ed66fa13cdef.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9ab/live/6119a2a0-7f2a-11f1-a2d1-357b5800ed69.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6b5883",
+            "id": "wor-95ba7f",
             "tag": "国际要闻",
-            "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
-            "content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+            "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+            "content": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e5b7be",
+            "id": "wor-210031",
             "tag": "国际要闻",
-            "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-            "content": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+            "title": "''There was no way out': Witnesses describe how deadly inferno swept through Bangkok bar",
+            "content": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8bd/live/31d39210-7edc-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b5d71c",
+            "id": "wor-e862c9",
             "tag": "国际要闻",
-            "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-            "content": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+            "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+            "content": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       }
 ],
