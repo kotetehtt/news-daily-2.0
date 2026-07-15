@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-14 03:43:55
+// Auto-generated news data at 2026-07-15 03:43:58
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月14日',
-  update_time: '2026-07-14 03:43:55',
+  date: '2026年07月15日',
+  update_time: '2026-07-15 03:43:58',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,14 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-1acab6",
+            "id": "ai-fe8dbb",
             "tag": "AI人工智能",
-            "title": "Is tracking your food purchases good for your health?",
-            "content": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+            "title": "Midnight social media curfew proposed for older UK teens",
+            "content": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ac4/live/19124130-7492-11f1-8e1d-bbbb1017d210.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5c4/live/12555540-7f8b-11f1-a47a-d94293d2b0e4.jpg",
             "category": "ai"
       },
       {
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8c5579",
+            "id": "b2b-fa8fc3",
             "tag": "B2B营销",
-            "title": "The secretive crypto firm backed by Farage's biggest donor",
-            "content": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+            "title": "Heating oil customers to get compensation after price hikes",
+            "content": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ae0/live/c36317c0-7ef3-11f1-83a7-0959f8cc10cc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cb5/live/a97b22b0-7f95-11f1-ac71-510b51a60620.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-698009",
+            "id": "b2b-ca6458",
             "tag": "B2B营销",
-            "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
-            "content": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+            "title": "Buy Now Pay Later rules to bring refunds and rejections",
+            "content": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f19/live/cf46fe70-7c6a-11f1-b259-7334926d10bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d55c/live/e2e009b0-7ec0-11f1-8439-ebc9c5f19300.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4775bf",
+            "id": "b2b-f4dce8",
             "tag": "B2B营销",
-            "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
-            "content": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
+            "title": "I changed jobs 10 times in 10 years to get the career I wanted",
+            "content": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78bd/live/e5f7dff0-7edf-11f1-931d-ab3863ef09cd.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b112/live/176aa4b0-7c32-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3b8775",
+            "id": "b2b-300b1a",
             "tag": "B2B营销",
-            "title": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
-            "content": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
+            "title": "China economic growth falls sharply, missing target",
+            "content": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9ab/live/6119a2a0-7f2a-11f1-a2d1-357b5800ed69.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-95ba7f",
+            "id": "wor-3737bc",
             "tag": "国际要闻",
-            "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-            "content": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+            "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+            "content": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-210031",
+            "id": "wor-074f19",
             "tag": "国际要闻",
-            "title": "''There was no way out': Witnesses describe how deadly inferno swept through Bangkok bar",
-            "content": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
+            "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+            "content": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8bd/live/31d39210-7edc-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e862c9",
+            "id": "wor-065c86",
             "tag": "国际要闻",
-            "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-            "content": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+            "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+            "content": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
             "category": "world"
       }
 ],
