@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-15 03:43:58
+// Auto-generated news data at 2026-07-16 03:46:48
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月15日',
-  update_time: '2026-07-15 03:43:58',
+  date: '2026年07月16日',
+  update_time: '2026-07-16 03:46:48',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-fe8dbb",
+            "id": "ai-62340a",
             "tag": "AI人工智能",
-            "title": "Midnight social media curfew proposed for older UK teens",
-            "content": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+            "title": "SpaceX share price drops below stock market debut",
+            "content": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-312473",
+            "tag": "AI人工智能",
+            "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+            "content": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5c4/live/12555540-7f8b-11f1-a47a-d94293d2b0e4.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5875/live/cd666860-806c-11f1-bee8-53ce494e1abc.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-f4c0f7",
-            "tag": "AI人工智能",
-            "title": "Meta pulls new AI image feature after days of backlash",
-            "content": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-fa8fc3",
+            "id": "b2b-0f2608",
             "tag": "B2B营销",
-            "title": "Heating oil customers to get compensation after price hikes",
-            "content": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
+            "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+            "content": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cb5/live/a97b22b0-7f95-11f1-ac71-510b51a60620.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgegqrp656o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa6c/live/202769c0-8057-11f1-a10f-077d9cf2208e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ca6458",
+            "id": "b2b-66cd3a",
             "tag": "B2B营销",
-            "title": "Buy Now Pay Later rules to bring refunds and rejections",
-            "content": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
+            "title": "SpaceX share price drops below stock market debut",
+            "content": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d55c/live/e2e009b0-7ec0-11f1-8439-ebc9c5f19300.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f4dce8",
+            "id": "b2b-668c39",
             "tag": "B2B营销",
-            "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-            "content": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+            "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
+            "content": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b112/live/176aa4b0-7c32-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40d0/live/4b8920c0-8090-11f1-bee8-53ce494e1abc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-300b1a",
+            "id": "b2b-cc227d",
             "tag": "B2B营销",
-            "title": "China economic growth falls sharply, missing target",
-            "content": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+            "title": "Salary information to be shown on job ads under new laws",
+            "content": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a965/live/a2688400-807a-11f1-b339-39b3d6faedee.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3737bc",
+            "id": "wor-4424d6",
             "tag": "国际要闻",
-            "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-            "content": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+            "title": "French MPs approve assisted dying law with strict rules after years of argument",
+            "content": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-074f19",
+            "id": "wor-23170c",
             "tag": "国际要闻",
-            "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-            "content": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+            "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+            "content": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-065c86",
+            "id": "wor-ce6c52",
             "tag": "国际要闻",
-            "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-            "content": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+            "title": "Argentina face action after waving Falklands banner",
+            "content": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
             "category": "world"
       }
 ],
