@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-16 03:46:48
+// Auto-generated news data at 2026-07-17 03:46:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月16日',
-  update_time: '2026-07-16 03:46:48',
+  date: '2026年07月17日',
+  update_time: '2026-07-17 03:46:09',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-62340a",
+            "id": "ai-2e5cc5",
             "tag": "AI人工智能",
-            "title": "SpaceX share price drops below stock market debut",
-            "content": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+            "title": "Trump Media to sell early access to key social posts",
+            "content": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-312473",
+            "id": "ai-21766f",
             "tag": "AI人工智能",
-            "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-            "content": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+            "title": "TikTok faces Ofcom investigation over child age checks",
+            "content": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5875/live/cd666860-806c-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5ed721",
+            "id": "ai-8f5dc7",
             "tag": "AI人工智能",
-            "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-            "content": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+            "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+            "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1c8/live/b89f8e40-8105-11f1-926f-c90d1bcfbc84.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-0f2608",
+            "id": "b2b-d13e33",
             "tag": "B2B营销",
-            "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
-            "content": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+            "title": "China hits out at British Steel nationalisation",
+            "content": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgegqrp656o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa6c/live/202769c0-8057-11f1-a10f-077d9cf2208e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72e5/live/17d2eee0-8181-11f1-a117-633a3b1f8a33.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-66cd3a",
+            "id": "b2b-b93784",
             "tag": "B2B营销",
-            "title": "SpaceX share price drops below stock market debut",
-            "content": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+            "title": "The financial winners and losers from the World Cup",
+            "content": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99ff/live/e74f4460-8065-11f1-bf5f-a7a6eeea7412.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-668c39",
+            "id": "b2b-54b87d",
             "tag": "B2B营销",
-            "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-            "content": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
+            "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+            "content": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40d0/live/4b8920c0-8090-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/254d/live/67655330-7934-11f1-8d20-776ad947bebb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-cc227d",
+            "id": "b2b-c8edd2",
             "tag": "B2B营销",
-            "title": "Salary information to be shown on job ads under new laws",
-            "content": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
+            "title": "Trump Media to sell early access to key social posts",
+            "content": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a965/live/a2688400-807a-11f1-b339-39b3d6faedee.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4424d6",
+            "id": "wor-14e2db",
             "tag": "国际要闻",
-            "title": "French MPs approve assisted dying law with strict rules after years of argument",
-            "content": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+            "title": "US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz",
+            "content": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-23170c",
+            "id": "wor-9d863f",
             "tag": "国际要闻",
-            "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-            "content": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+            "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+            "content": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cba/live/4b6416b0-810b-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ce6c52",
+            "id": "wor-4ff225",
             "tag": "国际要闻",
-            "title": "Argentina face action after waving Falklands banner",
-            "content": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+            "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+            "content": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp305dx493do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68be/live/0608caf0-8112-11f1-9ec3-fd524648df46.jpg",
             "category": "world"
       }
 ],
