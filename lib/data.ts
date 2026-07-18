@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-17 03:46:09
+// Auto-generated news data at 2026-07-18 03:41:03
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月17日',
-  update_time: '2026-07-17 03:46:09',
+  date: '2026年07月18日',
+  update_time: '2026-07-18 03:41:03',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,20 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-2e5cc5",
+            "id": "ai-96419d",
             "tag": "AI人工智能",
-            "title": "Trump Media to sell early access to key social posts",
+            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+            "content": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-ca15e5",
+            "tag": "AI人工智能",
+            "title": "Trump Media to sell instant access to 'market-moving' social posts",
             "content": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
             "source": "BBC News",
             "time": "今日",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-8f5dc7",
-            "tag": "AI人工智能",
-            "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-            "content": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1c8/live/b89f8e40-8105-11f1-926f-c90d1bcfbc84.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d13e33",
+            "id": "b2b-43c65d",
             "tag": "B2B营销",
-            "title": "China hits out at British Steel nationalisation",
-            "content": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+            "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+            "content": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72e5/live/17d2eee0-8181-11f1-a117-633a3b1f8a33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b93784",
+            "id": "b2b-a3a31c",
             "tag": "B2B营销",
-            "title": "The financial winners and losers from the World Cup",
-            "content": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
+            "title": "Five headaches Andy Burnham will have to deal with as PM",
+            "content": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99ff/live/e74f4460-8065-11f1-bf5f-a7a6eeea7412.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70f2/live/c74af560-8119-11f1-926f-c90d1bcfbc84.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-54b87d",
+            "id": "b2b-12c665",
             "tag": "B2B营销",
-            "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-            "content": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
+            "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+            "content": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/254d/live/67655330-7934-11f1-8d20-776ad947bebb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c8edd2",
+            "id": "b2b-e18df2",
             "tag": "B2B营销",
-            "title": "Trump Media to sell early access to key social posts",
-            "content": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+            "content": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-14e2db",
+            "id": "wor-255777",
             "tag": "国际要闻",
-            "title": "US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz",
-            "content": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+            "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+            "content": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9d863f",
+            "id": "wor-b2f5a8",
             "tag": "国际要闻",
-            "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-            "content": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+            "title": "US strikes hit Iran for seventh consecutive night",
+            "content": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cba/live/4b6416b0-810b-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4ff225",
+            "id": "wor-81c6a4",
             "tag": "国际要闻",
-            "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-            "content": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+            "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+            "content": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp305dx493do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68be/live/0608caf0-8112-11f1-9ec3-fd524648df46.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       }
 ],
