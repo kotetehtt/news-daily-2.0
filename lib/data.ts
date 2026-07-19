@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-18 03:41:03
+// Auto-generated news data at 2026-07-19 04:03:04
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月18日',
-  update_time: '2026-07-18 03:41:03',
+  date: '2026年07月19日',
+  update_time: '2026-07-19 04:03:04',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-95f0a2",
+            "tag": "B2B营销",
+            "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+            "content": "It's a small but growing problem in the property market - here's how to protect yourself.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-43c65d",
             "tag": "B2B营销",
             "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-e18df2",
-            "tag": "B2B营销",
-            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-            "content": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-255777",
+            "id": "wor-6ca40d",
             "tag": "国际要闻",
-            "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-            "content": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+            "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+            "content": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b2f5a8",
+            "id": "wor-32f844",
             "tag": "国际要闻",
-            "title": "US strikes hit Iran for seventh consecutive night",
-            "content": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+            "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+            "content": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-81c6a4",
+            "id": "wor-b2be60",
             "tag": "国际要闻",
-            "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-            "content": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+            "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+            "content": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
             "category": "world"
       }
 ],
