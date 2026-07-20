@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-19 04:03:04
+// Auto-generated news data at 2026-07-20 04:12:29
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月19日',
-  update_time: '2026-07-19 04:03:04',
+  date: '2026年07月20日',
+  update_time: '2026-07-20 04:12:29',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-95f0a2",
+            "id": "b2b-bd0e4f",
             "tag": "B2B营销",
-            "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-            "content": "It's a small but growing problem in the property market - here's how to protect yourself.",
+            "title": "Are you a parent missing out on £27 a week? Here's how to check",
+            "content": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2958/live/13ecab20-805c-11f1-a10f-077d9cf2208e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-43c65d",
+            "id": "b2b-065654",
             "tag": "B2B营销",
-            "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-            "content": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+            "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+            "content": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c902/live/4610abb0-8386-11f1-8537-c5e158f8690c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a3a31c",
+            "id": "b2b-86a16c",
             "tag": "B2B营销",
-            "title": "Five headaches Andy Burnham will have to deal with as PM",
-            "content": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+            "title": "My fitness tracker knew I was pregnant before I did",
+            "content": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70f2/live/c74af560-8119-11f1-926f-c90d1bcfbc84.png",
+            "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96bf/live/356d4010-7f8b-11f1-bee8-53ce494e1abc.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-12c665",
+            "id": "b2b-9d8b0c",
             "tag": "B2B营销",
-            "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-            "content": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+            "title": "New EU border system tripling time at passport control, airport boss says",
+            "content": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg",
             "category": "b2b"
       }
 ],
@@ -295,21 +295,21 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6ca40d",
+            "id": "wor-30e702",
             "tag": "国际要闻",
-            "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-            "content": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+            "title": "US soldier killed and one injured after Iranian attack in Iraq",
+            "content": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
             "category": "world"
       },
       {
-            "id": "wor-32f844",
+            "id": "wor-462171",
             "tag": "国际要闻",
-            "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-            "content": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+            "title": "Tate brothers arrested in US as further UK charges take total to 59",
+            "content": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o",
@@ -317,14 +317,14 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b2be60",
+            "id": "wor-4609d9",
             "tag": "国际要闻",
-            "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-            "content": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+            "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+            "content": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
             "category": "world"
       }
 ],
