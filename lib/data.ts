@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-20 04:12:29
+// Auto-generated news data at 2026-07-21 03:54:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月20日',
-  update_time: '2026-07-20 04:12:29',
+  date: '2026年07月21日',
+  update_time: '2026-07-21 03:54:53',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-96419d",
+            "id": "ai-f63bed",
             "tag": "AI人工智能",
-            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-            "content": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+            "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
+            "content": "Firms have to balance hi-tech and age-old skills when training up young workers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c442/live/4bb808d0-7533-11f1-a627-714adb4eed6e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ca15e5",
+            "id": "ai-33ec41",
             "tag": "AI人工智能",
-            "title": "Trump Media to sell instant access to 'market-moving' social posts",
-            "content": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+            "title": "Thousands of websites taken down for illegal World Cup streams",
+            "content": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-21766f",
+            "id": "ai-2de827",
             "tag": "AI人工智能",
-            "title": "TikTok faces Ofcom investigation over child age checks",
-            "content": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+            "title": "Ofcom unable to take further legal action against suicide forum",
+            "content": "The regulator said it had \"no further legal routes available\" under the Online Safety Act.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5845/live/bb4adc70-8458-11f1-8cf4-43aed99842b4.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-bd0e4f",
+            "id": "b2b-8ec129",
             "tag": "B2B营销",
-            "title": "Are you a parent missing out on £27 a week? Here's how to check",
-            "content": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+            "title": "Why Andy Burnham will find it so tricky to unite Britain",
+            "content": "Is there any common ground left?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2958/live/13ecab20-805c-11f1-a10f-077d9cf2208e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c72/live/b768c240-8442-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-065654",
+            "id": "b2b-b8ab33",
             "tag": "B2B营销",
-            "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-            "content": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+            "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+            "content": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c902/live/4610abb0-8386-11f1-8537-c5e158f8690c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e6c/live/07f87140-8418-11f1-b3ec-1d7f0502d196.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-86a16c",
+            "id": "b2b-2920db",
             "tag": "B2B营销",
-            "title": "My fitness tracker knew I was pregnant before I did",
-            "content": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
+            "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+            "content": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96bf/live/356d4010-7f8b-11f1-bee8-53ce494e1abc.png",
+            "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9d8b0c",
+            "id": "b2b-9e2030",
             "tag": "B2B营销",
-            "title": "New EU border system tripling time at passport control, airport boss says",
-            "content": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+            "title": "Burnham has big ideas - but what will they cost?",
+            "content": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-30e702",
+            "id": "wor-566218",
             "tag": "国际要闻",
-            "title": "US soldier killed and one injured after Iranian attack in Iraq",
-            "content": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+            "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+            "content": "The duties mark a major escalation in trade tensions between the North American neighbours.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-462171",
+            "id": "wor-ef055f",
             "tag": "国际要闻",
-            "title": "Tate brothers arrested in US as further UK charges take total to 59",
-            "content": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+            "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+            "content": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4609d9",
+            "id": "wor-268dd7",
             "tag": "国际要闻",
-            "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-            "content": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+            "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+            "content": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
             "category": "world"
       }
 ],
