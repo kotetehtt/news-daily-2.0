@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-21 03:54:53
+// Auto-generated news data at 2026-07-22 03:56:26
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月21日',
-  update_time: '2026-07-21 03:54:53',
+  date: '2026年07月22日',
+  update_time: '2026-07-22 03:56:26',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f63bed",
+            "id": "ai-2fcd3b",
             "tag": "AI人工智能",
-            "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-            "content": "Firms have to balance hi-tech and age-old skills when training up young workers.",
+            "title": "Will AI help you do your job or replace you?",
+            "content": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c442/live/4bb808d0-7533-11f1-a627-714adb4eed6e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png",
+            "category": "ai"
+      },
+      {
+            "id": "ai-149699",
+            "tag": "AI人工智能",
+            "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+            "content": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a45/live/09cd4a80-84d7-11f1-8a1f-271692b35cb6.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-2de827",
-            "tag": "AI人工智能",
-            "title": "Ofcom unable to take further legal action against suicide forum",
-            "content": "The regulator said it had \"no further legal routes available\" under the Online Safety Act.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5845/live/bb4adc70-8458-11f1-8cf4-43aed99842b4.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8ec129",
+            "id": "b2b-07c073",
             "tag": "B2B营销",
-            "title": "Why Andy Burnham will find it so tricky to unite Britain",
-            "content": "Is there any common ground left?",
+            "title": "Will AI help you do your job or replace you?",
+            "content": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c72/live/b768c240-8442-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-b8ab33",
+            "id": "b2b-3b53f3",
             "tag": "B2B营销",
-            "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
-            "content": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+            "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
+            "content": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e6c/live/07f87140-8418-11f1-b3ec-1d7f0502d196.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42d/live/6ae98c00-8529-11f1-8e99-5b188ca4e1b3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2920db",
+            "id": "b2b-20ac14",
             "tag": "B2B营销",
-            "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
-            "content": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
+            "title": "France passes law banning under-15s from social media",
+            "content": "The law will require social media platforms in France to verify all users age from January.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4c4/live/46825250-8580-11f1-a2a8-afc39501b832.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9e2030",
+            "id": "b2b-3ffecf",
             "tag": "B2B营销",
-            "title": "Burnham has big ideas - but what will they cost?",
-            "content": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+            "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+            "content": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-566218",
+            "id": "wor-2d693f",
             "tag": "国际要闻",
-            "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+            "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+            "content": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-ef1986",
+            "tag": "国际要闻",
+            "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+            "content": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ff6/live/ae6301f0-852e-11f1-b976-0b9c15b0ccfc.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-33e505",
+            "tag": "国际要闻",
+            "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
             "content": "The duties mark a major escalation in trade tensions between the North American neighbours.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-ef055f",
-            "tag": "国际要闻",
-            "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-            "content": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-268dd7",
-            "tag": "国际要闻",
-            "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-            "content": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a06b/live/1dd117f0-84dc-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "world"
       }
 ],
