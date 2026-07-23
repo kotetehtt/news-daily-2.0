@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-22 03:56:26
+// Auto-generated news data at 2026-07-23 03:53:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月22日',
-  update_time: '2026-07-22 03:56:26',
+  date: '2026年07月23日',
+  update_time: '2026-07-23 03:53:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-2fcd3b",
+            "id": "ai-b37d6a",
             "tag": "AI人工智能",
-            "title": "Will AI help you do your job or replace you?",
-            "content": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+            "title": "Google burning through cash with spiralling AI costs",
+            "content": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png",
+            "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-149699",
+            "id": "ai-c6da7f",
             "tag": "AI人工智能",
-            "title": "AI minister role boosted but tech department axed in Burnham shake-up",
-            "content": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
+            "title": "Teenager drops social media addiction lawsuit against Meta",
+            "content": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a45/live/09cd4a80-84d7-11f1-8a1f-271692b35cb6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5b6/live/950bd730-85fc-11f1-b3ca-7f13da683e7e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-33ec41",
+            "id": "ai-5c0b92",
             "tag": "AI人工智能",
-            "title": "Thousands of websites taken down for illegal World Cup streams",
-            "content": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+            "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+            "content": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d4/live/4b4f4070-8640-11f1-bee8-53ce494e1abc.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-07c073",
+            "id": "b2b-9271e2",
             "tag": "B2B营销",
-            "title": "Will AI help you do your job or replace you?",
+            "title": "Some food prices have fallen – but inflation expected to rise from here",
+            "content": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19da/live/ef0496f0-85bb-11f1-b976-0b9c15b0ccfc.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-fc3dfa",
+            "tag": "B2B营销",
+            "title": "Airport drop-off fees up by a third - here are the priciest",
+            "content": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37bb/live/4f2cc100-85f9-11f1-bee8-53ce494e1abc.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-97adcb",
+            "tag": "B2B营销",
+            "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+            "content": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-187a5d",
+            "tag": "B2B营销",
+            "title": "Will your job be replaced by AI? Here are the roles most affected",
             "content": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-3b53f3",
-            "tag": "B2B营销",
-            "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
-            "content": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42d/live/6ae98c00-8529-11f1-8e99-5b188ca4e1b3.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-20ac14",
-            "tag": "B2B营销",
-            "title": "France passes law banning under-15s from social media",
-            "content": "The law will require social media platforms in France to verify all users age from January.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4c4/live/46825250-8580-11f1-a2a8-afc39501b832.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-3ffecf",
-            "tag": "B2B营销",
-            "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
-            "content": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f9/live/4b60d010-85a5-11f1-b976-0b9c15b0ccfc.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2d693f",
+            "id": "wor-65fa6e",
             "tag": "国际要闻",
-            "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-            "content": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+            "title": "US signs landmark nuclear deal with Saudi Arabia",
+            "content": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ef1986",
+            "id": "wor-ab2d0f",
             "tag": "国际要闻",
-            "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-            "content": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+            "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+            "content": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ff6/live/ae6301f0-852e-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
             "category": "world"
       },
       {
-            "id": "wor-33e505",
+            "id": "wor-e18966",
             "tag": "国际要闻",
-            "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-            "content": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+            "title": "Tankers make sharp U-turns after Houthi shipping threat",
+            "content": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a06b/live/1dd117f0-84dc-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88e8/live/95f90c40-85ce-11f1-b976-0b9c15b0ccfc.png",
             "category": "world"
       }
 ],
