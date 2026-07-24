@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-23 03:53:28
+// Auto-generated news data at 2026-07-24 03:52:35
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月23日',
-  update_time: '2026-07-23 03:53:28',
+  date: '2026年07月24日',
+  update_time: '2026-07-24 03:52:35',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-b37d6a",
+            "id": "ai-f0f6b2",
             "tag": "AI人工智能",
-            "title": "Google burning through cash with spiralling AI costs",
-            "content": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+            "title": "Google fined €890m by EU for favouring its own apps over rivals",
+            "content": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f649/live/69a3a390-869f-11f1-a0b6-435e4178a497.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-0f5229",
+            "tag": "AI人工智能",
+            "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+            "content": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-f8b19e",
+            "tag": "AI人工智能",
+            "title": "Google and Tesla shares plunge as AI spending rattles markets",
+            "content": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-c6da7f",
-            "tag": "AI人工智能",
-            "title": "Teenager drops social media addiction lawsuit against Meta",
-            "content": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5b6/live/950bd730-85fc-11f1-b3ca-7f13da683e7e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-5c0b92",
-            "tag": "AI人工智能",
-            "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-            "content": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d4/live/4b4f4070-8640-11f1-bee8-53ce494e1abc.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9271e2",
+            "id": "b2b-57edef",
             "tag": "B2B营销",
-            "title": "Some food prices have fallen – but inflation expected to rise from here",
-            "content": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+            "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+            "content": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19da/live/ef0496f0-85bb-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fc3dfa",
+            "id": "b2b-9fdab6",
             "tag": "B2B营销",
-            "title": "Airport drop-off fees up by a third - here are the priciest",
-            "content": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports.",
+            "title": "UK complacent about war threat, warns defence boss",
+            "content": "UK complacent about war threat, warns defence boss",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37bb/live/4f2cc100-85f9-11f1-bee8-53ce494e1abc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cf8/live/60e4b350-86a6-11f1-a0b6-435e4178a497.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-97adcb",
+            "id": "b2b-148073",
             "tag": "B2B营销",
-            "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-            "content": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+            "title": "We split bills equally even when one of us earned a lot more",
+            "content": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22f0/live/f1261bc0-85d9-11f1-8f00-252bc70ad71a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-187a5d",
+            "id": "b2b-4d7acb",
             "tag": "B2B营销",
-            "title": "Will your job be replaced by AI? Here are the roles most affected",
-            "content": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+            "title": "UK mortgage rates rise to highest level for a month",
+            "content": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f9/live/4b60d010-85a5-11f1-b976-0b9c15b0ccfc.png",
+            "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e21/live/4bc39dc0-869b-11f1-9e03-bdd14c1ce63a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-65fa6e",
+            "id": "wor-9d9e5b",
             "tag": "国际要闻",
-            "title": "US signs landmark nuclear deal with Saudi Arabia",
-            "content": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+            "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+            "content": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ab2d0f",
+            "id": "wor-992f2b",
             "tag": "国际要闻",
-            "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-            "content": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+            "title": "Oil prices hit $100 for the first time since May",
+            "content": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e18966",
+            "id": "wor-77ebd6",
             "tag": "国际要闻",
-            "title": "Tankers make sharp U-turns after Houthi shipping threat",
-            "content": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+            "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+            "content": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88e8/live/95f90c40-85ce-11f1-b976-0b9c15b0ccfc.png",
+            "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg",
             "category": "world"
       }
 ],
