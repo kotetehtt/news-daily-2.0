@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-24 03:52:35
+// Auto-generated news data at 2026-07-25 03:47:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月24日',
-  update_time: '2026-07-24 03:52:35',
+  date: '2026年07月25日',
+  update_time: '2026-07-25 03:47:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f0f6b2",
+            "id": "ai-060150",
             "tag": "AI人工智能",
-            "title": "Google fined €890m by EU for favouring its own apps over rivals",
-            "content": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+            "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+            "content": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f649/live/69a3a390-869f-11f1-a0b6-435e4178a497.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-0f5229",
+            "id": "ai-5b4233",
             "tag": "AI人工智能",
-            "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-            "content": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+            "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+            "content": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-f8b19e",
+            "id": "ai-0fe666",
             "tag": "AI人工智能",
-            "title": "Google and Tesla shares plunge as AI spending rattles markets",
-            "content": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+            "title": "Trump vows to investigate EU over fining of US tech companies",
+            "content": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-57edef",
+            "id": "b2b-a1522b",
             "tag": "B2B营销",
-            "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-            "content": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+            "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+            "content": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e35e/live/f25d0fd0-8773-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9fdab6",
+            "id": "b2b-616cfd",
             "tag": "B2B营销",
-            "title": "UK complacent about war threat, warns defence boss",
-            "content": "UK complacent about war threat, warns defence boss",
+            "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+            "content": "The government wants to relax wedding laws so couples can get married almost anywhere.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cf8/live/60e4b350-86a6-11f1-a0b6-435e4178a497.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-148073",
+            "id": "b2b-d67cce",
             "tag": "B2B营销",
-            "title": "We split bills equally even when one of us earned a lot more",
-            "content": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+            "title": "Trump vows to investigate EU over fining of US tech companies",
+            "content": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22f0/live/f1261bc0-85d9-11f1-8f00-252bc70ad71a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4d7acb",
+            "id": "b2b-18a3e3",
             "tag": "B2B营销",
-            "title": "UK mortgage rates rise to highest level for a month",
-            "content": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+            "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+            "content": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e21/live/4bc39dc0-869b-11f1-9e03-bdd14c1ce63a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9d9e5b",
+            "id": "wor-3ac0d8",
             "tag": "国际要闻",
-            "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-            "content": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+            "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+            "content": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
             "category": "world"
       },
       {
-            "id": "wor-992f2b",
+            "id": "wor-da5708",
             "tag": "国际要闻",
-            "title": "Oil prices hit $100 for the first time since May",
-            "content": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+            "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+            "content": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-77ebd6",
+            "id": "wor-50078a",
             "tag": "国际要闻",
-            "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-            "content": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+            "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+            "content": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
             "category": "world"
       }
 ],
