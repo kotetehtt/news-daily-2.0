@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-25 03:47:28
+// Auto-generated news data at 2026-07-26 04:05:20
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月25日',
-  update_time: '2026-07-25 03:47:28',
+  date: '2026年07月26日',
+  update_time: '2026-07-26 04:05:20',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-60d8fa",
+            "tag": "B2B营销",
+            "title": "Rental searches for pet friendly properties drop after law change",
+            "content": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-a1522b",
             "tag": "B2B营销",
             "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-18a3e3",
-            "tag": "B2B营销",
-            "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-            "content": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3ac0d8",
+            "id": "wor-10f416",
             "tag": "国际要闻",
-            "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-            "content": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+            "title": "More than 300,000 flee wildfires in France and Spain",
+            "content": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-da5708",
+            "id": "wor-e325b3",
             "tag": "国际要闻",
-            "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-            "content": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+            "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+            "content": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-50078a",
+            "id": "wor-a116d3",
             "tag": "国际要闻",
-            "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-            "content": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+            "title": "India's 'cockroach' protest called off after education minister quits",
+            "content": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       }
 ],
