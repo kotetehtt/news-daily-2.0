@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-26 04:05:20
+// Auto-generated news data at 2026-07-27 04:12:44
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月26日',
-  update_time: '2026-07-26 04:05:20',
+  date: '2026年07月27日',
+  update_time: '2026-07-27 04:12:44',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,39 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-29980d",
+            "tag": "B2B营销",
+            "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+            "content": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a66/live/d66cf590-8950-11f1-aee1-9f17574ebbb3.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-294800",
+            "tag": "B2B营销",
+            "title": "Water returns to Gatwick Airport after major outage",
+            "content": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d5d/live/c1411f80-8922-11f1-ba41-9bff51dd5d72.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-0d99d0",
+            "tag": "B2B营销",
+            "title": "Would you choose £50,000 over the chance of £1m?",
+            "content": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-60d8fa",
             "tag": "B2B营销",
             "title": "Rental searches for pet friendly properties drop after law change",
@@ -224,39 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a1522b",
-            "tag": "B2B营销",
-            "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-            "content": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e35e/live/f25d0fd0-8773-11f1-b8ee-9b3c26ad07bb.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-616cfd",
-            "tag": "B2B营销",
-            "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-            "content": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-d67cce",
-            "tag": "B2B营销",
-            "title": "Trump vows to investigate EU over fining of US tech companies",
-            "content": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-10f416",
+            "id": "wor-53b0db",
             "tag": "国际要闻",
-            "title": "More than 300,000 flee wildfires in France and Spain",
-            "content": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+            "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+            "content": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7731/live/42f6c270-8921-11f1-ba41-9bff51dd5d72.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e325b3",
+            "id": "wor-2e6755",
             "tag": "国际要闻",
-            "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-            "content": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+            "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+            "content": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a116d3",
+            "id": "wor-0f0533",
             "tag": "国际要闻",
-            "title": "India's 'cockroach' protest called off after education minister quits",
-            "content": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+            "title": "Berlin Pride attack suspect shot and killed during police operation",
+            "content": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       }
 ],
