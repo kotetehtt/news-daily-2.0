@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-27 04:12:44
+// Auto-generated news data at 2026-07-28 03:45:38
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月27日',
-  update_time: '2026-07-27 04:12:44',
+  date: '2026年07月28日',
+  update_time: '2026-07-28 03:45:38',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-060150",
+            "id": "ai-55531c",
             "tag": "AI人工智能",
-            "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-            "content": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+            "title": "Is it time to stop using glue and labels on paper?",
+            "content": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe81/live/c5a82ce0-7aad-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5b4233",
+            "id": "ai-ee2b50",
             "tag": "AI人工智能",
-            "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-            "content": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
+            "title": "Some people's chats with Claude AI found publicly available online",
+            "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-0fe666",
+            "id": "ai-e8e313",
             "tag": "AI人工智能",
-            "title": "Trump vows to investigate EU over fining of US tech companies",
-            "content": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+            "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+            "content": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed6f/live/ee815b00-85ac-11f1-9454-77c2271a5b4a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-29980d",
+            "id": "b2b-80417d",
             "tag": "B2B营销",
-            "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-            "content": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+            "title": "Burnham says pupils in England need clearer pathway into work",
+            "content": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a66/live/d66cf590-8950-11f1-aee1-9f17574ebbb3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-294800",
+            "id": "b2b-b2d00e",
             "tag": "B2B营销",
-            "title": "Water returns to Gatwick Airport after major outage",
-            "content": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers.",
+            "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+            "content": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d5d/live/c1411f80-8922-11f1-ba41-9bff51dd5d72.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0d99d0",
+            "id": "b2b-43e14c",
             "tag": "B2B营销",
-            "title": "Would you choose £50,000 over the chance of £1m?",
-            "content": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+            "title": "Some people's chats with Claude AI found publicly available online",
+            "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-60d8fa",
+            "id": "b2b-3b9739",
             "tag": "B2B营销",
-            "title": "Rental searches for pet friendly properties drop after law change",
-            "content": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+            "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+            "content": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c4d/live/c0977d80-89dc-11f1-9273-213dd08ab6f9.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-53b0db",
+            "id": "wor-8ff7a1",
             "tag": "国际要闻",
-            "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-            "content": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+            "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+            "content": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7731/live/42f6c270-8921-11f1-ba41-9bff51dd5d72.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2e6755",
+            "id": "wor-c65a63",
             "tag": "国际要闻",
-            "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-            "content": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+            "title": "Trump says Iran war talks taking place during lull in strikes",
+            "content": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0f0533",
+            "id": "wor-a302b3",
             "tag": "国际要闻",
-            "title": "Berlin Pride attack suspect shot and killed during police operation",
-            "content": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+            "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+            "content": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a3e/live/b5882cf0-1d6c-11f1-b048-c9424b2cf5fd.png",
             "category": "world"
       }
 ],
