@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-28 03:45:38
+// Auto-generated news data at 2026-07-29 03:48:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月28日',
-  update_time: '2026-07-28 03:45:38',
+  date: '2026年07月29日',
+  update_time: '2026-07-29 03:48:53',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-55531c",
+            "id": "ai-da4897",
             "tag": "AI人工智能",
-            "title": "Is it time to stop using glue and labels on paper?",
-            "content": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+            "content": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe81/live/c5a82ce0-7aad-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ee2b50",
+            "id": "ai-f7874d",
             "tag": "AI人工智能",
-            "title": "Some people's chats with Claude AI found publicly available online",
+            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+            "content": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-0ef76e",
+            "tag": "AI人工智能",
+            "title": "Some people's chats with Claude AI found to be publicly available online",
             "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-e8e313",
-            "tag": "AI人工智能",
-            "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-            "content": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed6f/live/ee815b00-85ac-11f1-9454-77c2271a5b4a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-80417d",
+            "id": "b2b-5871f7",
             "tag": "B2B营销",
-            "title": "Burnham says pupils in England need clearer pathway into work",
-            "content": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+            "title": "Burnham has no scope to increase borrowing, think tank warns",
+            "content": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc77/live/c4407fe0-8aae-11f1-951f-a70d41b77a63.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b2d00e",
+            "id": "b2b-2a0549",
             "tag": "B2B营销",
-            "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-            "content": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+            "content": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-43e14c",
+            "id": "b2b-9b7f79",
             "tag": "B2B营销",
-            "title": "Some people's chats with Claude AI found publicly available online",
-            "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+            "content": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3b9739",
+            "id": "b2b-46d8be",
             "tag": "B2B营销",
-            "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-            "content": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
+            "title": "Trump administration bans new Chinese humanoid robots",
+            "content": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c4d/live/c0977d80-89dc-11f1-9273-213dd08ab6f9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-8ff7a1",
+            "id": "wor-29f330",
             "tag": "国际要闻",
-            "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-            "content": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+            "title": "Watch: The moment quake hit Japan",
+            "content": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/111c/live/ee1965e0-8a98-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c65a63",
+            "id": "wor-f22d32",
             "tag": "国际要闻",
-            "title": "Trump says Iran war talks taking place during lull in strikes",
-            "content": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+            "title": "Iran and US trade strikes, shattering brief lull in fighting",
+            "content": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a302b3",
+            "id": "wor-4e1285",
             "tag": "国际要闻",
-            "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-            "content": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+            "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+            "content": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a3e/live/b5882cf0-1d6c-11f1-b048-c9424b2cf5fd.png",
+            "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c1e/live/5bc42500-87a9-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       }
 ],
