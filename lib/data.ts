@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-29 03:48:53
+// Auto-generated news data at 2026-07-30 03:40:46
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月29日',
-  update_time: '2026-07-29 03:48:53',
+  date: '2026年07月30日',
+  update_time: '2026-07-30 03:40:46',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-da4897",
+            "id": "ai-12cfe4",
             "tag": "AI人工智能",
-            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-            "content": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+            "title": "Trump considering AI controls after OpenAI hacking incidents",
+            "content": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-f7874d",
+            "id": "ai-4352b3",
             "tag": "AI人工智能",
-            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-            "content": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+            "title": "Meta shares fall as frustration grows over AI spending plans",
+            "content": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-0ef76e",
+            "id": "ai-9c5839",
             "tag": "AI人工智能",
-            "title": "Some people's chats with Claude AI found to be publicly available online",
-            "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+            "title": "Data centres could pay hundreds of millions in deposits for power demands",
+            "content": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5871f7",
+            "id": "b2b-45d49a",
             "tag": "B2B营销",
-            "title": "Burnham has no scope to increase borrowing, think tank warns",
-            "content": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+            "title": "Interest rates expected to be held again by Bank of England",
+            "content": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc77/live/c4407fe0-8aae-11f1-951f-a70d41b77a63.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38e0/live/7b090d20-8b3e-11f1-b2d7-b96c6bc9d7f5.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2a0549",
+            "id": "b2b-80ea6b",
             "tag": "B2B营销",
-            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-            "content": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+            "title": "What happens here has a big impact on your money",
+            "content": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9b7f79",
+            "id": "b2b-c05338",
             "tag": "B2B营销",
-            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-            "content": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+            "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+            "content": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c653/live/f6fd7a60-8b8e-11f1-9432-3dcf466331f0.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-46d8be",
+            "id": "b2b-890c63",
             "tag": "B2B营销",
-            "title": "Trump administration bans new Chinese humanoid robots",
-            "content": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+            "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+            "content": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db29/live/b3a50330-8a87-11f1-83c5-cf36fe4b083e.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-29f330",
+            "id": "wor-6d2e96",
             "tag": "国际要闻",
-            "title": "Watch: The moment quake hit Japan",
-            "content": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "content": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/111c/live/ee1965e0-8a98-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f22d32",
+            "id": "wor-2ee030",
             "tag": "国际要闻",
-            "title": "Iran and US trade strikes, shattering brief lull in fighting",
-            "content": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+            "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+            "content": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4e1285",
+            "id": "wor-bb3a0d",
             "tag": "国际要闻",
-            "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-            "content": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+            "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+            "content": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c1e/live/5bc42500-87a9-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       }
 ],
