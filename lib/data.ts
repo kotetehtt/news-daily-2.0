@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-30 03:40:46
+// Auto-generated news data at 2026-07-31 03:59:27
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月30日',
-  update_time: '2026-07-30 03:40:46',
+  date: '2026年07月31日',
+  update_time: '2026-07-31 03:59:27',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-12cfe4",
+            "id": "ai-a1d01e",
             "tag": "AI人工智能",
-            "title": "Trump considering AI controls after OpenAI hacking incidents",
-            "content": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+            "title": "Three things we learned about AI from Big Tech earnings",
+            "content": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-4352b3",
+            "id": "ai-ef57f3",
             "tag": "AI人工智能",
-            "title": "Meta shares fall as frustration grows over AI spending plans",
-            "content": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
+            "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+            "content": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e04/live/545ff320-8c2c-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9c5839",
+            "id": "ai-73f162",
             "tag": "AI人工智能",
-            "title": "Data centres could pay hundreds of millions in deposits for power demands",
-            "content": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+            "title": "India wants to join the strawberry superpowers",
+            "content": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc8/live/4bdd6170-7920-11f1-a627-714adb4eed6e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-45d49a",
+            "id": "b2b-2a9839",
             "tag": "B2B营销",
-            "title": "Interest rates expected to be held again by Bank of England",
-            "content": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+            "title": "Thames Water boss says leakage targets 'not realistic'",
+            "content": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38e0/live/7b090d20-8b3e-11f1-b2d7-b96c6bc9d7f5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ae1/live/89502af0-8c54-11f1-ba3e-21e9a16dd8e9.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-80ea6b",
+            "id": "b2b-d3e931",
             "tag": "B2B营销",
-            "title": "What happens here has a big impact on your money",
-            "content": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+            "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+            "content": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c05338",
+            "id": "b2b-ec02cf",
             "tag": "B2B营销",
-            "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-            "content": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+            "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+            "content": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c653/live/f6fd7a60-8b8e-11f1-9432-3dcf466331f0.png",
+            "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39df/live/81725880-842f-11f1-8db9-6b4471749e2a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-890c63",
+            "id": "b2b-8f61d0",
             "tag": "B2B营销",
-            "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
-            "content": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+            "title": "Three things we learned about AI from Big Tech earnings",
+            "content": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db29/live/b3a50330-8a87-11f1-83c5-cf36fe4b083e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6d2e96",
+            "id": "wor-c9bb22",
             "tag": "国际要闻",
-            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-            "content": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+            "content": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ad1/live/af28c2f0-8c81-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2ee030",
+            "id": "wor-eee774",
             "tag": "国际要闻",
-            "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-            "content": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+            "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+            "content": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bb3a0d",
+            "id": "wor-512951",
             "tag": "国际要闻",
-            "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-            "content": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+            "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+            "content": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       }
 ],
