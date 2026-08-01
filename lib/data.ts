@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-07-31 03:59:27
+// Auto-generated news data at 2026-08-01 03:59:46
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年07月31日',
-  update_time: '2026-07-31 03:59:27',
+  date: '2026年08月01日',
+  update_time: '2026-08-01 03:59:46',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-a1d01e",
+            "id": "ai-5d369d",
             "tag": "AI人工智能",
-            "title": "Three things we learned about AI from Big Tech earnings",
+            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+            "content": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-0ac7c7",
+            "tag": "AI人工智能",
+            "title": "AI firms must answer for rogue bots, says boss of hacked company",
+            "content": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-14adb1",
+            "tag": "AI人工智能",
+            "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
             "content": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ef57f3",
-            "tag": "AI人工智能",
-            "title": "Teen hackers tell BBC how police are helping them use their skills for good",
-            "content": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e04/live/545ff320-8c2c-11f1-a7ab-8b30adf0800a.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-73f162",
-            "tag": "AI人工智能",
-            "title": "India wants to join the strawberry superpowers",
-            "content": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc8/live/4bdd6170-7920-11f1-a627-714adb4eed6e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2a9839",
+            "id": "b2b-b7f756",
             "tag": "B2B营销",
-            "title": "Thames Water boss says leakage targets 'not realistic'",
-            "content": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+            "content": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ae1/live/89502af0-8c54-11f1-ba3e-21e9a16dd8e9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d3e931",
+            "id": "b2b-8b3bd6",
             "tag": "B2B营销",
-            "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-            "content": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+            "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+            "content": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a427/live/adfea090-8cde-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ec02cf",
+            "id": "b2b-53428c",
             "tag": "B2B营销",
-            "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-            "content": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
+            "title": "AI firms must answer for rogue bots, says boss of hacked company",
+            "content": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39df/live/81725880-842f-11f1-8db9-6b4471749e2a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8f61d0",
+            "id": "b2b-cb59da",
             "tag": "B2B营销",
-            "title": "Three things we learned about AI from Big Tech earnings",
-            "content": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+            "title": "Sainsbury's agrees to sell Argos for £120m",
+            "content": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c864/live/8a78e550-8cc9-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c9bb22",
+            "id": "wor-4b3ba1",
             "tag": "国际要闻",
-            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-            "content": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "content": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ad1/live/af28c2f0-8c81-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-eee774",
+            "id": "wor-2d5236",
             "tag": "国际要闻",
-            "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-            "content": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+            "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+            "content": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42f6/live/6014fc90-8d0f-11f1-8134-83693cbcd5a0.jpg",
             "category": "world"
       },
       {
-            "id": "wor-512951",
+            "id": "wor-10e834",
             "tag": "国际要闻",
-            "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-            "content": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+            "title": "Body of US climber the latest recovered after Pakistan avalanche",
+            "content": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17c1/live/47cb0380-8d16-11f1-bfeb-2930213869d1.jpg",
             "category": "world"
       }
 ],
