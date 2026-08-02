@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-01 03:59:46
+// Auto-generated news data at 2026-08-02 04:03:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月01日',
-  update_time: '2026-08-01 03:59:46',
+  date: '2026年08月02日',
+  update_time: '2026-08-02 04:03:09',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-377bf0",
+            "tag": "B2B营销",
+            "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+            "content": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-b7f756",
             "tag": "B2B营销",
             "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-cb59da",
-            "tag": "B2B营销",
-            "title": "Sainsbury's agrees to sell Argos for £120m",
-            "content": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c864/live/8a78e550-8cc9-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4b3ba1",
+            "id": "wor-37242f",
             "tag": "国际要闻",
-            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-            "content": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+            "content": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2d5236",
+            "id": "wor-c01f3c",
             "tag": "国际要闻",
-            "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-            "content": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "content": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42f6/live/6014fc90-8d0f-11f1-8134-83693cbcd5a0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
             "category": "world"
       },
       {
-            "id": "wor-10e834",
+            "id": "wor-f4fd5f",
             "tag": "国际要闻",
-            "title": "Body of US climber the latest recovered after Pakistan avalanche",
-            "content": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "content": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17c1/live/47cb0380-8d16-11f1-bfeb-2930213869d1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       }
 ],
