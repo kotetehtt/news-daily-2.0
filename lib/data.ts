@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-02 04:03:09
+// Auto-generated news data at 2026-08-03 04:05:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月02日',
-  update_time: '2026-08-02 04:03:09',
+  date: '2026年08月03日',
+  update_time: '2026-08-03 04:05:17',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-377bf0",
+            "id": "b2b-b08256",
             "tag": "B2B营销",
-            "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-            "content": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+            "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+            "content": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b7f756",
+            "id": "b2b-ba3046",
             "tag": "B2B营销",
-            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-            "content": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+            "title": "US and Japan take action to prop up yen in rare joint move",
+            "content": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8b3bd6",
+            "id": "b2b-d31f72",
             "tag": "B2B营销",
-            "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-            "content": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+            "title": "The change that may help you get a mortgage as a first-time buyer",
+            "content": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a427/live/adfea090-8cde-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e565/live/1641fa60-8b60-11f1-b422-3b36120ef864.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-53428c",
+            "id": "b2b-fb1c1e",
             "tag": "B2B营销",
-            "title": "AI firms must answer for rogue bots, says boss of hacked company",
-            "content": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+            "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+            "content": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-37242f",
+            "id": "wor-b9af54",
             "tag": "国际要闻",
-            "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-            "content": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "content": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c01f3c",
+            "id": "wor-818867",
             "tag": "国际要闻",
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "content": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "content": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac2b/live/2be8ca90-8eb4-11f1-a122-d789962f080e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f4fd5f",
+            "id": "wor-ba5ca3",
             "tag": "国际要闻",
-            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-            "content": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "content": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "world"
       }
 ],
