@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-03 04:05:17
+// Auto-generated news data at 2026-08-04 03:47:12
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月03日',
-  update_time: '2026-08-03 04:05:17',
+  date: '2026年08月04日',
+  update_time: '2026-08-04 03:47:12',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-e2e6d9",
+            "tag": "AI人工智能",
+            "title": "Tokenomics: Why making AI pay is tricky",
+            "content": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-31d723",
+            "tag": "AI人工智能",
+            "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+            "content": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77a2/live/784485e0-8f23-11f1-b5a8-c9ccaae98ebb.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-5d369d",
             "tag": "AI人工智能",
             "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-0ac7c7",
-            "tag": "AI人工智能",
-            "title": "AI firms must answer for rogue bots, says boss of hacked company",
-            "content": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-14adb1",
-            "tag": "AI人工智能",
-            "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-            "content": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b08256",
+            "id": "b2b-ae93f0",
             "tag": "B2B营销",
-            "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-            "content": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+            "title": "Half price rail travel extended to 18-year-olds",
+            "content": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ba3046",
+            "id": "b2b-6bd807",
             "tag": "B2B营销",
-            "title": "US and Japan take action to prop up yen in rare joint move",
-            "content": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+            "title": "US states sue to block Trump tariffs impacting dozens of countries",
+            "content": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6bc/live/e2d6f280-8f96-11f1-8063-579175a552d9.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d31f72",
+            "id": "b2b-0ccb2b",
             "tag": "B2B营销",
-            "title": "The change that may help you get a mortgage as a first-time buyer",
-            "content": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+            "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+            "content": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e565/live/1641fa60-8b60-11f1-b422-3b36120ef864.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d80/live/478d5910-8f99-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fb1c1e",
+            "id": "b2b-f5b3aa",
             "tag": "B2B营销",
-            "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-            "content": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+            "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+            "content": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b9af54",
+            "id": "wor-fed271",
             "tag": "国际要闻",
-            "title": "Trump suggests new talks with Iran to begin on Monday",
-            "content": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+            "content": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-3324a7",
+            "tag": "国际要闻",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "content": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-818867",
+            "id": "wor-d9cc8b",
             "tag": "国际要闻",
-            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-            "content": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+            "content": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac2b/live/2be8ca90-8eb4-11f1-a122-d789962f080e.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-ba5ca3",
-            "tag": "国际要闻",
-            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-            "content": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
             "category": "world"
       }
 ],
