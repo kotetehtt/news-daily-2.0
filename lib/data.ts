@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-04 03:47:12
+// Auto-generated news data at 2026-08-05 03:42:37
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月04日',
-  update_time: '2026-08-04 03:47:12',
+  date: '2026年08月05日',
+  update_time: '2026-08-05 03:42:37',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e2e6d9",
+            "id": "ai-0c23a6",
             "tag": "AI人工智能",
-            "title": "Tokenomics: Why making AI pay is tricky",
-            "content": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+            "content": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-31d723",
+            "id": "ai-4963f0",
             "tag": "AI人工智能",
-            "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-            "content": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+            "title": "Could tech replace firefighters in the battle against wildfires?",
+            "content": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77a2/live/784485e0-8f23-11f1-b5a8-c9ccaae98ebb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5d369d",
+            "id": "ai-45d761",
             "tag": "AI人工智能",
-            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-            "content": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+            "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+            "content": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-ae93f0",
+            "id": "b2b-9c1dc6",
             "tag": "B2B营销",
-            "title": "Half price rail travel extended to 18-year-olds",
-            "content": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+            "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+            "content": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/542f/live/f6658220-905a-11f1-a14e-21a96dfbd328.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6bd807",
+            "id": "b2b-9bf44e",
             "tag": "B2B营销",
-            "title": "US states sue to block Trump tariffs impacting dozens of countries",
-            "content": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+            "content": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6bc/live/e2d6f280-8f96-11f1-8063-579175a552d9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0ccb2b",
+            "id": "b2b-1b50ab",
             "tag": "B2B营销",
-            "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-            "content": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+            "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+            "content": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d80/live/478d5910-8f99-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f5b3aa",
+            "id": "b2b-affaa6",
             "tag": "B2B营销",
-            "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-            "content": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+            "title": "The cost of being single – and how friends are teaming up to beat it",
+            "content": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-fed271",
+            "id": "wor-918253",
             "tag": "国际要闻",
-            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-            "content": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "content": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3324a7",
+            "id": "wor-048260",
             "tag": "国际要闻",
-            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-            "content": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+            "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+            "content": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d9cc8b",
+            "id": "wor-c2e89a",
             "tag": "国际要闻",
-            "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-            "content": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+            "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+            "content": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg",
             "category": "world"
       }
 ],
