@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-05 03:42:37
+// Auto-generated news data at 2026-08-06 03:48:29
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月05日',
-  update_time: '2026-08-05 03:42:37',
+  date: '2026年08月06日',
+  update_time: '2026-08-06 03:48:29',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-0c23a6",
+            "id": "ai-5bc024",
             "tag": "AI人工智能",
-            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-            "content": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "title": "AI or real? BBC analyses viral China disaster videos",
+            "content": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d1a6/live/e4442b50-908c-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-4963f0",
+            "id": "ai-ab3452",
             "tag": "AI人工智能",
-            "title": "Could tech replace firefighters in the battle against wildfires?",
-            "content": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+            "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+            "content": "Elon Musk told investors that people were \"underestimating\" his company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-45d761",
+            "id": "ai-c6b4ba",
             "tag": "AI人工智能",
-            "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-            "content": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+            "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+            "content": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c53a/live/5121a5c0-90c6-11f1-b8f3-bf6a2c059a9b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9c1dc6",
+            "id": "b2b-7935eb",
             "tag": "B2B营销",
-            "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
-            "content": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+            "content": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/542f/live/f6658220-905a-11f1-a14e-21a96dfbd328.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9bf44e",
+            "id": "b2b-ab5418",
             "tag": "B2B营销",
-            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-            "content": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+            "content": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3041/live/a08095f0-90e8-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1b50ab",
+            "id": "b2b-45a371",
             "tag": "B2B营销",
-            "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-            "content": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+            "title": "Meta says AI model accessed the internet and hacked another firm",
+            "content": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-affaa6",
+            "id": "b2b-a33ea6",
             "tag": "B2B营销",
-            "title": "The cost of being single – and how friends are teaming up to beat it",
-            "content": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "content": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-918253",
+            "id": "wor-4c76a3",
             "tag": "国际要闻",
-            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-            "content": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+            "content": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-048260",
+            "id": "wor-89618b",
             "tag": "国际要闻",
-            "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-            "content": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "content": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c2e89a",
+            "id": "wor-0c04e8",
             "tag": "国际要闻",
-            "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-            "content": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+            "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+            "content": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/664e/live/11968cf0-9101-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       }
 ],
