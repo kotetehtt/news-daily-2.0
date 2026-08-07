@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-06 03:48:29
+// Auto-generated news data at 2026-08-07 03:27:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月06日',
-  update_time: '2026-08-06 03:48:29',
+  date: '2026年08月07日',
+  update_time: '2026-08-07 03:27:09',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-5bc024",
+            "id": "ai-948c80",
             "tag": "AI人工智能",
-            "title": "AI or real? BBC analyses viral China disaster videos",
-            "content": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d1a6/live/e4442b50-908c-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ab3452",
+            "id": "ai-3443dc",
             "tag": "AI人工智能",
-            "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-            "content": "Elon Musk told investors that people were \"underestimating\" his company.",
+            "title": "Why airlines are warning over lithium-ion batteries",
+            "content": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-c6b4ba",
+            "id": "ai-43f94f",
             "tag": "AI人工智能",
-            "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-            "content": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
+            "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+            "content": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c53a/live/5121a5c0-90c6-11f1-b8f3-bf6a2c059a9b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7935eb",
+            "id": "b2b-1fdf5d",
             "tag": "B2B营销",
-            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-            "content": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ab5418",
+            "id": "b2b-e9d6a2",
             "tag": "B2B营销",
-            "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-            "content": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+            "title": "Argos is getting a makeover - but can it attract new shoppers?",
+            "content": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3041/live/a08095f0-90e8-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-45a371",
+            "id": "b2b-c9a0a5",
             "tag": "B2B营销",
-            "title": "Meta says AI model accessed the internet and hacked another firm",
-            "content": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+            "title": "Trump imposes 15% tariff on key chip material to counter China",
+            "content": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a33ea6",
+            "id": "b2b-85b92c",
             "tag": "B2B营销",
-            "title": "Infantino sorry for errors but stays Fifa president",
-            "content": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "title": "EasyJet agrees to £5.7bn takeover by US firm",
+            "content": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ef0/live/b3519660-91b6-11f1-a7ab-8b30adf0800a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4c76a3",
+            "id": "wor-6a0a60",
             "tag": "国际要闻",
-            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-            "content": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+            "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+            "content": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
             "category": "world"
       },
       {
-            "id": "wor-89618b",
+            "id": "wor-f6ac4d",
             "tag": "国际要闻",
-            "title": "Infantino sorry for errors but stays Fifa president",
-            "content": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0c04e8",
+            "id": "wor-78d8df",
             "tag": "国际要闻",
-            "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-            "content": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+            "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+            "content": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/664e/live/11968cf0-9101-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
             "category": "world"
       }
 ],
