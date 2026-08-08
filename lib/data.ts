@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-07 03:27:09
+// Auto-generated news data at 2026-08-08 02:27:48
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月07日',
-  update_time: '2026-08-07 03:27:09',
+  date: '2026年08月08日',
+  update_time: '2026-08-08 02:27:48',
   banner: [
       {
             "id": "ai-001",
@@ -103,11 +103,11 @@ const newsData: NewsData = {
             "id": "ai-948c80",
             "tag": "AI人工智能",
             "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+            "content": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       },
       {
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-c13eaa",
+            "tag": "B2B营销",
+            "title": "How a 90-second power outage sparked chaos for rail commuters",
+            "content": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2293/live/c553a680-9262-11f1-b2ab-0dd01740f9f6.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-83e2b3",
+            "tag": "B2B营销",
+            "title": "Goodwin considers selling part of defence business",
+            "content": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-a3ed9b",
+            "tag": "B2B营销",
+            "title": "Surprise fall in US jobs last month as slow summer continues",
+            "content": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbb4/live/44eb8470-925f-11f1-b9ff-37ae3aba3894.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-1fdf5d",
             "tag": "B2B营销",
             "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+            "content": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-e9d6a2",
-            "tag": "B2B营销",
-            "title": "Argos is getting a makeover - but can it attract new shoppers?",
-            "content": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-c9a0a5",
-            "tag": "B2B营销",
-            "title": "Trump imposes 15% tariff on key chip material to counter China",
-            "content": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-85b92c",
-            "tag": "B2B营销",
-            "title": "EasyJet agrees to £5.7bn takeover by US firm",
-            "content": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ef0/live/b3519660-91b6-11f1-a7ab-8b30adf0800a.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6a0a60",
+            "id": "wor-238e79",
             "tag": "国际要闻",
-            "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-            "content": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+            "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+            "content": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f6ac4d",
+            "id": "wor-10fb43",
             "tag": "国际要闻",
-            "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+            "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+            "content": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
             "category": "world"
       },
       {
-            "id": "wor-78d8df",
+            "id": "wor-349495",
             "tag": "国际要闻",
-            "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-            "content": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+            "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+            "content": "The student says she feared never seeing her mother again after the attack killed five teachers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
             "category": "world"
       }
 ],
