@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-08 02:27:48
+// Auto-generated news data at 2026-08-09 02:34:35
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月08日',
-  update_time: '2026-08-08 02:27:48',
+  date: '2026年08月09日',
+  update_time: '2026-08-09 02:34:35',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-8bf62b",
+            "tag": "AI人工智能",
+            "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+            "content": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-948c80",
             "tag": "AI人工智能",
             "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-43f94f",
-            "tag": "AI人工智能",
-            "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-            "content": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-d50a0f",
+            "tag": "B2B营销",
+            "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+            "content": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-c13eaa",
             "tag": "B2B营销",
             "title": "How a 90-second power outage sparked chaos for rail commuters",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbb4/live/44eb8470-925f-11f1-b9ff-37ae3aba3894.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-1fdf5d",
-            "tag": "B2B营销",
-            "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "content": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-238e79",
+            "id": "wor-de4678",
             "tag": "国际要闻",
-            "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-            "content": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
+            "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+            "content": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
             "category": "world"
       },
       {
-            "id": "wor-10fb43",
+            "id": "wor-6e4293",
             "tag": "国际要闻",
-            "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-            "content": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+            "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+            "content": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-349495",
+            "id": "wor-84aefa",
             "tag": "国际要闻",
-            "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-            "content": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+            "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+            "content": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
             "category": "world"
       }
 ],
