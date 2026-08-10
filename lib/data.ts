@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-09 02:34:35
+// Auto-generated news data at 2026-08-10 02:40:18
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月09日',
-  update_time: '2026-08-09 02:34:35',
+  date: '2026年08月10日',
+  update_time: '2026-08-10 02:40:18',
   banner: [
       {
             "id": "ai-001",
@@ -227,6 +227,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-8349b2",
+            "tag": "B2B营销",
+            "title": "You could be missing out on £150 off your energy bill - here's how to check",
+            "content": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8926/live/34a4ae50-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-c13eaa",
             "tag": "B2B营销",
             "title": "How a 90-second power outage sparked chaos for rail commuters",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a3ed9b",
-            "tag": "B2B营销",
-            "title": "Surprise fall in US jobs last month as slow summer continues",
-            "content": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbb4/live/44eb8470-925f-11f1-b9ff-37ae3aba3894.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-de4678",
+            "id": "wor-3aa6a3",
             "tag": "国际要闻",
-            "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-            "content": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "content": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6e4293",
+            "id": "wor-928078",
             "tag": "国际要闻",
-            "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-            "content": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "content": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-84aefa",
+            "id": "wor-f753fe",
             "tag": "国际要闻",
-            "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-            "content": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+            "title": "Evidence that South African special forces murdered top detective shared with BBC",
+            "content": "Evidence that South African special forces murdered top detective shared with BBC",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
             "category": "world"
       }
 ],
