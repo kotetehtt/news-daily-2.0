@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-10 02:40:18
+// Auto-generated news data at 2026-08-11 02:34:06
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月10日',
-  update_time: '2026-08-10 02:40:18',
+  date: '2026年08月11日',
+  update_time: '2026-08-11 02:34:06',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-8bf62b",
+            "id": "ai-58ce9e",
             "tag": "AI人工智能",
-            "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-            "content": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+            "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+            "content": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-2ab79f",
+            "tag": "AI人工智能",
+            "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+            "content": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1c0/live/bb9691e0-94b3-11f1-a7ab-8b30adf0800a.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-3443dc",
-            "tag": "AI人工智能",
-            "title": "Why airlines are warning over lithium-ion batteries",
-            "content": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d50a0f",
+            "id": "b2b-434e40",
             "tag": "B2B营销",
-            "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-            "content": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+            "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+            "content": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8349b2",
+            "id": "b2b-758e79",
             "tag": "B2B营销",
-            "title": "You could be missing out on £150 off your energy bill - here's how to check",
-            "content": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+            "title": "Trump Media reports $238m loss as crypto falls",
+            "content": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8926/live/34a4ae50-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c13eaa",
+            "id": "b2b-542467",
             "tag": "B2B营销",
-            "title": "How a 90-second power outage sparked chaos for rail commuters",
-            "content": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "content": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2293/live/c553a680-9262-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-83e2b3",
+            "id": "b2b-412392",
             "tag": "B2B营销",
-            "title": "Goodwin considers selling part of defence business",
-            "content": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+            "title": "Thames Water gave finance boss a £1m signing-on fee",
+            "content": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be7c/live/8dac15b0-9491-11f1-9ade-bb7c8a2b6bc0.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3aa6a3",
+            "id": "wor-423c85",
             "tag": "国际要闻",
-            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-            "content": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "title": "At least 132 killed in Colombia's largest earthquake in years",
+            "content": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-928078",
+            "id": "wor-f8fe1a",
             "tag": "国际要闻",
-            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-            "content": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "title": "Canada flight cancelled after child refuses to wear seat belt",
+            "content": "The incident has sparked a debate over child safety and discipline on commercial planes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f753fe",
+            "id": "wor-57a205",
             "tag": "国际要闻",
-            "title": "Evidence that South African special forces murdered top detective shared with BBC",
-            "content": "Evidence that South African special forces murdered top detective shared with BBC",
+            "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+            "content": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
             "category": "world"
       }
 ],
