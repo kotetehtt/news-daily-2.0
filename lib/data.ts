@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-11 02:34:06
+// Auto-generated news data at 2026-08-12 03:03:29
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月11日',
-  update_time: '2026-08-11 02:34:06',
+  date: '2026年08月12日',
+  update_time: '2026-08-12 03:03:29',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-58ce9e",
+            "id": "ai-e2e6d9",
             "tag": "AI人工智能",
-            "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+            "title": "Tokenomics: Why making AI pay is tricky",
+            "content": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-1185d1",
+            "tag": "AI人工智能",
+            "title": "AI agent hacks gym to get its user a spot in pilates class",
+            "content": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png",
+            "category": "ai"
+      },
+      {
+            "id": "ai-15d417",
+            "tag": "AI人工智能",
+            "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
             "content": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-2ab79f",
-            "tag": "AI人工智能",
-            "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-            "content": "Tech companies are not modelling their own claims of the technology giving people more free time.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1c0/live/bb9691e0-94b3-11f1-a7ab-8b30adf0800a.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-948c80",
-            "tag": "AI人工智能",
-            "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "content": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-434e40",
+            "id": "b2b-f9a834",
             "tag": "B2B营销",
-            "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-            "content": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+            "title": "First 'pounds for pylons' energy bill discount sites revealed",
+            "content": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-758e79",
+            "id": "b2b-121dff",
             "tag": "B2B营销",
-            "title": "Trump Media reports $238m loss as crypto falls",
-            "content": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+            "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+            "content": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-542467",
+            "id": "b2b-dbfac6",
             "tag": "B2B营销",
-            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-            "content": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+            "content": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-412392",
+            "id": "b2b-16cdeb",
             "tag": "B2B营销",
-            "title": "Thames Water gave finance boss a £1m signing-on fee",
-            "content": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+            "title": "Tributes to co-founder of John Pye auction house",
+            "content": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be7c/live/8dac15b0-9491-11f1-9ade-bb7c8a2b6bc0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18d0/live/ea163430-95bc-11f1-a556-013790f38050.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-423c85",
+            "id": "wor-63454a",
             "tag": "国际要闻",
-            "title": "At least 132 killed in Colombia's largest earthquake in years",
-            "content": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+            "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+            "content": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f8fe1a",
+            "id": "wor-033876",
             "tag": "国际要闻",
-            "title": "Canada flight cancelled after child refuses to wear seat belt",
-            "content": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+            "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+            "content": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-57a205",
+            "id": "wor-5d3e99",
             "tag": "国际要闻",
-            "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-            "content": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+            "title": "Trump says he switched planes after Nato summit because of possible threat",
+            "content": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ace/live/d1325630-95f1-11f1-870d-5d08c49babb2.jpg",
             "category": "world"
       }
 ],
