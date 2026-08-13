@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-12 03:03:29
+// Auto-generated news data at 2026-08-13 03:07:24
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月12日',
-  update_time: '2026-08-12 03:03:29',
+  date: '2026年08月13日',
+  update_time: '2026-08-13 03:07:24',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-2d7882",
+            "tag": "AI人工智能",
+            "title": "Why Japanese firms are being so slow to use AI",
+            "content": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-579074",
+            "tag": "AI人工智能",
+            "title": "Discord ordered to suspend livestreams in Brazil",
+            "content": "Discord ordered to suspend livestreams in Brazil",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-e2e6d9",
             "tag": "AI人工智能",
             "title": "Tokenomics: Why making AI pay is tricky",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-1185d1",
-            "tag": "AI人工智能",
-            "title": "AI agent hacks gym to get its user a spot in pilates class",
-            "content": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-15d417",
-            "tag": "AI人工智能",
-            "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-            "content": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f9a834",
+            "id": "b2b-3f7c44",
             "tag": "B2B营销",
-            "title": "First 'pounds for pylons' energy bill discount sites revealed",
-            "content": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
+            "title": "Trump sued over Truth Social's $100,000 early access service",
+            "content": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00fb/live/14a782c0-966d-11f1-a6eb-474cf36e6c34.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-121dff",
+            "id": "b2b-ee5eac",
             "tag": "B2B营销",
-            "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-            "content": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+            "title": "Discord ordered to suspend livestreams in Brazil",
+            "content": "Discord ordered to suspend livestreams in Brazil",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-dbfac6",
+            "id": "b2b-fcd61d",
             "tag": "B2B营销",
-            "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-            "content": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+            "title": "Burnham warned Iran war could hit UK growth next year",
+            "content": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-16cdeb",
+            "id": "b2b-5b64df",
             "tag": "B2B营销",
-            "title": "Tributes to co-founder of John Pye auction house",
-            "content": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
+            "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
+            "content": "Twitch's executives said users can opt out of AI training, which has become a common industry practice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18d0/live/ea163430-95bc-11f1-a556-013790f38050.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-63454a",
+            "id": "wor-ddcb74",
             "tag": "国际要闻",
-            "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-            "content": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "content": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-033876",
+            "id": "wor-30b73f",
             "tag": "国际要闻",
-            "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-            "content": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+            "title": "Israeli settlers besieging Palestinian families in West Bank village",
+            "content": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5d3e99",
+            "id": "wor-e02008",
             "tag": "国际要闻",
-            "title": "Trump says he switched planes after Nato summit because of possible threat",
-            "content": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+            "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+            "content": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ace/live/d1325630-95f1-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "world"
       }
 ],
