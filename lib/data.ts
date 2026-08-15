@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-14 03:05:51
+// Auto-generated news data at 2026-08-15 01:56:04
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月14日',
-  update_time: '2026-08-14 03:05:51',
+  date: '2026年08月15日',
+  update_time: '2026-08-15 01:56:04',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-aacaa4",
+            "tag": "AI人工智能",
+            "title": "Why tech bosses keep sharing their manifestos about AI",
+            "content": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-02e3db",
+            "tag": "AI人工智能",
+            "title": "Protein or pickled garlic? What's new in ice cream",
+            "content": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c67/live/6a1b9720-7c35-11f1-b976-0b9c15b0ccfc.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-95da21",
             "tag": "AI人工智能",
             "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2c2/live/34e5f670-972b-11f1-808c-532494fd22c7.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-8504d8",
-            "tag": "AI人工智能",
-            "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-            "content": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/041d/live/7f342ef0-9720-11f1-bb91-6bb44c42ed47.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-c2c442",
-            "tag": "AI人工智能",
-            "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-            "content": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,39 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-371ec4",
+            "tag": "B2B营销",
+            "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+            "content": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-70a1f5",
+            "tag": "B2B营销",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "content": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-8dcb73",
+            "tag": "B2B营销",
+            "title": "Selena Gomez sued for alleged fraud over mental health company",
+            "content": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-0136d3",
             "tag": "B2B营销",
             "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
@@ -224,39 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-f94042",
-            "tag": "B2B营销",
-            "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-            "content": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-914ce4",
-            "tag": "B2B营销",
-            "title": "Water bills set to rise for many after firms permitted extra funding",
-            "content": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5082/live/9e05e030-9702-11f1-b72c-211ea4e0afc4.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-924f65",
-            "tag": "B2B营销",
-            "title": "Harvey Nichols bought by owner of Sports Direct",
-            "content": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fcd/live/2351ff40-9720-11f1-870d-5d08c49babb2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f19293",
+            "id": "wor-e33be0",
             "tag": "国际要闻",
-            "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-            "content": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+            "content": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8cf89e",
+            "id": "wor-b5e631",
             "tag": "国际要闻",
-            "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-            "content": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+            "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+            "content": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
             "category": "world"
       },
       {
-            "id": "wor-447091",
+            "id": "wor-c99032",
             "tag": "国际要闻",
-            "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-            "content": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+            "content": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
             "category": "world"
       }
 ],
