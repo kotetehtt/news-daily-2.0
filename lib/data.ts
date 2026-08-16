@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-15 01:56:04
+// Auto-generated news data at 2026-08-16 02:05:33
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月15日',
-  update_time: '2026-08-15 01:56:04',
+  date: '2026年08月16日',
+  update_time: '2026-08-16 02:05:33',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-86c5ab",
+            "tag": "AI人工智能",
+            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+            "content": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-3af81b",
+            "tag": "AI人工智能",
+            "title": "Secondhand book sales are booming. Is it because of AI?",
+            "content": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-aacaa4",
             "tag": "AI人工智能",
             "title": "Why tech bosses keep sharing their manifestos about AI",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-02e3db",
-            "tag": "AI人工智能",
-            "title": "Protein or pickled garlic? What's new in ice cream",
-            "content": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c67/live/6a1b9720-7c35-11f1-b976-0b9c15b0ccfc.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-95da21",
-            "tag": "AI人工智能",
-            "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-            "content": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2c2/live/34e5f670-972b-11f1-808c-532494fd22c7.jpg",
             "category": "ai"
       }
 ],
@@ -227,9 +227,20 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-70a1f5",
+            "id": "b2b-a775c1",
             "tag": "B2B营销",
-            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+            "content": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-113037",
+            "tag": "B2B营销",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
             "content": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
             "source": "BBC News",
             "time": "今日",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-0136d3",
-            "tag": "B2B营销",
-            "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
-            "content": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e33be0",
+            "id": "wor-0cb399",
             "tag": "国际要闻",
-            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-            "content": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+            "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+            "content": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b5e631",
+            "id": "wor-2da0d8",
             "tag": "国际要闻",
-            "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-            "content": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+            "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+            "content": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c99032",
+            "id": "wor-9b4200",
             "tag": "国际要闻",
-            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-            "content": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+            "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+            "content": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       }
 ],
