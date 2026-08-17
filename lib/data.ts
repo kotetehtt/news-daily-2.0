@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-16 02:05:33
+// Auto-generated news data at 2026-08-17 02:02:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月16日',
-  update_time: '2026-08-16 02:05:33',
+  date: '2026年08月17日',
+  update_time: '2026-08-17 02:02:11',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-3821ed",
+            "tag": "AI人工智能",
+            "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+            "content": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-86c5ab",
             "tag": "AI人工智能",
             "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-aacaa4",
-            "tag": "AI人工智能",
-            "title": "Why tech bosses keep sharing their manifestos about AI",
-            "content": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
             "category": "ai"
       }
 ],
@@ -216,14 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-371ec4",
+            "id": "b2b-ad0def",
             "tag": "B2B营销",
-            "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-            "content": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+            "title": "Ferrari's first ever electric car sold for record $40m at auction",
+            "content": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-0d8541",
+            "tag": "B2B营销",
+            "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+            "content": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-68f285",
+            "tag": "B2B营销",
+            "title": "Changing pubs into homes to be made harder under new rules",
+            "content": "The rules will come into force on Monday along with other changes to planning policy.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg",
             "category": "b2b"
       },
       {
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-113037",
-            "tag": "B2B营销",
-            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-            "content": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-8dcb73",
-            "tag": "B2B营销",
-            "title": "Selena Gomez sued for alleged fraud over mental health company",
-            "content": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-0cb399",
+            "id": "wor-9ea409",
             "tag": "国际要闻",
-            "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-            "content": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+            "content": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2da0d8",
+            "id": "wor-8c2e2b",
             "tag": "国际要闻",
-            "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-            "content": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "content": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9b4200",
+            "id": "wor-6a17db",
             "tag": "国际要闻",
-            "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-            "content": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "content": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
             "category": "world"
       }
 ],
