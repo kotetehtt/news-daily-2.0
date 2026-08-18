@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-17 02:02:11
+// Auto-generated news data at 2026-08-18 01:57:03
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月17日',
-  update_time: '2026-08-17 02:02:11',
+  date: '2026年08月18日',
+  update_time: '2026-08-18 01:57:03',
   banner: [
       {
             "id": "ai-001",
@@ -100,10 +100,10 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-3821ed",
+            "id": "ai-ffc639",
             "tag": "AI人工智能",
-            "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-            "content": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+            "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+            "content": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-ad0def",
+            "id": "b2b-2e30b1",
             "tag": "B2B营销",
-            "title": "Ferrari's first ever electric car sold for record $40m at auction",
-            "content": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+            "title": "To joke or not to joke?: How to write a good out-of-office message",
+            "content": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c934xy32919o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2af9/live/1948b440-9a12-11f1-a05c-fdd5e0ed226e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0d8541",
+            "id": "b2b-e50252",
             "tag": "B2B营销",
-            "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-            "content": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+            "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+            "content": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1962/live/397b2430-9a87-11f1-b792-a710e56a11dc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-68f285",
+            "id": "b2b-48a7b2",
             "tag": "B2B营销",
-            "title": "Changing pubs into homes to be made harder under new rules",
-            "content": "The rules will come into force on Monday along with other changes to planning policy.",
+            "title": "Virgin takes step towards running Channel Tunnel rail services",
+            "content": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a775c1",
+            "id": "b2b-beae69",
             "tag": "B2B营销",
-            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-            "content": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "content": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-9ea409",
+            "id": "wor-16d0a2",
             "tag": "国际要闻",
-            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-            "content": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "content": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8c2e2b",
+            "id": "wor-2b8c68",
             "tag": "国际要闻",
-            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-            "content": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "title": "Russia warns UK over supplying drones to Ukraine",
+            "content": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6a17db",
+            "id": "wor-8b3e5b",
             "tag": "国际要闻",
-            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-            "content": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "title": "BBC breaks down Trump's latest shift on North and South Korea",
+            "content": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       }
 ],
