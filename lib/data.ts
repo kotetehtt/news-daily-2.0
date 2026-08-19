@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-18 01:57:03
+// Auto-generated news data at 2026-08-19 01:59:33
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月18日',
-  update_time: '2026-08-18 01:57:03',
+  date: '2026年08月19日',
+  update_time: '2026-08-19 01:59:33',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-ffc639",
+            "id": "ai-5caf52",
             "tag": "AI人工智能",
-            "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-            "content": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+            "title": "Chinese robotics giant Unitree soars in stock market debut",
+            "content": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-86c5ab",
+            "id": "ai-46f2c7",
             "tag": "AI人工智能",
-            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-            "content": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+            "title": "The critical tech staying safe by going underground",
+            "content": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-3af81b",
+            "id": "ai-34377b",
             "tag": "AI人工智能",
-            "title": "Secondhand book sales are booming. Is it because of AI?",
-            "content": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "content": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2e30b1",
+            "id": "b2b-80def2",
             "tag": "B2B营销",
-            "title": "To joke or not to joke?: How to write a good out-of-office message",
-            "content": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "content": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c934xy32919o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2af9/live/1948b440-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e50252",
+            "id": "b2b-a71f59",
             "tag": "B2B营销",
-            "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
-            "content": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
+            "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+            "content": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1962/live/397b2430-9a87-11f1-b792-a710e56a11dc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-48a7b2",
+            "id": "b2b-ca762b",
             "tag": "B2B营销",
-            "title": "Virgin takes step towards running Channel Tunnel rail services",
-            "content": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+            "title": "Chinese robotics giant Unitree soars in stock market debut",
+            "content": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-beae69",
+            "id": "b2b-001dc0",
             "tag": "B2B营销",
-            "title": "Fifa official sacked after Infantino plan criticism",
-            "content": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "title": "Mobile payments on the rise but cash decline slows",
+            "content": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-16d0a2",
+            "id": "wor-e93846",
             "tag": "国际要闻",
-            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-            "content": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "content": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2b8c68",
+            "id": "wor-5b44b6",
             "tag": "国际要闻",
-            "title": "Russia warns UK over supplying drones to Ukraine",
-            "content": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "content": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8b3e5b",
+            "id": "wor-3a7ec0",
             "tag": "国际要闻",
-            "title": "BBC breaks down Trump's latest shift on North and South Korea",
-            "content": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+            "title": "Earthquake rocks Spain's historic Granada, injuring three",
+            "content": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
             "category": "world"
       }
 ],
