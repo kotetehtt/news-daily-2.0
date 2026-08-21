@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-20 01:58:00
+// Auto-generated news data at 2026-08-21 02:07:03
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月20日',
-  update_time: '2026-08-20 01:58:00',
+  date: '2026年08月21日',
+  update_time: '2026-08-21 02:07:03',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f260ce",
+            "id": "ai-751a6c",
             "tag": "AI人工智能",
-            "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-            "content": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+            "title": "How landscape gardening is being electrified",
+            "content": "The switch to quieter electric equipment is not going as fast as some would like.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9872ce",
+            "id": "ai-7f4ac8",
             "tag": "AI人工智能",
-            "title": "Monzo says issue with card payments and transfers now resolved",
-            "content": "The digital bank said all of its services were now \"back up and running\"",
+            "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+            "content": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
             "category": "ai"
       },
       {
-            "id": "ai-b14c1f",
+            "id": "ai-d59c70",
             "tag": "AI人工智能",
-            "title": "OpenAI slows down training after its AI carried out hack",
-            "content": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+            "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
+            "content": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyq011414eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4d0417",
+            "id": "b2b-db8c86",
             "tag": "B2B营销",
-            "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-            "content": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+            "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+            "content": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-de66ab",
+            "id": "b2b-e1f503",
             "tag": "B2B营销",
-            "title": "US national debt passes $40tn after doubling in a decade",
-            "content": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+            "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+            "content": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-b180c1",
+            "id": "b2b-7282bd",
             "tag": "B2B营销",
-            "title": "I quit my £80,000 job to make ice cream - here's how",
-            "content": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+            "title": "Why the US economy is ringing alarm bells",
+            "content": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4ee2a7",
+            "id": "b2b-034612",
             "tag": "B2B营销",
-            "title": "India's Gen Z are driving up a mega boom in its beauty market",
-            "content": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
+            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+            "content": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbd6/live/e0b60a90-9194-11f1-9e9c-c71e84be4584.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-dbf503",
+            "id": "wor-0d96b3",
             "tag": "国际要闻",
-            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-            "content": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+            "content": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-832242",
+            "id": "wor-d9571e",
             "tag": "国际要闻",
-            "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-            "content": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+            "content": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5f16c1",
+            "id": "wor-2d03f4",
             "tag": "国际要闻",
-            "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-            "content": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+            "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+            "content": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       }
 ],
