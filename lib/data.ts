@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-21 02:07:03
+// Auto-generated news data at 2026-08-22 01:56:54
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月21日',
-  update_time: '2026-08-21 02:07:03',
+  date: '2026年08月22日',
+  update_time: '2026-08-22 01:56:54',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-bea3c6",
+            "tag": "AI人工智能",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "content": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-751a6c",
             "tag": "AI人工智能",
             "title": "How landscape gardening is being electrified",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d59c70",
-            "tag": "AI人工智能",
-            "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-            "content": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyq011414eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-db8c86",
+            "id": "b2b-3d8bc1",
             "tag": "B2B营销",
-            "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-            "content": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+            "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+            "content": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e1f503",
+            "id": "b2b-60308d",
             "tag": "B2B营销",
-            "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-            "content": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
+            "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+            "content": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-ce4fe1",
+            "tag": "B2B营销",
+            "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+            "content": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-c9d6b6",
+            "tag": "B2B营销",
+            "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
+            "content": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-7282bd",
-            "tag": "B2B营销",
-            "title": "Why the US economy is ringing alarm bells",
-            "content": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-034612",
-            "tag": "B2B营销",
-            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-            "content": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-0d96b3",
+            "id": "wor-43db0b",
             "tag": "国际要闻",
-            "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-            "content": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+            "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+            "content": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d9571e",
+            "id": "wor-a2e4d9",
             "tag": "国际要闻",
-            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-            "content": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "content": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2d03f4",
+            "id": "wor-c5f678",
             "tag": "国际要闻",
-            "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-            "content": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+            "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+            "content": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       }
 ],
