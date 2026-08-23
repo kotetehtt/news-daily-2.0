@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-22 01:56:54
+// Auto-generated news data at 2026-08-23 02:08:34
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月22日',
-  update_time: '2026-08-22 01:56:54',
+  date: '2026年08月23日',
+  update_time: '2026-08-23 02:08:34',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-d0d439",
+            "tag": "AI人工智能",
+            "title": "Robot horse and rider steal the spotlight at Chinese conference",
+            "content": "Robot horse and rider steal the spotlight at Chinese conference",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-bea3c6",
             "tag": "AI人工智能",
             "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -107,7 +118,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-7f4ac8",
-            "tag": "AI人工智能",
-            "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
-            "content": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-43db0b",
+            "id": "wor-3c6377",
             "tag": "国际要闻",
-            "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-            "content": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+            "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "content": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a2e4d9",
+            "id": "wor-d9b5dc",
             "tag": "国际要闻",
-            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-            "content": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "title": "Carney faces crucial test after walking away from Trump's deal",
+            "content": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c5f678",
+            "id": "wor-a6a56e",
             "tag": "国际要闻",
-            "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-            "content": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "content": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
             "category": "world"
       }
 ],
