@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-23 02:08:34
+// Auto-generated news data at 2026-08-24 02:06:44
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月23日',
-  update_time: '2026-08-23 02:08:34',
+  date: '2026年08月24日',
+  update_time: '2026-08-24 02:06:44',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-40b5f6",
+            "tag": "AI人工智能",
+            "title": "Why students are being paid £2,000 to play computer games",
+            "content": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-d0d439",
             "tag": "AI人工智能",
             "title": "Robot horse and rider steal the spotlight at Chinese conference",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-751a6c",
-            "tag": "AI人工智能",
-            "title": "How landscape gardening is being electrified",
-            "content": "The switch to quieter electric equipment is not going as fast as some would like.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-3d8bc1",
+            "id": "b2b-0d85c1",
             "tag": "B2B营销",
-            "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-            "content": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+            "title": "Review launched into how pub and hotel business rates calculated",
+            "content": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-60308d",
+            "id": "b2b-6c8564",
             "tag": "B2B营销",
-            "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-            "content": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+            "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
+            "content": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ce4fe1",
+            "id": "b2b-1c77f6",
             "tag": "B2B营销",
-            "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-            "content": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+            "title": "Why students are being paid £2,000 to play computer games",
+            "content": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c9d6b6",
+            "id": "b2b-f4297a",
             "tag": "B2B营销",
-            "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
-            "content": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
+            "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+            "content": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
+            "link": "https://www.bbc.co.uk/news/articles/c05q318501yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3c6377",
+            "id": "wor-e09434",
             "tag": "国际要闻",
-            "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-            "content": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+            "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+            "content": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-b2727e",
+            "tag": "国际要闻",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "content": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d9b5dc",
+            "id": "wor-15df22",
             "tag": "国际要闻",
-            "title": "Carney faces crucial test after walking away from Trump's deal",
-            "content": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+            "title": "Guinea rubbish landfill collapse kills 30",
+            "content": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-a6a56e",
-            "tag": "国际要闻",
-            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-            "content": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+            "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
             "category": "world"
       }
 ],
