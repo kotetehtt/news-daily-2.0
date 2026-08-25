@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-24 02:06:44
+// Auto-generated news data at 2026-08-25 01:59:50
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月24日',
-  update_time: '2026-08-24 02:06:44',
+  date: '2026年08月25日',
+  update_time: '2026-08-25 01:59:50',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-40b5f6",
+            "id": "ai-b829dc",
             "tag": "AI人工智能",
-            "title": "Why students are being paid £2,000 to play computer games",
-            "content": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+            "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+            "content": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-d31b6e",
+            "tag": "AI人工智能",
+            "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+            "content": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-bea3c6",
-            "tag": "AI人工智能",
-            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-            "content": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-0d85c1",
+            "id": "b2b-2fef67",
             "tag": "B2B营销",
-            "title": "Review launched into how pub and hotel business rates calculated",
-            "content": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+            "title": "New 10p coin enters circulation - will you spot one?",
+            "content": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6c8564",
+            "id": "b2b-5aa968",
             "tag": "B2B营销",
-            "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
-            "content": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
+            "title": "How Canada could hit back to hurt the US economy - and Trump",
+            "content": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1c77f6",
+            "id": "b2b-52e13c",
             "tag": "B2B营销",
-            "title": "Why students are being paid £2,000 to play computer games",
-            "content": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+            "content": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f4297a",
+            "id": "b2b-261456",
             "tag": "B2B营销",
-            "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-            "content": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+            "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+            "content": "Tips are central to US dining culture but some eateries think that they are unfair.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c05q318501yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e09434",
+            "id": "wor-d47dab",
             "tag": "国际要闻",
-            "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-            "content": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+            "content": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b2727e",
+            "id": "wor-5ce5ce",
             "tag": "国际要闻",
-            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-            "content": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+            "content": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
             "category": "world"
       },
       {
-            "id": "wor-15df22",
+            "id": "wor-60f136",
             "tag": "国际要闻",
-            "title": "Guinea rubbish landfill collapse kills 30",
-            "content": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+            "title": "US removes Syria from list of state sponsors of terrorism",
+            "content": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
             "category": "world"
       }
 ],
