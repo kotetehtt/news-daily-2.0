@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-25 01:59:50
+// Auto-generated news data at 2026-08-26 02:08:14
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月25日',
-  update_time: '2026-08-25 01:59:50',
+  date: '2026年08月26日',
+  update_time: '2026-08-26 02:08:14',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-b829dc",
+            "id": "ai-1884da",
             "tag": "AI人工智能",
-            "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-            "content": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+            "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+            "content": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d31b6e",
+            "id": "ai-6f0592",
             "tag": "AI人工智能",
-            "title": "Twitch and Amazon face legal action over using livestreams to train AI",
-            "content": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+            "title": "Firms scramble for battery power in Spain and Portugal",
+            "content": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d0d439",
+            "id": "ai-77e7b8",
             "tag": "AI人工智能",
-            "title": "Robot horse and rider steal the spotlight at Chinese conference",
-            "content": "Robot horse and rider steal the spotlight at Chinese conference",
+            "title": "Songs created by AI banned from Australia's music charts",
+            "content": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2fef67",
+            "id": "b2b-f84ea2",
             "tag": "B2B营销",
-            "title": "New 10p coin enters circulation - will you spot one?",
-            "content": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+            "title": "Winter energy prices expected to rise to three-year high",
+            "content": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5aa968",
+            "id": "b2b-f63703",
             "tag": "B2B营销",
-            "title": "How Canada could hit back to hurt the US economy - and Trump",
-            "content": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+            "title": "Back to school: How to save on uniform costs",
+            "content": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-52e13c",
+            "id": "b2b-a22f80",
             "tag": "B2B营销",
-            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-            "content": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+            "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+            "content": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-261456",
+            "id": "b2b-b495d6",
             "tag": "B2B营销",
-            "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-            "content": "Tips are central to US dining culture but some eateries think that they are unfair.",
+            "title": "AI gold rush draws crypto firms away from Bitcoin",
+            "content": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d47dab",
+            "id": "wor-6d40d5",
             "tag": "国际要闻",
-            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-            "content": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+            "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+            "content": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5ce5ce",
+            "id": "wor-e5700f",
             "tag": "国际要闻",
-            "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-            "content": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+            "content": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
             "category": "world"
       },
       {
-            "id": "wor-60f136",
+            "id": "wor-7a2d86",
             "tag": "国际要闻",
-            "title": "US removes Syria from list of state sponsors of terrorism",
-            "content": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "content": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
             "category": "world"
       }
 ],
