@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-26 02:08:14
+// Auto-generated news data at 2026-08-27 10:06:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月26日',
-  update_time: '2026-08-26 02:08:14',
+  date: '2026年08月27日',
+  update_time: '2026-08-27 10:06:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-1884da",
+            "id": "ai-e0b13a",
             "tag": "AI人工智能",
-            "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-            "content": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "content": "Unexpected chat between OpenAI agents led to Hugging Face hack",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f095/live/1bbd32b0-a191-11f1-9e49-ab6cded816f9.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-6f0592",
+            "id": "ai-b5622d",
             "tag": "AI人工智能",
-            "title": "Firms scramble for battery power in Spain and Portugal",
-            "content": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+            "title": "Nvidia revenue doubles on continued AI demand",
+            "content": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-77e7b8",
+            "id": "ai-307669",
             "tag": "AI人工智能",
-            "title": "Songs created by AI banned from Australia's music charts",
-            "content": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+            "content": "The deal has been reached during a California federal court trial over claims brought by US states.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f84ea2",
+            "id": "b2b-5aaa00",
             "tag": "B2B营销",
-            "title": "Winter energy prices expected to rise to three-year high",
-            "content": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+            "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+            "content": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f63703",
+            "id": "b2b-fe3d2b",
             "tag": "B2B营销",
-            "title": "Back to school: How to save on uniform costs",
-            "content": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+            "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+            "content": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a22f80",
+            "id": "b2b-857d36",
             "tag": "B2B营销",
-            "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
-            "content": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+            "title": "Can scent help make your rental feel like home?",
+            "content": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e288/live/efe675b0-a1fa-11f1-a97e-999c5aae08bf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b495d6",
+            "id": "b2b-651187",
             "tag": "B2B营销",
-            "title": "AI gold rush draws crypto firms away from Bitcoin",
-            "content": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
+            "title": "Nvidia revenue doubles on continued AI demand",
+            "content": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
+            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6d40d5",
+            "id": "wor-146968",
             "tag": "国际要闻",
-            "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-            "content": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+            "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+            "content": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly464k252yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c636/live/3c7f9eb0-a1e7-11f1-bf30-b9c45f18ad85.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e5700f",
+            "id": "wor-590a96",
             "tag": "国际要闻",
-            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-            "content": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "title": "What we know about deadly Nepal-Tibet floods",
+            "content": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9aa6/live/67c06430-a1f4-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7a2d86",
+            "id": "wor-759227",
             "tag": "国际要闻",
-            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-            "content": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+            "content": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png",
             "category": "world"
       }
 ],
