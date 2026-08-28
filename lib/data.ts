@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-27 10:06:39
+// Auto-generated news data at 2026-08-28 11:37:34
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月27日',
-  update_time: '2026-08-27 10:06:39',
+  date: '2026年08月28日',
+  update_time: '2026-08-28 11:37:34',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e0b13a",
+            "id": "ai-669b00",
             "tag": "AI人工智能",
-            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-            "content": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+            "content": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f095/live/1bbd32b0-a191-11f1-9e49-ab6cded816f9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b5622d",
+            "id": "ai-3ca851",
             "tag": "AI人工智能",
-            "title": "Nvidia revenue doubles on continued AI demand",
-            "content": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+            "title": "Time is running out for cyber security, warn top tech firms",
+            "content": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-307669",
+            "id": "ai-0c6fa9",
             "tag": "AI人工智能",
-            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-            "content": "The deal has been reached during a California federal court trial over claims brought by US states.",
+            "title": "Reform of all social media should come with Meta changes, UN says",
+            "content": "California's attorney general is now looking at TikTok and YouTube to enact teen safety features.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5901/live/e330e520-a228-11f1-bd6a-3d72a7f54a3e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5aaa00",
+            "id": "b2b-203227",
             "tag": "B2B营销",
-            "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-            "content": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+            "title": "Military veterans told they owe thousands of pounds over clerical error",
+            "content": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a26/live/e0fbfd20-a2bf-11f1-a291-b542ee92de7c.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-fe3d2b",
+            "id": "b2b-ec2184",
             "tag": "B2B营销",
-            "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-            "content": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+            "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+            "content": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-857d36",
+            "id": "b2b-a0d461",
             "tag": "B2B营销",
-            "title": "Can scent help make your rental feel like home?",
-            "content": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+            "title": "'Cowboy builders' targeted in new government clampdown",
+            "content": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e288/live/efe675b0-a1fa-11f1-a97e-999c5aae08bf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-651187",
+            "id": "b2b-3c9adb",
             "tag": "B2B营销",
-            "title": "Nvidia revenue doubles on continued AI demand",
-            "content": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+            "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+            "content": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1264/live/525dbc40-a2ae-11f1-ab20-f9f4f61e8913.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-146968",
+            "id": "wor-3590f6",
             "tag": "国际要闻",
-            "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-            "content": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+            "title": "'High risk' of lake breaching and causing second flood, warns China",
+            "content": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly464k252yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c636/live/3c7f9eb0-a1e7-11f1-bf30-b9c45f18ad85.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg",
             "category": "world"
       },
       {
-            "id": "wor-590a96",
+            "id": "wor-14ba85",
             "tag": "国际要闻",
-            "title": "What we know about deadly Nepal-Tibet floods",
-            "content": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+            "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+            "content": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9aa6/live/67c06430-a1f4-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg",
             "category": "world"
       },
       {
-            "id": "wor-759227",
+            "id": "wor-0b44bc",
             "tag": "国际要闻",
-            "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-            "content": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+            "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+            "content": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png",
+            "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e5/live/c21b78e0-a25b-11f1-b109-879e35c24276.jpg",
             "category": "world"
       }
 ],
