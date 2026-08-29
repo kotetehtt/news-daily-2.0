@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-28 11:37:34
+// Auto-generated news data at 2026-08-29 07:15:26
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月28日',
-  update_time: '2026-08-28 11:37:34',
+  date: '2026年08月29日',
+  update_time: '2026-08-29 07:15:26',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-203227",
+            "id": "b2b-7255b2",
             "tag": "B2B营销",
-            "title": "Military veterans told they owe thousands of pounds over clerical error",
-            "content": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
+            "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+            "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a26/live/e0fbfd20-a2bf-11f1-a291-b542ee92de7c.png",
+            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ec2184",
+            "id": "b2b-612244",
             "tag": "B2B营销",
-            "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-            "content": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+            "title": "Wife of man who died after turbulence sues airline",
+            "content": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a0d461",
+            "id": "b2b-660b02",
             "tag": "B2B营销",
-            "title": "'Cowboy builders' targeted in new government clampdown",
-            "content": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
+            "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+            "content": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3c9adb",
+            "id": "b2b-3784b2",
             "tag": "B2B营销",
-            "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-            "content": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
+            "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
+            "content": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1264/live/525dbc40-a2ae-11f1-ab20-f9f4f61e8913.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-3590f6",
+            "id": "wor-1388a5",
             "tag": "国际要闻",
-            "title": "'High risk' of lake breaching and causing second flood, warns China",
-            "content": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
+            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "content": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
             "category": "world"
       },
       {
-            "id": "wor-14ba85",
+            "id": "wor-efb9e0",
             "tag": "国际要闻",
-            "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-            "content": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+            "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+            "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0b44bc",
+            "id": "wor-dc72f3",
             "tag": "国际要闻",
-            "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-            "content": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+            "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+            "content": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e5/live/c21b78e0-a25b-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       }
 ],
