@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-29 07:15:26
+// Auto-generated news data at 2026-08-30 05:39:05
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月29日',
-  update_time: '2026-08-29 07:15:26',
+  date: '2026年08月30日',
+  update_time: '2026-08-30 05:39:05',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-95fb3a",
+            "tag": "AI人工智能",
+            "title": "I've been to Gamescom six times - here's what excited me this year",
+            "content": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
+            "category": "ai"
+      },
+      {
             "id": "ai-669b00",
             "tag": "AI人工智能",
             "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-0c6fa9",
-            "tag": "AI人工智能",
-            "title": "Reform of all social media should come with Meta changes, UN says",
-            "content": "California's attorney general is now looking at TikTok and YouTube to enact teen safety features.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5901/live/e330e520-a228-11f1-bd6a-3d72a7f54a3e.jpg",
             "category": "ai"
       }
 ],
@@ -306,25 +306,25 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-efb9e0",
+            "id": "wor-0c3e93",
             "tag": "国际要闻",
-            "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-            "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+            "title": "Iceland EU referendum on a knife edge as counting continues",
+            "content": "A vote on whether to resume membership talks with the European Union is too close to call.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-dc72f3",
+            "id": "wor-a2af8d",
             "tag": "国际要闻",
-            "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-            "content": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+            "title": "WhatsApp chat used to send cash for crime and extremism",
+            "content": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
             "category": "world"
       }
 ],
