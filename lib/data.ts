@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-30 05:39:05
+// Auto-generated news data at 2026-08-31 05:53:43
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月30日',
-  update_time: '2026-08-30 05:39:05',
+  date: '2026年08月31日',
+  update_time: '2026-08-31 05:53:43',
   banner: [
       {
             "id": "ai-001",
@@ -216,25 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7255b2",
+            "id": "b2b-70998d",
             "tag": "B2B营销",
-            "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+            "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+            "content": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd9/live/fc8d0a40-9bba-11f1-aed2-8d6da8d75094.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-784e10",
+            "tag": "B2B营销",
+            "title": "How the US-Canada trade war is being felt on both sides of the border",
+            "content": "The US-Canada trade war is being felt on both sides of the border.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-5792c0",
+            "tag": "B2B营销",
+            "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
             "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-612244",
-            "tag": "B2B营销",
-            "title": "Wife of man who died after turbulence sues airline",
-            "content": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       },
       {
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-3784b2",
-            "tag": "B2B营销",
-            "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-            "content": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1388a5",
+            "id": "wor-2ee730",
             "tag": "国际要闻",
-            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-            "content": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+            "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+            "content": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0c3e93",
+            "id": "wor-274a07",
             "tag": "国际要闻",
-            "title": "Iceland EU referendum on a knife edge as counting continues",
-            "content": "A vote on whether to resume membership talks with the European Union is too close to call.",
+            "title": "US and Iran trade strikes for first time in weeks",
+            "content": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-fbda8f",
+            "tag": "国际要闻",
+            "title": "Iceland votes against restarting EU membership talks",
+            "content": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-a2af8d",
-            "tag": "国际要闻",
-            "title": "WhatsApp chat used to send cash for crime and extremism",
-            "content": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e2/live/fd09c3f0-a484-11f1-bed8-470734b5b662.jpg",
             "category": "world"
       }
 ],
