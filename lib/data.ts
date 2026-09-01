@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-08-31 05:53:43
+// Auto-generated news data at 2026-09-01 05:27:13
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年08月31日',
-  update_time: '2026-08-31 05:53:43',
+  date: '2026年09月01日',
+  update_time: '2026-09-01 05:27:13',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-2ccd9e",
+            "tag": "AI人工智能",
+            "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+            "content": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-74ff2e",
+            "tag": "AI人工智能",
+            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+            "content": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-95fb3a",
             "tag": "AI人工智能",
             "title": "I've been to Gamescom six times - here's what excited me this year",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-669b00",
-            "tag": "AI人工智能",
-            "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-            "content": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-3ca851",
-            "tag": "AI人工智能",
-            "title": "Time is running out for cyber security, warn top tech firms",
-            "content": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-70998d",
+            "id": "b2b-8c72d0",
             "tag": "B2B营销",
-            "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-            "content": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+            "title": "Shein shares fall in long-awaited stock market debut",
+            "content": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd9/live/fc8d0a40-9bba-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-784e10",
+            "id": "b2b-3e4d9f",
             "tag": "B2B营销",
-            "title": "How the US-Canada trade war is being felt on both sides of the border",
-            "content": "The US-Canada trade war is being felt on both sides of the border.",
+            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+            "content": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5792c0",
+            "id": "b2b-d9aa27",
             "tag": "B2B营销",
-            "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-            "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+            "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+            "content": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-660b02",
+            "id": "b2b-d1a8d4",
             "tag": "B2B营销",
-            "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-            "content": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+            "title": "Japan Inc is betting big on India as China risks deepen",
+            "content": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2ee730",
+            "id": "wor-b138af",
             "tag": "国际要闻",
-            "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-            "content": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+            "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+            "content": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg",
             "category": "world"
       },
       {
-            "id": "wor-274a07",
+            "id": "wor-94ab1e",
             "tag": "国际要闻",
-            "title": "US and Iran trade strikes for first time in weeks",
-            "content": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "content": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
             "category": "world"
       },
       {
-            "id": "wor-fbda8f",
+            "id": "wor-310674",
             "tag": "国际要闻",
-            "title": "Iceland votes against restarting EU membership talks",
-            "content": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+            "title": "US army secretary resigns after months of tension",
+            "content": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e2/live/fd09c3f0-a484-11f1-bed8-470734b5b662.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
             "category": "world"
       }
 ],
