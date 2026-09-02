@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-01 05:27:13
+// Auto-generated news data at 2026-09-02 04:53:12
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月01日',
-  update_time: '2026-09-01 05:27:13',
+  date: '2026年09月02日',
+  update_time: '2026-09-02 04:53:12',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-2ccd9e",
+            "id": "ai-512faa",
             "tag": "AI人工智能",
-            "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-            "content": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+            "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+            "content": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-37fec5",
+            "tag": "AI人工智能",
+            "title": "Will self-flying planes transform the skies?",
+            "content": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-95fb3a",
-            "tag": "AI人工智能",
-            "title": "I've been to Gamescom six times - here's what excited me this year",
-            "content": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8c72d0",
+            "id": "b2b-9d97de",
             "tag": "B2B营销",
-            "title": "Shein shares fall in long-awaited stock market debut",
-            "content": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "content": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d389/live/9e6500a0-a62b-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3e4d9f",
+            "id": "b2b-1dc6f3",
             "tag": "B2B营销",
-            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-            "content": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+            "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+            "content": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d9aa27",
+            "id": "b2b-2d74d3",
             "tag": "B2B营销",
-            "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-            "content": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+            "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+            "content": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d1a8d4",
+            "id": "b2b-8eb6f3",
             "tag": "B2B营销",
-            "title": "Japan Inc is betting big on India as China risks deepen",
-            "content": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+            "title": "Range Rover launches first fully electric model",
+            "content": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cz64955d56po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b138af",
+            "id": "wor-dbdfbe",
             "tag": "国际要闻",
-            "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-            "content": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+            "title": "Germany says Russia behind Leipzig airport drone attack",
+            "content": "Germany says Russia behind Leipzig airport drone attack",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-94ab1e",
+            "id": "wor-a5114f",
             "tag": "国际要闻",
-            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-            "content": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+            "content": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-310674",
+            "id": "wor-129ec2",
             "tag": "国际要闻",
-            "title": "US army secretary resigns after months of tension",
-            "content": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "content": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       }
 ],
