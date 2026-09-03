@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-02 04:53:12
+// Auto-generated news data at 2026-09-03 04:51:29
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月02日',
-  update_time: '2026-09-02 04:53:12',
+  date: '2026年09月03日',
+  update_time: '2026-09-03 04:51:29',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-512faa",
+            "id": "ai-eb71ef",
             "tag": "AI人工智能",
-            "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-            "content": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+            "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+            "content": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-37fec5",
+            "id": "ai-9055de",
             "tag": "AI人工智能",
-            "title": "Will self-flying planes transform the skies?",
-            "content": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+            "title": "Uber to cut over 3,000 jobs in major global restructuring",
+            "content": "The company says cutting roles would make its operations \"simpler and faster\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-74ff2e",
+            "id": "ai-5777f9",
             "tag": "AI人工智能",
-            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-            "content": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+            "title": "Lords call for AI 'kill switch' powers in UK",
+            "content": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9d97de",
+            "id": "b2b-492afd",
             "tag": "B2B营销",
-            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-            "content": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+            "content": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d389/live/9e6500a0-a62b-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d32/live/de8a8700-a6e8-11f1-b109-879e35c24276.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-1dc6f3",
+            "id": "b2b-f2d08a",
             "tag": "B2B营销",
-            "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-            "content": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+            "title": "Almost half of households do not see benefits of economic growth, report says",
+            "content": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d15/live/ed462620-a6cd-11f1-b0c9-07afcdd8053c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2d74d3",
+            "id": "b2b-dca49c",
             "tag": "B2B营销",
-            "title": "Soft launches and late sittings - six ways to get cheaper meals out",
-            "content": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+            "title": "'I don't even like them': How much should you give to office gift collections?",
+            "content": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb4/live/9bba9250-a6f5-11f1-b109-879e35c24276.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8eb6f3",
+            "id": "b2b-741faa",
             "tag": "B2B营销",
-            "title": "Range Rover launches first fully electric model",
-            "content": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
+            "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+            "content": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
+            "link": "https://www.bbc.co.uk/articles/cj647xd596xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_bbc/1200/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-dbdfbe",
+            "id": "wor-b7105a",
             "tag": "国际要闻",
-            "title": "Germany says Russia behind Leipzig airport drone attack",
-            "content": "Germany says Russia behind Leipzig airport drone attack",
+            "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+            "content": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a5114f",
+            "id": "wor-025d0b",
             "tag": "国际要闻",
-            "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-            "content": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+            "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
+            "content": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4607/live/199bd4e0-a719-11f1-8596-77a4bf645971.jpg",
             "category": "world"
       },
       {
-            "id": "wor-129ec2",
+            "id": "wor-643ef7",
             "tag": "国际要闻",
-            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-            "content": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+            "content": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
             "category": "world"
       }
 ],
