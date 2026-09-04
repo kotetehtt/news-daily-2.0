@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-03 04:51:29
+// Auto-generated news data at 2026-09-04 04:54:46
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月03日',
-  update_time: '2026-09-03 04:51:29',
+  date: '2026年09月04日',
+  update_time: '2026-09-04 04:54:46',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-eb71ef",
+            "id": "ai-00040a",
             "tag": "AI人工智能",
-            "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-            "content": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+            "title": "Could robots be the future of theme parks?",
+            "content": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9055de",
+            "id": "ai-289db9",
             "tag": "AI人工智能",
-            "title": "Uber to cut over 3,000 jobs in major global restructuring",
-            "content": "The company says cutting roles would make its operations \"simpler and faster\".",
+            "title": "AI data centres are booming in Australia - but at what cost?",
+            "content": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5777f9",
+            "id": "ai-d8b91a",
             "tag": "AI人工智能",
-            "title": "Lords call for AI 'kill switch' powers in UK",
-            "content": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+            "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+            "content": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-492afd",
+            "id": "b2b-104e38",
             "tag": "B2B营销",
-            "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-            "content": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "content": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d32/live/de8a8700-a6e8-11f1-b109-879e35c24276.png",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f2d08a",
+            "id": "b2b-098197",
             "tag": "B2B营销",
-            "title": "Almost half of households do not see benefits of economic growth, report says",
-            "content": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+            "content": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d15/live/ed462620-a6cd-11f1-b0c9-07afcdd8053c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-dca49c",
+            "id": "b2b-4536b0",
             "tag": "B2B营销",
-            "title": "'I don't even like them': How much should you give to office gift collections?",
-            "content": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+            "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
+            "content": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb4/live/9bba9250-a6f5-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-741faa",
+            "id": "b2b-2325ac",
             "tag": "B2B营销",
-            "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-            "content": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
+            "title": "'I lost my savings after a job interview scam'",
+            "content": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/articles/cj647xd596xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_bbc/1200/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b7105a",
+            "id": "wor-2b6a33",
             "tag": "国际要闻",
-            "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-            "content": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+            "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+            "content": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-025d0b",
+            "id": "wor-6b4ee0",
             "tag": "国际要闻",
-            "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-            "content": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+            "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+            "content": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4607/live/199bd4e0-a719-11f1-8596-77a4bf645971.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg",
             "category": "world"
       },
       {
-            "id": "wor-643ef7",
+            "id": "wor-318ecf",
             "tag": "国际要闻",
-            "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-            "content": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+            "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
+            "content": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       }
 ],
