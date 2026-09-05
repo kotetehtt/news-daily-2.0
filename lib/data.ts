@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-04 04:54:46
+// Auto-generated news data at 2026-09-05 04:47:55
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月04日',
-  update_time: '2026-09-04 04:54:46',
+  date: '2026年09月05日',
+  update_time: '2026-09-05 04:47:55',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-9250e8",
+            "tag": "AI人工智能",
+            "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+            "content": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-defe12",
+            "tag": "AI人工智能",
+            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+            "content": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-00040a",
             "tag": "AI人工智能",
             "title": "Could robots be the future of theme parks?",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-289db9",
-            "tag": "AI人工智能",
-            "title": "AI data centres are booming in Australia - but at what cost?",
-            "content": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d8b91a",
-            "tag": "AI人工智能",
-            "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-            "content": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,28 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-87a799",
+            "tag": "B2B营销",
+            "title": "Stock up on food to prepare for extreme weather, minister says",
+            "content": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4805/live/d3c90eb0-a85d-11f1-aed2-8d6da8d75094.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-06030b",
+            "tag": "B2B营销",
+            "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+            "content": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-104e38",
             "tag": "B2B营销",
             "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
@@ -227,36 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-098197",
+            "id": "b2b-c6bd41",
             "tag": "B2B营销",
-            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-            "content": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+            "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+            "content": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-4536b0",
-            "tag": "B2B营销",
-            "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
-            "content": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-2325ac",
-            "tag": "B2B营销",
-            "title": "'I lost my savings after a job interview scam'",
-            "content": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bc4/live/46d54550-a853-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2b6a33",
+            "id": "wor-bc5daf",
             "tag": "国际要闻",
-            "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-            "content": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+            "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+            "content": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6b4ee0",
+            "id": "wor-73af71",
             "tag": "国际要闻",
-            "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-            "content": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+            "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+            "content": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
             "category": "world"
       },
       {
-            "id": "wor-318ecf",
+            "id": "wor-d71969",
             "tag": "国际要闻",
-            "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
-            "content": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+            "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+            "content": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       }
 ],
