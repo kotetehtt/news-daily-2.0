@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-05 04:47:55
+// Auto-generated news data at 2026-09-06 04:56:25
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月05日',
-  update_time: '2026-09-05 04:47:55',
+  date: '2026年09月06日',
+  update_time: '2026-09-06 04:56:25',
   banner: [
       {
             "id": "ai-001",
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-bc5daf",
+            "id": "wor-bfe4cb",
             "tag": "国际要闻",
-            "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-            "content": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+            "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+            "content": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-73af71",
+            "id": "wor-6ce11d",
             "tag": "国际要闻",
-            "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-            "content": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+            "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+            "content": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
             "category": "world"
       },
       {
-            "id": "wor-d71969",
+            "id": "wor-81c64a",
             "tag": "国际要闻",
-            "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-            "content": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+            "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+            "content": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
             "category": "world"
       }
 ],
