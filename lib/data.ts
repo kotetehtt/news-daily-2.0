@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-06 04:56:25
+// Auto-generated news data at 2026-09-07 05:01:14
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月06日',
-  update_time: '2026-09-06 04:56:25',
+  date: '2026年09月07日',
+  update_time: '2026-09-07 05:01:14',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-87a799",
+            "id": "b2b-358df1",
             "tag": "B2B营销",
-            "title": "Stock up on food to prepare for extreme weather, minister says",
-            "content": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+            "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+            "content": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4805/live/d3c90eb0-a85d-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-06030b",
+            "id": "b2b-48560c",
             "tag": "B2B营销",
-            "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-            "content": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "content": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crer948xq00o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-104e38",
+            "id": "b2b-b64d66",
             "tag": "B2B营销",
-            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-            "content": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "title": "The £70 refund letter that isn't a scam",
+            "content": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c6bd41",
+            "id": "b2b-49d391",
             "tag": "B2B营销",
-            "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-            "content": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+            "content": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bc4/live/46d54550-a853-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-bfe4cb",
+            "id": "wor-f12375",
             "tag": "国际要闻",
-            "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-            "content": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+            "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+            "content": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6ce11d",
+            "id": "wor-df3145",
             "tag": "国际要闻",
-            "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-            "content": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+            "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+            "content": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+            "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg",
             "category": "world"
       },
       {
-            "id": "wor-81c64a",
+            "id": "wor-6f090d",
             "tag": "国际要闻",
-            "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-            "content": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+            "content": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
+            "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
             "category": "world"
       }
 ],
