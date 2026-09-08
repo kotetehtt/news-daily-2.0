@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-07 05:01:14
+// Auto-generated news data at 2026-09-08 04:59:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月07日',
-  update_time: '2026-09-07 05:01:14',
+  date: '2026年09月08日',
+  update_time: '2026-09-08 04:59:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9250e8",
+            "id": "ai-140249",
             "tag": "AI人工智能",
-            "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-            "content": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+            "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+            "content": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-defe12",
+            "id": "ai-337baa",
             "tag": "AI人工智能",
-            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-            "content": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+            "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+            "content": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-00040a",
+            "id": "ai-210828",
             "tag": "AI人工智能",
-            "title": "Could robots be the future of theme parks?",
-            "content": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+            "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+            "content": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-358df1",
+            "id": "b2b-1a45fc",
             "tag": "B2B营销",
-            "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-            "content": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+            "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+            "content": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-48560c",
+            "id": "b2b-a22ac7",
             "tag": "B2B营销",
-            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-            "content": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
+            "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+            "content": "It is the latest escalation since trade talks collapsed in late August, with US officials threatening to hit back if Canada’s counter-tariffs are implemented.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crer948xq00o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0262/live/bfbb6fe0-ab0e-11f1-a291-b542ee92de7c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b64d66",
+            "id": "b2b-086c52",
             "tag": "B2B营销",
-            "title": "The £70 refund letter that isn't a scam",
-            "content": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+            "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+            "content": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-49d391",
+            "id": "b2b-219fbf",
             "tag": "B2B营销",
-            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-            "content": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+            "content": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f12375",
+            "id": "wor-86f9cd",
             "tag": "国际要闻",
-            "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-            "content": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+            "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+            "content": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-df3145",
+            "id": "wor-740f49",
             "tag": "国际要闻",
-            "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-            "content": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+            "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+            "content": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ded/live/26dbafb0-aaff-11f1-a2a8-b5ca0233056a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6f090d",
+            "id": "wor-dd598f",
             "tag": "国际要闻",
-            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-            "content": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+            "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+            "content": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
             "category": "world"
       }
 ],
