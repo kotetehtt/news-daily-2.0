@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-08 04:59:17
+// Auto-generated news data at 2026-09-09 04:58:36
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月08日',
-  update_time: '2026-09-08 04:59:17',
+  date: '2026年09月09日',
+  update_time: '2026-09-09 04:58:36',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-140249",
+            "id": "ai-e12033",
             "tag": "AI人工智能",
-            "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-            "content": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+            "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+            "content": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-337baa",
+            "id": "ai-fdb836",
             "tag": "AI人工智能",
-            "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-            "content": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+            "title": "Should promotion depend on how workers use AI?",
+            "content": "More companies are tying career progression to AI use: is that fair?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-210828",
+            "id": "ai-6cf8e8",
             "tag": "AI人工智能",
-            "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-            "content": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+            "content": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-1a45fc",
+            "id": "b2b-75e913",
             "tag": "B2B营销",
-            "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-            "content": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+            "content": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a22ac7",
+            "id": "b2b-dac14e",
             "tag": "B2B营销",
-            "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-            "content": "It is the latest escalation since trade talks collapsed in late August, with US officials threatening to hit back if Canada’s counter-tariffs are implemented.",
+            "title": "I'm 27 and I've already written my will - here's why",
+            "content": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0262/live/bfbb6fe0-ab0e-11f1-a291-b542ee92de7c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-086c52",
+            "id": "b2b-e92fc8",
             "tag": "B2B营销",
-            "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-            "content": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "content": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ba/live/df97f900-abc2-11f1-b109-879e35c24276.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-219fbf",
+            "id": "b2b-cf6252",
             "tag": "B2B营销",
-            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-            "content": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+            "title": "Singaporean man pleads guilty in US to massive crypto heist",
+            "content": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c7a/live/c2fc9470-abfb-11f1-8c98-1196ec471ea3.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-86f9cd",
+            "id": "wor-f245ec",
             "tag": "国际要闻",
-            "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-            "content": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "content": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
             "category": "world"
       },
       {
-            "id": "wor-740f49",
+            "id": "wor-ec88a7",
             "tag": "国际要闻",
-            "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-            "content": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "content": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ded/live/26dbafb0-aaff-11f1-a2a8-b5ca0233056a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
             "category": "world"
       },
       {
-            "id": "wor-dd598f",
+            "id": "wor-136ce1",
             "tag": "国际要闻",
-            "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-            "content": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+            "content": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
             "category": "world"
       }
 ],
