@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-09 04:58:36
+// Auto-generated news data at 2026-09-10 05:02:13
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月09日',
-  update_time: '2026-09-09 04:58:36',
+  date: '2026年09月10日',
+  update_time: '2026-09-10 05:02:13',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e12033",
+            "id": "ai-ed61c1",
             "tag": "AI人工智能",
-            "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-            "content": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+            "title": "UK needs new laws for AI in healthcare, says watchdog",
+            "content": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-fdb836",
+            "id": "ai-9f67e0",
             "tag": "AI人工智能",
-            "title": "Should promotion depend on how workers use AI?",
-            "content": "More companies are tying career progression to AI use: is that fair?",
+            "title": "Google picks Finland for its largest single investment in Europe",
+            "content": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-6cf8e8",
+            "id": "ai-99e6bb",
             "tag": "AI人工智能",
-            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-            "content": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+            "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+            "content": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-75e913",
+            "id": "b2b-becab5",
             "tag": "B2B营销",
-            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-            "content": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+            "title": "The one thing you need to do to succeed - according to top bosses",
+            "content": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f1/live/9e9bf960-ac71-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-dac14e",
+            "id": "b2b-668cf4",
             "tag": "B2B营销",
-            "title": "I'm 27 and I've already written my will - here's why",
-            "content": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "content": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e92fc8",
+            "id": "b2b-405fb5",
             "tag": "B2B营销",
-            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-            "content": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+            "content": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ba/live/df97f900-abc2-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-cf6252",
+            "id": "b2b-47e05f",
             "tag": "B2B营销",
-            "title": "Singaporean man pleads guilty in US to massive crypto heist",
-            "content": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+            "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+            "content": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c7a/live/c2fc9470-abfb-11f1-8c98-1196ec471ea3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f245ec",
+            "id": "wor-108e19",
             "tag": "国际要闻",
-            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-            "content": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+            "content": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2bd/live/40eb11a0-acc8-11f1-950e-0d3c5642d8c0.png",
             "category": "world"
       },
       {
-            "id": "wor-ec88a7",
+            "id": "wor-40d1c9",
             "tag": "国际要闻",
-            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-            "content": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "title": "Iran war won't end until after crucial November elections, says Trump",
+            "content": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a150/live/628e6b60-aca8-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-136ce1",
+            "id": "wor-370256",
             "tag": "国际要闻",
-            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-            "content": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+            "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+            "content": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg",
             "category": "world"
       }
 ],
