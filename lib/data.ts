@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-10 05:02:13
+// Auto-generated news data at 2026-09-11 04:58:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月10日',
-  update_time: '2026-09-10 05:02:13',
+  date: '2026年09月11日',
+  update_time: '2026-09-11 04:58:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-01eb20",
+            "tag": "AI人工智能",
+            "title": "Can Europe recharge its battery industry?",
+            "content": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-ed61c1",
             "tag": "AI人工智能",
             "title": "UK needs new laws for AI in healthcare, says watchdog",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-99e6bb",
-            "tag": "AI人工智能",
-            "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-            "content": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-becab5",
+            "id": "b2b-e9406c",
             "tag": "B2B营销",
-            "title": "The one thing you need to do to succeed - according to top bosses",
-            "content": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+            "title": "I asked my husband to pay into my pension when we had a child - here's why",
+            "content": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f1/live/9e9bf960-ac71-11f1-a540-61c3f7fc4e6c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cde02k65427o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-668cf4",
+            "id": "b2b-d2a4a9",
             "tag": "B2B营销",
-            "title": "Air traffic failure was avoidable, says transport secretary",
-            "content": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "title": "Are interest rates on the way up again?",
+            "content": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-405fb5",
+            "id": "b2b-4eb08e",
             "tag": "B2B营销",
-            "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-            "content": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "content": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
+            "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-47e05f",
+            "id": "b2b-45d457",
             "tag": "B2B营销",
-            "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
-            "content": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+            "title": "Alstom to build new battery-electric train fleet",
+            "content": "The government says the work will support thousands of jobs across the UK.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png",
+            "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad58/live/9f602e80-ad47-11f1-ae59-91d2b63bf2a3.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-108e19",
+            "id": "wor-2a4ab1",
             "tag": "国际要闻",
-            "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-            "content": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+            "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+            "content": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2bd/live/40eb11a0-acc8-11f1-950e-0d3c5642d8c0.png",
+            "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-40d1c9",
+            "id": "wor-ebde5f",
             "tag": "国际要闻",
-            "title": "Iran war won't end until after crucial November elections, says Trump",
-            "content": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+            "title": "Can Trump really pay $5,000 to every American adult?",
+            "content": "Analysts question if the US president's election year offer is workable, legal or affordable.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a150/live/628e6b60-aca8-11f1-a540-61c3f7fc4e6c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-370256",
+            "id": "wor-e8af39",
             "tag": "国际要闻",
-            "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-            "content": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+            "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+            "content": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg",
             "category": "world"
       }
 ],
