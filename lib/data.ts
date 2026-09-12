@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-11 04:58:39
+// Auto-generated news data at 2026-09-12 04:51:19
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月11日',
-  update_time: '2026-09-11 04:58:39',
+  date: '2026年09月12日',
+  update_time: '2026-09-12 04:51:19',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-01eb20",
+            "id": "ai-4060d4",
             "tag": "AI人工智能",
-            "title": "Can Europe recharge its battery industry?",
-            "content": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+            "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+            "content": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ed61c1",
+            "id": "ai-c0f44c",
             "tag": "AI人工智能",
-            "title": "UK needs new laws for AI in healthcare, says watchdog",
-            "content": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+            "title": "UK government rejects 'kill switch' idea for dangerous AI",
+            "content": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9f67e0",
+            "id": "ai-90ca66",
             "tag": "AI人工智能",
-            "title": "Google picks Finland for its largest single investment in Europe",
-            "content": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+            "title": "Does this AI comic make you laugh?",
+            "content": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a77/live/af54b2d0-addc-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "ai"
       }
 ],
@@ -216,20 +216,31 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e9406c",
+            "id": "b2b-004b03",
             "tag": "B2B营销",
-            "title": "I asked my husband to pay into my pension when we had a child - here's why",
-            "content": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+            "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+            "content": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cde02k65427o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d2a4a9",
+            "id": "b2b-b9cfe4",
             "tag": "B2B营销",
-            "title": "Are interest rates on the way up again?",
+            "title": "US prices remain high as fuel costs squeeze household budgets",
+            "content": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-c9c84b",
+            "tag": "B2B营销",
+            "title": "Interest rates could rise again across the world – here's why",
             "content": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
             "source": "BBC News",
             "time": "今日",
@@ -238,25 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4eb08e",
+            "id": "b2b-2f3575",
             "tag": "B2B营销",
-            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-            "content": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "content": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-45d457",
-            "tag": "B2B营销",
-            "title": "Alstom to build new battery-electric train fleet",
-            "content": "The government says the work will support thousands of jobs across the UK.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad58/live/9f602e80-ad47-11f1-ae59-91d2b63bf2a3.png",
+            "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2a4ab1",
+            "id": "wor-417923",
             "tag": "国际要闻",
-            "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-            "content": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+            "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+            "content": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ebde5f",
+            "id": "wor-75fe96",
             "tag": "国际要闻",
-            "title": "Can Trump really pay $5,000 to every American adult?",
-            "content": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+            "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+            "content": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
             "category": "world"
       },
       {
-            "id": "wor-e8af39",
+            "id": "wor-a5b091",
             "tag": "国际要闻",
-            "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-            "content": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+            "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+            "content": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
