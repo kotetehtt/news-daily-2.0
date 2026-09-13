@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-12 04:51:19
+// Auto-generated news data at 2026-09-13 05:09:54
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月12日',
-  update_time: '2026-09-12 04:51:19',
+  date: '2026年09月13日',
+  update_time: '2026-09-13 05:09:54',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-29d743",
+            "tag": "AI人工智能",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "content": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-8146c0",
+            "tag": "AI人工智能",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-4060d4",
             "tag": "AI人工智能",
             "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-c0f44c",
-            "tag": "AI人工智能",
-            "title": "UK government rejects 'kill switch' idea for dangerous AI",
-            "content": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-90ca66",
-            "tag": "AI人工智能",
-            "title": "Does this AI comic make you laugh?",
-            "content": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a77/live/af54b2d0-addc-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "ai"
       }
 ],
@@ -216,17 +216,6 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-004b03",
-            "tag": "B2B营销",
-            "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-            "content": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
-            "category": "b2b"
-      },
-      {
             "id": "b2b-b9cfe4",
             "tag": "B2B营销",
             "title": "US prices remain high as fuel costs squeeze household budgets",
@@ -238,6 +227,28 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-004b03",
+            "tag": "B2B营销",
+            "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+            "content": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-6e4e4a",
+            "tag": "B2B营销",
+            "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+            "content": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-c9c84b",
             "tag": "B2B营销",
             "title": "Interest rates could rise again across the world – here's why",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-2f3575",
-            "tag": "B2B营销",
-            "title": "AI boom helps drive surprise UK growth in July",
-            "content": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-417923",
+            "id": "wor-25061c",
             "tag": "国际要闻",
-            "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-            "content": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-75fe96",
+            "id": "wor-7c9aba",
             "tag": "国际要闻",
-            "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-            "content": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+            "content": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
+            "link": "https://www.bbc.co.uk/news/articles/c62m933465eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a5b091",
+            "id": "wor-cda670",
             "tag": "国际要闻",
-            "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-            "content": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+            "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+            "content": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png",
             "category": "world"
       }
 ],
