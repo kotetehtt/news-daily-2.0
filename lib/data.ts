@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-13 05:09:54
+// Auto-generated news data at 2026-09-14 05:16:16
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月13日',
-  update_time: '2026-09-13 05:09:54',
+  date: '2026年09月14日',
+  update_time: '2026-09-14 05:16:16',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-29d743",
+            "id": "ai-806d3b",
             "tag": "AI人工智能",
-            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-            "content": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+            "title": "Committee calls for bill to address AI threat to human rights",
+            "content": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-8146c0",
+            "id": "ai-cf59cf",
             "tag": "AI人工智能",
-            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-            "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+            "content": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-4060d4",
+            "id": "ai-7f53eb",
             "tag": "AI人工智能",
-            "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-            "content": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+            "title": "Questions mount over what an AI 'slowdown' would look like",
+            "content": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b9cfe4",
+            "id": "b2b-2d73cc",
             "tag": "B2B营销",
-            "title": "US prices remain high as fuel costs squeeze household budgets",
-            "content": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+            "title": "Gloomy forecast for tenants as rent rises set to speed up",
+            "content": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-004b03",
+            "id": "b2b-67852e",
             "tag": "B2B营销",
-            "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-            "content": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "content": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6e4e4a",
+            "id": "b2b-b422e6",
             "tag": "B2B营销",
-            "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-            "content": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+            "title": "How to protect your laptop, phone and bike from thieves at uni",
+            "content": "What should new students consider to keep your belongings safe and covered by insurance?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c9c84b",
+            "id": "b2b-59c4a2",
             "tag": "B2B营销",
-            "title": "Interest rates could rise again across the world – here's why",
-            "content": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+            "title": "Committee calls for bill to address AI threat to human rights",
+            "content": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-25061c",
+            "id": "wor-7928a2",
             "tag": "国际要闻",
-            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-            "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "content": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7c9aba",
+            "id": "wor-d1e9be",
             "tag": "国际要闻",
-            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-            "content": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+            "content": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c62m933465eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-cda670",
+            "id": "wor-e68a23",
             "tag": "国际要闻",
-            "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-            "content": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+            "title": "Questions mount over what an AI 'slowdown' would look like",
+            "content": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
             "category": "world"
       }
 ],
