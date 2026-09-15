@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-14 05:16:16
+// Auto-generated news data at 2026-09-15 05:08:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月14日',
-  update_time: '2026-09-14 05:16:16',
+  date: '2026年09月15日',
+  update_time: '2026-09-15 05:08:09',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-806d3b",
+            "id": "ai-685836",
             "tag": "AI人工智能",
-            "title": "Committee calls for bill to address AI threat to human rights",
-            "content": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+            "content": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
             "category": "ai"
       },
       {
-            "id": "ai-cf59cf",
+            "id": "ai-240c05",
             "tag": "AI人工智能",
-            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-            "content": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+            "content": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7f53eb",
+            "id": "ai-9a9af7",
             "tag": "AI人工智能",
-            "title": "Questions mount over what an AI 'slowdown' would look like",
-            "content": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+            "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+            "content": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2d73cc",
+            "id": "b2b-b779ca",
             "tag": "B2B营销",
-            "title": "Gloomy forecast for tenants as rent rises set to speed up",
-            "content": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+            "content": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-67852e",
+            "id": "b2b-c4d6e2",
             "tag": "B2B营销",
-            "title": "'Culture shift' needed in how UK does business, PM urges",
-            "content": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "title": "I got paid $5,000 to move to a place I'd never heard of",
+            "content": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b422e6",
+            "id": "b2b-6cc1bb",
             "tag": "B2B营销",
-            "title": "How to protect your laptop, phone and bike from thieves at uni",
-            "content": "What should new students consider to keep your belongings safe and covered by insurance?",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+            "content": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-59c4a2",
+            "id": "b2b-fa4c38",
             "tag": "B2B营销",
-            "title": "Committee calls for bill to address AI threat to human rights",
-            "content": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+            "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+            "content": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7928a2",
+            "id": "wor-d486db",
             "tag": "国际要闻",
-            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-            "content": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "title": "China criticises idea it is in 'malicious competition' over AI",
+            "content": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cn8me133119o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d1e9be",
+            "id": "wor-8e1161",
             "tag": "国际要闻",
-            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-            "content": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+            "content": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e68a23",
+            "id": "wor-447384",
             "tag": "国际要闻",
-            "title": "Questions mount over what an AI 'slowdown' would look like",
-            "content": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+            "title": "Nato jets down drone that entered Lithuanian airspace",
+            "content": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg",
             "category": "world"
       }
 ],
