@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-15 05:08:09
+// Auto-generated news data at 2026-09-16 05:03:25
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月15日',
-  update_time: '2026-09-15 05:08:09',
+  date: '2026年09月16日',
+  update_time: '2026-09-16 05:03:25',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-685836",
+            "id": "ai-b71f3c",
             "tag": "AI人工智能",
-            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-            "content": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+            "content": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-650ef9",
+            "tag": "AI人工智能",
+            "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+            "content": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-9a9af7",
-            "tag": "AI人工智能",
-            "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-            "content": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b779ca",
+            "id": "b2b-1b5fb9",
             "tag": "B2B营销",
-            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-            "content": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "title": "Complaints to watchdog about water firms jump 84%",
+            "content": "Many complaints were about affordability, after customers saw steep hikes to bills.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+            "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/082a/live/80a19f50-b103-11f1-a451-6b1ff10ed362.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c4d6e2",
+            "id": "b2b-fea88b",
             "tag": "B2B营销",
-            "title": "I got paid $5,000 to move to a place I'd never heard of",
-            "content": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+            "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+            "content": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6cc1bb",
+            "id": "b2b-6ede45",
             "tag": "B2B营销",
-            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-            "content": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+            "title": "How rising bond yields impact American consumers",
+            "content": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2548/live/ce0fe040-b16b-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fa4c38",
+            "id": "b2b-e3abb2",
             "tag": "B2B营销",
-            "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-            "content": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+            "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+            "content": "The global AI race is being hit by very localised political and environmental concerns",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d486db",
+            "id": "wor-2e1bc3",
             "tag": "国际要闻",
-            "title": "China criticises idea it is in 'malicious competition' over AI",
-            "content": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "content": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cn8me133119o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8e1161",
+            "id": "wor-d108c8",
             "tag": "国际要闻",
-            "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-            "content": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+            "title": "Denmark says Russian warship fired flares at military helicopter",
+            "content": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
             "category": "world"
       },
       {
-            "id": "wor-447384",
+            "id": "wor-270edd",
             "tag": "国际要闻",
-            "title": "Nato jets down drone that entered Lithuanian airspace",
-            "content": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+            "title": "What weapon could the US have put into space?",
+            "content": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "world"
       }
 ],
