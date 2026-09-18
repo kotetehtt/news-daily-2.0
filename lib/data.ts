@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-17 05:06:40
+// Auto-generated news data at 2026-09-18 04:59:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月17日',
-  update_time: '2026-09-17 05:06:40',
+  date: '2026年09月18日',
+  update_time: '2026-09-18 04:59:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-d699bb",
+            "id": "ai-957af7",
             "tag": "AI人工智能",
-            "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-            "content": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+            "title": "The virtual worlds where robots are trained",
+            "content": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9c682a",
+            "id": "ai-685563",
             "tag": "AI人工智能",
-            "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-            "content": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "content": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-feadab",
+            "id": "ai-01412d",
             "tag": "AI人工智能",
-            "title": "Would you buy branded clothing from your favourite tech firm?",
-            "content": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+            "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+            "content": "Existential fears about AI have once again reared their head - here's what you need to know.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-25815a",
+            "id": "b2b-6fc3a4",
             "tag": "B2B营销",
-            "title": "Interest rates hold expected but Bank of England facing tough choices",
-            "content": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+            "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+            "content": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b5/live/362ff930-b2e3-11f1-bc1f-3f186ca4140c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b1e047",
+            "id": "b2b-92b9ec",
             "tag": "B2B营销",
-            "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-            "content": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+            "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+            "content": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-365ad8",
+            "id": "b2b-638e05",
             "tag": "B2B营销",
-            "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-            "content": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+            "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+            "content": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bae8/live/de6aa0d0-b24a-11f1-ad58-cb8b59d51cf1.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7260de",
+            "id": "b2b-95f9f1",
             "tag": "B2B营销",
-            "title": "US interest rates raised for first time in three years",
-            "content": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "title": "Early Bowie music available to stream for first time",
+            "content": "Previously unheard material from the start of the artist's career has been released for the first time.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ba7/live/8786a940-b2da-11f1-849c-b1b42bb6aefc.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-88be61",
+            "id": "wor-5917a8",
             "tag": "国际要闻",
-            "title": "US interest rates raised for first time in three years",
-            "content": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "title": "Canada welcomes EU proposal to become 'associate member'",
+            "content": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c28/live/475f83b0-b2b6-11f1-a430-4d16ee157c41.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c82a10",
+            "id": "wor-b0108f",
             "tag": "国际要闻",
-            "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-            "content": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+            "title": "Ninth woman's body found as South African police investigate string of deaths",
+            "content": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f69/live/b5f26f90-b29d-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c9aff7",
+            "id": "wor-2b8028",
             "tag": "国际要闻",
-            "title": "Photos show widespread damage at US sites from Iranian attacks",
-            "content": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+            "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+            "content": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
