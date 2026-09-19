@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-18 04:59:17
+// Auto-generated news data at 2026-09-19 04:52:01
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月18日',
-  update_time: '2026-09-18 04:59:17',
+  date: '2026年09月19日',
+  update_time: '2026-09-19 04:52:01',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-9f53ca",
+            "tag": "AI人工智能",
+            "title": "Google's Gemini AI hacked three companies in security test",
+            "content": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d945/live/2ff63080-b3d7-11f1-87bc-d37d040ffc9c.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-e05d9b",
+            "tag": "AI人工智能",
+            "title": "Would Australians support a smart glasses ban?",
+            "content": "Would Australians support a smart glasses ban?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-957af7",
             "tag": "AI人工智能",
             "title": "The virtual worlds where robots are trained",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-685563",
-            "tag": "AI人工智能",
-            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-            "content": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-01412d",
-            "tag": "AI人工智能",
-            "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-            "content": "Existential fears about AI have once again reared their head - here's what you need to know.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-6fc3a4",
+            "id": "b2b-777c86",
             "tag": "B2B营销",
-            "title": "Healey to ask EU finance ministers to let UK into industry scheme",
-            "content": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+            "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+            "content": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b5/live/362ff930-b2e3-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-92b9ec",
+            "id": "b2b-6642a6",
             "tag": "B2B营销",
-            "title": "Why we bought our first home with a 100% mortgage - despite the risks",
-            "content": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+            "title": "Flight chaos caused by 'millisecond' software defect, report says",
+            "content": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-638e05",
+            "id": "b2b-da0c53",
             "tag": "B2B营销",
-            "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-            "content": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+            "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+            "content": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bae8/live/de6aa0d0-b24a-11f1-ad58-cb8b59d51cf1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-95f9f1",
+            "id": "b2b-1ecc22",
             "tag": "B2B营销",
-            "title": "Early Bowie music available to stream for first time",
-            "content": "Previously unheard material from the start of the artist's career has been released for the first time.",
+            "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+            "content": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ba7/live/8786a940-b2da-11f1-849c-b1b42bb6aefc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-5917a8",
+            "id": "wor-2dc41f",
             "tag": "国际要闻",
-            "title": "Canada welcomes EU proposal to become 'associate member'",
-            "content": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "content": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c28/live/475f83b0-b2b6-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b0108f",
+            "id": "wor-abd277",
             "tag": "国际要闻",
-            "title": "Ninth woman's body found as South African police investigate string of deaths",
-            "content": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+            "title": "Trump says he is banning CNN and Politico from White House",
+            "content": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f69/live/b5f26f90-b29d-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2b8028",
+            "id": "wor-b437a2",
             "tag": "国际要闻",
-            "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-            "content": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+            "title": "Google's Gemini AI hacked three companies in security test",
+            "content": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d945/live/2ff63080-b3d7-11f1-87bc-d37d040ffc9c.jpg",
             "category": "world"
       }
 ],
