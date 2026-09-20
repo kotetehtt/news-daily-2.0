@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-19 04:52:01
+// Auto-generated news data at 2026-09-20 05:10:49
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月19日',
-  update_time: '2026-09-19 04:52:01',
+  date: '2026年09月20日',
+  update_time: '2026-09-20 05:10:49',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-2255c8",
+            "tag": "AI人工智能",
+            "title": "Not all AI workers think the tech could kill everyone",
+            "content": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-9f53ca",
             "tag": "AI人工智能",
             "title": "Google's Gemini AI hacked three companies in security test",
@@ -107,7 +118,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d945/live/2ff63080-b3d7-11f1-87bc-d37d040ffc9c.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
             "category": "ai"
       },
       {
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-957af7",
-            "tag": "AI人工智能",
-            "title": "The virtual worlds where robots are trained",
-            "content": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2dc41f",
+            "id": "wor-5e2a22",
             "tag": "国际要闻",
-            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-            "content": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+            "content": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
             "category": "world"
       },
       {
-            "id": "wor-abd277",
+            "id": "wor-205012",
             "tag": "国际要闻",
-            "title": "Trump says he is banning CNN and Politico from White House",
-            "content": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "content": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b437a2",
+            "id": "wor-55bc64",
             "tag": "国际要闻",
-            "title": "Google's Gemini AI hacked three companies in security test",
-            "content": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+            "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+            "content": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d945/live/2ff63080-b3d7-11f1-87bc-d37d040ffc9c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
