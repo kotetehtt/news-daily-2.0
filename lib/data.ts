@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-20 05:10:49
+// Auto-generated news data at 2026-09-21 05:16:01
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月20日',
-  update_time: '2026-09-20 05:10:49',
+  date: '2026年09月21日',
+  update_time: '2026-09-21 05:16:01',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-777c86",
+            "id": "b2b-59b0af",
             "tag": "B2B营销",
-            "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-            "content": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+            "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+            "content": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c51b/live/83c73640-b509-11f1-91cc-c5691e33b858.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6642a6",
+            "id": "b2b-c9e25f",
             "tag": "B2B营销",
-            "title": "Flight chaos caused by 'millisecond' software defect, report says",
-            "content": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+            "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+            "content": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png",
+            "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-da0c53",
+            "id": "b2b-614e30",
             "tag": "B2B营销",
-            "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-            "content": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+            "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+            "content": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1ecc22",
+            "id": "b2b-876a1f",
             "tag": "B2B营销",
-            "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-            "content": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+            "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+            "content": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-5e2a22",
+            "id": "wor-1b8fb8",
             "tag": "国际要闻",
-            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-            "content": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "content": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-be54b8",
+            "tag": "国际要闻",
+            "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+            "content": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-bad6de",
+            "tag": "国际要闻",
+            "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+            "content": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-205012",
-            "tag": "国际要闻",
-            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-            "content": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-55bc64",
-            "tag": "国际要闻",
-            "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-            "content": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
