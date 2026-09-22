@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-21 05:16:01
+// Auto-generated news data at 2026-09-22 05:14:27
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月21日',
-  update_time: '2026-09-21 05:16:01',
+  date: '2026年09月22日',
+  update_time: '2026-09-22 05:14:27',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-59b0af",
+            "id": "b2b-5cb2fb",
             "tag": "B2B营销",
-            "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-            "content": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+            "title": "Vet prescription fees capped under rule changes",
+            "content": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c51b/live/83c73640-b509-11f1-91cc-c5691e33b858.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c9e25f",
+            "id": "b2b-401458",
             "tag": "B2B营销",
-            "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-            "content": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+            "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+            "content": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-614e30",
+            "id": "b2b-280117",
             "tag": "B2B营销",
-            "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-            "content": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+            "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+            "content": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-876a1f",
+            "id": "b2b-4c6cd6",
             "tag": "B2B营销",
-            "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-            "content": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
+            "title": "Repeated air traffic control failures leave us in worrying territory",
+            "content": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1b8fb8",
+            "id": "wor-31be27",
             "tag": "国际要闻",
-            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-            "content": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "content": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
             "category": "world"
       },
       {
-            "id": "wor-be54b8",
+            "id": "wor-81b9bc",
             "tag": "国际要闻",
-            "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-            "content": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+            "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+            "content": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bad6de",
+            "id": "wor-6cf903",
             "tag": "国际要闻",
-            "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-            "content": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+            "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+            "content": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg",
             "category": "world"
       }
 ],
