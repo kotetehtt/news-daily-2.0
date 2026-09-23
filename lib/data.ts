@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-22 05:14:27
+// Auto-generated news data at 2026-09-23 04:59:13
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月22日',
-  update_time: '2026-09-22 05:14:27',
+  date: '2026年09月23日',
+  update_time: '2026-09-23 04:59:13',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-2255c8",
+            "id": "ai-7b9f9e",
             "tag": "AI人工智能",
-            "title": "Not all AI workers think the tech could kill everyone",
-            "content": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+            "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+            "content": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9f53ca",
+            "id": "ai-02a397",
             "tag": "AI人工智能",
-            "title": "Google's Gemini AI hacked three companies in security test",
-            "content": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+            "title": "Will a switch to light speed cut power use at data centres?",
+            "content": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-e05d9b",
+            "id": "ai-3da4f9",
             "tag": "AI人工智能",
-            "title": "Would Australians support a smart glasses ban?",
-            "content": "Would Australians support a smart glasses ban?",
+            "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+            "content": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de91/live/e1c3c1e0-b6b3-11f1-a430-4d16ee157c41.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5cb2fb",
+            "id": "b2b-153bee",
             "tag": "B2B营销",
-            "title": "Vet prescription fees capped under rule changes",
-            "content": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+            "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+            "content": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-401458",
+            "id": "b2b-6799d8",
             "tag": "B2B营销",
-            "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-            "content": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+            "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+            "content": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-280117",
+            "id": "b2b-b93915",
             "tag": "B2B营销",
-            "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-            "content": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+            "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+            "content": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4c6cd6",
+            "id": "b2b-9b656a",
             "tag": "B2B营销",
-            "title": "Repeated air traffic control failures leave us in worrying territory",
-            "content": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+            "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+            "content": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf88/live/3e21a580-b699-11f1-bc1f-3f186ca4140c.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-31be27",
+            "id": "wor-1af705",
             "tag": "国际要闻",
-            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-            "content": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+            "content": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
             "category": "world"
       },
       {
-            "id": "wor-81b9bc",
+            "id": "wor-aba3f0",
             "tag": "国际要闻",
-            "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-            "content": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+            "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+            "content": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db6/live/f0a69f40-b670-11f1-b711-df5e4d50c2fd.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6cf903",
+            "id": "wor-797fac",
             "tag": "国际要闻",
-            "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-            "content": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+            "title": "US to build two military bases in Greenland under new deal with Denmark",
+            "content": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
             "category": "world"
       }
 ],
