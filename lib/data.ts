@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-24 05:09:50
+// Auto-generated news data at 2026-09-25 05:12:12
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月24日',
-  update_time: '2026-09-24 05:09:50',
+  date: '2026年09月25日',
+  update_time: '2026-09-25 05:12:12',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-441ec3",
+            "id": "ai-020911",
             "tag": "AI人工智能",
-            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-            "content": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+            "title": "X-planes: Are they needed in the new era of drones?",
+            "content": "Where do America's X-plane projects fit in an era of cheap drones?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-bb6919",
+            "tag": "AI人工智能",
+            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+            "content": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-a8cfda",
+            "tag": "AI人工智能",
+            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+            "content": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-82743e",
-            "tag": "AI人工智能",
-            "title": "Indians are discovering the thrill of shopping without paying",
-            "content": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d2500b",
-            "tag": "AI人工智能",
-            "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-            "content": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
             "category": "ai"
       }
 ],
@@ -216,14 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2ef111",
+            "id": "b2b-e86bfe",
             "tag": "B2B营销",
-            "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-            "content": "Consumers are feeling the squeeze from the rising price of protein.",
+            "title": "'We're all broke': Would you chase a friend for £5?",
+            "content": "What's the smallest amount of money you would ask a friend to pay you back?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9929/live/60547480-b76a-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-415917",
+            "tag": "B2B营销",
+            "title": "Reported assaults on Britain's rail services rise by more than a third",
+            "content": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-19fd2b",
+            "tag": "B2B营销",
+            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+            "content": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
             "category": "b2b"
       },
       {
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-67bffe",
-            "tag": "B2B营销",
-            "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-            "content": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-658294",
-            "tag": "B2B营销",
-            "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-            "content": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e1fb4e",
+            "id": "wor-4738f3",
             "tag": "国际要闻",
-            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-            "content": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+            "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+            "content": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-766a54",
+            "id": "wor-aaef41",
             "tag": "国际要闻",
-            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-            "content": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+            "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+            "content": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-62ff9c",
+            "id": "wor-7e66b9",
             "tag": "国际要闻",
-            "title": "Iran's president tells Trump it will never 'bend the knee'",
-            "content": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+            "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+            "content": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg",
             "category": "world"
       }
 ],
