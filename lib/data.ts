@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-25 05:12:12
+// Auto-generated news data at 2026-09-26 05:16:52
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月25日',
-  update_time: '2026-09-25 05:12:12',
+  date: '2026年09月26日',
+  update_time: '2026-09-26 05:16:52',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-020911",
+            "id": "ai-292195",
             "tag": "AI人工智能",
-            "title": "X-planes: Are they needed in the new era of drones?",
-            "content": "Where do America's X-plane projects fit in an era of cheap drones?",
+            "title": "OpenAI bots meddled with multiple US government agency sites",
+            "content": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-bb6919",
+            "id": "ai-25677f",
             "tag": "AI人工智能",
-            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-            "content": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+            "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+            "content": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-a8cfda",
+            "id": "ai-ebf286",
             "tag": "AI人工智能",
-            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-            "content": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+            "title": "Special agents' blood and urine test results stolen in FBI hack",
+            "content": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e86bfe",
+            "id": "b2b-09fdc4",
             "tag": "B2B营销",
-            "title": "'We're all broke': Would you chase a friend for £5?",
-            "content": "What's the smallest amount of money you would ask a friend to pay you back?",
+            "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+            "content": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
+            "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b69/live/25d24650-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-415917",
+            "id": "b2b-f6e73f",
             "tag": "B2B营销",
-            "title": "Reported assaults on Britain's rail services rise by more than a third",
-            "content": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+            "title": "Man City found guilty of breaking financial rules",
+            "content": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f162/live/8ef99460-b91c-11f1-b1d1-571ed4d7ff2c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-19fd2b",
+            "id": "b2b-cfdca1",
             "tag": "B2B营销",
-            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-            "content": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+            "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+            "content": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-59080e",
+            "id": "b2b-03923d",
             "tag": "B2B营销",
-            "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-            "content": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+            "title": "UK diesel price close to all-time high",
+            "content": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4738f3",
+            "id": "wor-555790",
             "tag": "国际要闻",
-            "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-            "content": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+            "title": "OpenAI bots meddled with multiple US government agency sites",
+            "content": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-aaef41",
+            "id": "wor-2b927b",
             "tag": "国际要闻",
-            "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-            "content": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+            "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+            "content": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7e66b9",
+            "id": "wor-492fce",
             "tag": "国际要闻",
-            "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-            "content": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+            "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+            "content": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
             "category": "world"
       }
 ],
