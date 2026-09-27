@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-26 05:16:52
+// Auto-generated news data at 2026-09-27 05:33:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月26日',
-  update_time: '2026-09-26 05:16:52',
+  date: '2026年09月27日',
+  update_time: '2026-09-27 05:33:02',
   banner: [
       {
             "id": "ai-001",
@@ -103,7 +103,7 @@ const newsData: NewsData = {
             "id": "ai-292195",
             "tag": "AI人工智能",
             "title": "OpenAI bots meddled with multiple US government agency sites",
-            "content": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+            "content": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-09fdc4",
+            "id": "b2b-00aebd",
             "tag": "B2B营销",
-            "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-            "content": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+            "title": "OpenAI bots meddled with multiple US government agency sites",
+            "content": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b69/live/25d24650-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f6e73f",
+            "id": "b2b-a5384d",
             "tag": "B2B营销",
-            "title": "Man City found guilty of breaking financial rules",
-            "content": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+            "title": "Could an iced coffee freeze you out of the job market?",
+            "content": "Employees and recruiters weigh into the online debate around interview etiquette.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f162/live/8ef99460-b91c-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-cfdca1",
+            "id": "b2b-e54322",
             "tag": "B2B营销",
-            "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-            "content": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+            "title": "Clubs seek legal advice over Man City charges compensation",
+            "content": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-03923d",
+            "id": "b2b-e86bfe",
             "tag": "B2B营销",
-            "title": "UK diesel price close to all-time high",
-            "content": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+            "title": "'We're all broke': Would you chase a friend for £5?",
+            "content": "What's the smallest amount of money you would ask a friend to pay you back?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-555790",
+            "id": "wor-b1a461",
             "tag": "国际要闻",
-            "title": "OpenAI bots meddled with multiple US government agency sites",
-            "content": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
-            "category": "world"
-      },
-      {
-            "id": "wor-2b927b",
-            "tag": "国际要闻",
-            "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-            "content": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+            "content": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
             "category": "world"
       },
       {
-            "id": "wor-492fce",
+            "id": "wor-51b2ec",
             "tag": "国际要闻",
-            "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-            "content": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+            "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+            "content": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
+            "category": "world"
+      },
+      {
+            "id": "wor-bcf0f9",
+            "tag": "国际要闻",
+            "title": "British national among six dead in building explosion close to Acropolis in Athens",
+            "content": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
             "category": "world"
       }
 ],
