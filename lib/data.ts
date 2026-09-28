@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-27 05:33:02
+// Auto-generated news data at 2026-09-28 05:41:53
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月27日',
-  update_time: '2026-09-27 05:33:02',
+  date: '2026年09月28日',
+  update_time: '2026-09-28 05:41:53',
   banner: [
       {
             "id": "ai-001",
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-00aebd",
+            "id": "b2b-fb0025",
             "tag": "B2B营销",
-            "title": "OpenAI bots meddled with multiple US government agency sites",
-            "content": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+            "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+            "content": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a5384d",
+            "id": "b2b-8553f0",
             "tag": "B2B营销",
-            "title": "Could an iced coffee freeze you out of the job market?",
-            "content": "Employees and recruiters weigh into the online debate around interview etiquette.",
+            "title": "Avanti West Coast services to be nationalised from March",
+            "content": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png",
+            "link": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e54322",
+            "id": "b2b-a31691",
             "tag": "B2B营销",
-            "title": "Clubs seek legal advice over Man City charges compensation",
-            "content": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+            "title": "You need £17,000 for a first home - here's how to do it",
+            "content": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/575c/live/fae572d0-bac9-11f1-84a6-95681df48b66.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e86bfe",
+            "id": "b2b-1be2d2",
             "tag": "B2B营销",
-            "title": "'We're all broke': Would you chase a friend for £5?",
-            "content": "What's the smallest amount of money you would ask a friend to pay you back?",
+            "title": "Andy Burnham refuses to back third runway at Heathrow",
+            "content": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
+            "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f28/live/79607810-ba63-11f1-ab5a-210fdaa1dd09.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b1a461",
+            "id": "wor-56b245",
             "tag": "国际要闻",
-            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-            "content": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+            "title": "Inside Yemen's front-line city as Houthis battle for control",
+            "content": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+            "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
             "category": "world"
       },
       {
-            "id": "wor-51b2ec",
+            "id": "wor-ea2bca",
             "tag": "国际要闻",
-            "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-            "content": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+            "title": "Embattled Serbian president resigns, paving way for early elections",
+            "content": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bcf0f9",
+            "id": "wor-bb4db2",
             "tag": "国际要闻",
-            "title": "British national among six dead in building explosion close to Acropolis in Athens",
-            "content": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+            "title": "Two bodies found after avalanche hits Himalayan climbing group",
+            "content": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
+            "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
             "category": "world"
       }
 ],
