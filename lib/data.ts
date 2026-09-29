@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-28 05:41:53
+// Auto-generated news data at 2026-09-29 05:58:57
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月28日',
-  update_time: '2026-09-28 05:41:53',
+  date: '2026年09月29日',
+  update_time: '2026-09-29 05:58:57',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-ecd54a",
+            "tag": "AI人工智能",
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-ddd673",
+            "tag": "AI人工智能",
+            "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+            "content": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-292195",
             "tag": "AI人工智能",
             "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-25677f",
-            "tag": "AI人工智能",
-            "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-            "content": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ebf286",
-            "tag": "AI人工智能",
-            "title": "Special agents' blood and urine test results stolen in FBI hack",
-            "content": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-fb0025",
+            "id": "b2b-7f6e94",
             "tag": "B2B营销",
-            "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-            "content": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+            "title": "Burnham to unveil public body to invest in electricity grid",
+            "content": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bac/live/19d68ae0-bbc8-11f1-bd21-bdf910f2cec6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8553f0",
+            "id": "b2b-ff45a8",
             "tag": "B2B营销",
-            "title": "Avanti West Coast services to be nationalised from March",
-            "content": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+            "title": "Warning more homes will be uninsurable due to flood risk",
+            "content": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a31691",
+            "id": "b2b-83881a",
             "tag": "B2B营销",
-            "title": "You need £17,000 for a first home - here's how to do it",
-            "content": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/575c/live/fae572d0-bac9-11f1-84a6-95681df48b66.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1be2d2",
+            "id": "b2b-263dc3",
             "tag": "B2B营销",
-            "title": "Andy Burnham refuses to back third runway at Heathrow",
-            "content": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
+            "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+            "content": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f28/live/79607810-ba63-11f1-ab5a-210fdaa1dd09.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db51/live/1fd12340-bb7a-11f1-a430-4d16ee157c41.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-56b245",
+            "id": "wor-c0c3ed",
             "tag": "国际要闻",
-            "title": "Inside Yemen's front-line city as Houthis battle for control",
-            "content": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ea2bca",
+            "id": "wor-600c4d",
             "tag": "国际要闻",
-            "title": "Embattled Serbian president resigns, paving way for early elections",
-            "content": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+            "title": "Evicted Spanish pensioner can move back home, lawyer says",
+            "content": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a6a/live/e5e03d10-bb97-11f1-8663-cd23eb071822.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bb4db2",
+            "id": "wor-e38468",
             "tag": "国际要闻",
-            "title": "Two bodies found after avalanche hits Himalayan climbing group",
-            "content": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+            "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+            "content": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d54/live/ced3b090-bb9f-11f1-a430-4d16ee157c41.jpg",
             "category": "world"
       }
 ],
