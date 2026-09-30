@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-29 05:58:57
+// Auto-generated news data at 2026-09-30 05:48:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月29日',
-  update_time: '2026-09-29 05:58:57',
+  date: '2026年09月30日',
+  update_time: '2026-09-30 05:48:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-ecd54a",
+            "id": "ai-d82cc2",
             "tag": "AI人工智能",
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+            "content": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ddd673",
+            "id": "ai-dd46d7",
             "tag": "AI人工智能",
-            "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-            "content": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-292195",
+            "id": "ai-463a07",
             "tag": "AI人工智能",
-            "title": "OpenAI bots meddled with multiple US government agency sites",
-            "content": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+            "title": "Chinese AI tool told researchers how to make bioweapons",
+            "content": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7f6e94",
+            "id": "b2b-e83c3a",
             "tag": "B2B营销",
-            "title": "Burnham to unveil public body to invest in electricity grid",
-            "content": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+            "title": "Household energy bills forecast to see biggest rise in four years",
+            "content": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bac/live/19d68ae0-bbc8-11f1-bd21-bdf910f2cec6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ff45a8",
+            "id": "b2b-aabdb8",
             "tag": "B2B营销",
-            "title": "Warning more homes will be uninsurable due to flood risk",
-            "content": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+            "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+            "content": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b85/live/cb267b10-bc23-11f1-bd53-1b67dc8fba34.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-83881a",
+            "id": "b2b-6ea434",
             "tag": "B2B营销",
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-263dc3",
+            "id": "b2b-74322d",
             "tag": "B2B营销",
-            "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-            "content": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+            "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+            "content": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db51/live/1fd12340-bb7a-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fbd/live/41b1ec30-bbff-11f1-a430-4d16ee157c41.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c0c3ed",
+            "id": "wor-f01c7c",
             "tag": "国际要闻",
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "content": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "title": "Chinese AI tool told researchers how to make bioweapons",
+            "content": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
             "category": "world"
       },
       {
-            "id": "wor-600c4d",
+            "id": "wor-4ffb60",
             "tag": "国际要闻",
-            "title": "Evicted Spanish pensioner can move back home, lawyer says",
-            "content": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a6a/live/e5e03d10-bb97-11f1-8663-cd23eb071822.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e38468",
+            "id": "wor-85f3e6",
             "tag": "国际要闻",
-            "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-            "content": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+            "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+            "content": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d54/live/ced3b090-bb9f-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e684/live/e2a0ac20-bc8c-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
