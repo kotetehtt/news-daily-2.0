@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-09-30 05:48:28
+// Auto-generated news data at 2026-10-01 06:20:14
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年09月30日',
-  update_time: '2026-09-30 05:48:28',
+  date: '2026年10月01日',
+  update_time: '2026-10-01 06:20:14',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-d82cc2",
+            "id": "ai-689118",
             "tag": "AI人工智能",
-            "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-            "content": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+            "title": "AI boom could trigger market shocks, Bank of England boss warns",
+            "content": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-dd46d7",
+            "id": "ai-29deda",
             "tag": "AI人工智能",
-            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+            "title": "Tiny image sparks big backlash in Nikon photo contest",
+            "content": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-463a07",
+            "id": "ai-69323a",
             "tag": "AI人工智能",
-            "title": "Chinese AI tool told researchers how to make bioweapons",
-            "content": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+            "title": "The AI telling farmers when to harvest",
+            "content": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874b/live/cbc27c20-acfd-11f1-bc1f-3f186ca4140c.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e83c3a",
+            "id": "b2b-7407c5",
             "tag": "B2B营销",
-            "title": "Household energy bills forecast to see biggest rise in four years",
-            "content": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+            "title": "AI boom could trigger market shocks, Bank of England boss warns",
+            "content": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-aabdb8",
+            "id": "b2b-d06925",
             "tag": "B2B营销",
-            "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-            "content": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
+            "title": "Vape prices to rise as new tax takes effect",
+            "content": "Vaping is about to becoming more expensive due to a new tax on products.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b85/live/cb267b10-bc23-11f1-bd53-1b67dc8fba34.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcfd/live/ac642720-bcc5-11f1-ae14-0b840f99ba59.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6ea434",
+            "id": "b2b-4c99b8",
             "tag": "B2B营销",
-            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+            "title": "Energy bills are going up - here's what you can do about it",
+            "content": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/026a/live/81f6e9b0-8345-11f0-a34f-318be3fb0481.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-74322d",
+            "id": "b2b-72fc7d",
             "tag": "B2B营销",
-            "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-            "content": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+            "title": "Employers should teach primary-age children about work, says Milburn",
+            "content": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fbd/live/41b1ec30-bbff-11f1-a430-4d16ee157c41.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5972/live/53bea8b0-bcc1-11f1-874a-09d072a27eab.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f01c7c",
+            "id": "wor-626701",
             "tag": "国际要闻",
-            "title": "Chinese AI tool told researchers how to make bioweapons",
-            "content": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+            "title": "US death row inmate survives execution attempt after two lethal injections",
+            "content": "Her lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4ffb60",
+            "id": "wor-890699",
             "tag": "国际要闻",
-            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-            "content": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+            "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+            "content": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02c7/live/9c055220-bd4a-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-85f3e6",
+            "id": "wor-24a540",
             "tag": "国际要闻",
-            "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-            "content": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+            "title": "What we know about stabbing on Flydubai flight to Israel",
+            "content": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e684/live/e2a0ac20-bc8c-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       }
 ],
