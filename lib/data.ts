@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-01 06:20:14
+// Auto-generated news data at 2026-10-02 05:58:48
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月01日',
-  update_time: '2026-10-01 06:20:14',
+  date: '2026年10月02日',
+  update_time: '2026-10-02 05:58:48',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-689118",
+            "id": "ai-a5e2c8",
             "tag": "AI人工智能",
-            "title": "AI boom could trigger market shocks, Bank of England boss warns",
-            "content": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+            "title": "OpenAI fires workers for mishandling 'sensitive information'",
+            "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-29deda",
+            "id": "ai-51cff1",
             "tag": "AI人工智能",
-            "title": "Tiny image sparks big backlash in Nikon photo contest",
-            "content": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "content": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
             "category": "ai"
       },
       {
-            "id": "ai-69323a",
+            "id": "ai-bdfc52",
             "tag": "AI人工智能",
-            "title": "The AI telling farmers when to harvest",
-            "content": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+            "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+            "content": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874b/live/cbc27c20-acfd-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7407c5",
+            "id": "b2b-a079f4",
             "tag": "B2B营销",
-            "title": "AI boom could trigger market shocks, Bank of England boss warns",
-            "content": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+            "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+            "content": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d06925",
+            "id": "b2b-2854de",
             "tag": "B2B营销",
-            "title": "Vape prices to rise as new tax takes effect",
-            "content": "Vaping is about to becoming more expensive due to a new tax on products.",
+            "title": "OpenAI fires workers for mishandling 'sensitive information'",
+            "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcfd/live/ac642720-bcc5-11f1-ae14-0b840f99ba59.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4c99b8",
+            "id": "b2b-9be05b",
             "tag": "B2B营销",
-            "title": "Energy bills are going up - here's what you can do about it",
-            "content": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+            "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+            "content": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/026a/live/81f6e9b0-8345-11f0-a34f-318be3fb0481.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-72fc7d",
+            "id": "b2b-7ddd7b",
             "tag": "B2B营销",
-            "title": "Employers should teach primary-age children about work, says Milburn",
-            "content": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "content": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5972/live/53bea8b0-bcc1-11f1-874a-09d072a27eab.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-626701",
+            "id": "wor-1cfe6d",
             "tag": "国际要闻",
-            "title": "US death row inmate survives execution attempt after two lethal injections",
-            "content": "Her lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+            "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+            "content": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
             "category": "world"
       },
       {
-            "id": "wor-890699",
+            "id": "wor-543621",
             "tag": "国际要闻",
-            "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-            "content": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+            "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+            "content": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02c7/live/9c055220-bd4a-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-24a540",
+            "id": "wor-d2866c",
             "tag": "国际要闻",
-            "title": "What we know about stabbing on Flydubai flight to Israel",
-            "content": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+            "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+            "content": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b91/live/ebf458a0-be01-11f1-abb3-a7ef3daa1887.jpg",
             "category": "world"
       }
 ],
