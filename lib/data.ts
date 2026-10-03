@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-02 05:58:48
+// Auto-generated news data at 2026-10-03 05:34:07
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月02日',
-  update_time: '2026-10-02 05:58:48',
+  date: '2026年10月03日',
+  update_time: '2026-10-03 05:34:07',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,9 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-a5e2c8",
+            "id": "ai-34fb41",
             "tag": "AI人工智能",
-            "title": "OpenAI fires workers for mishandling 'sensitive information'",
+            "title": "OpenAI fires workers for 'mishandling sensitive information'",
             "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
             "source": "BBC News",
             "time": "今日",
@@ -216,25 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-a079f4",
+            "id": "b2b-543a13",
             "tag": "B2B营销",
-            "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-            "content": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+            "content": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b12/live/fb4ac130-bee3-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2854de",
+            "id": "b2b-68e3a8",
             "tag": "B2B营销",
-            "title": "OpenAI fires workers for mishandling 'sensitive information'",
-            "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+            "title": "UK diesel prices top £2 a litre for first time, RAC says",
+            "content": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-14c116",
+            "tag": "B2B营销",
+            "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+            "content": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
             "category": "b2b"
       },
       {
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-7ddd7b",
-            "tag": "B2B营销",
-            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-            "content": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1cfe6d",
+            "id": "wor-dd93ec",
             "tag": "国际要闻",
-            "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-            "content": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+            "content": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b12/live/fb4ac130-bee3-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-543621",
+            "id": "wor-3933d2",
             "tag": "国际要闻",
-            "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-            "content": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+            "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+            "content": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d2866c",
+            "id": "wor-735b96",
             "tag": "国际要闻",
-            "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-            "content": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+            "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+            "content": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b91/live/ebf458a0-be01-11f1-abb3-a7ef3daa1887.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg",
             "category": "world"
       }
 ],
