@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-03 05:34:07
+// Auto-generated news data at 2026-10-04 06:10:21
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月03日',
-  update_time: '2026-10-03 05:34:07',
+  date: '2026年10月04日',
+  update_time: '2026-10-04 06:10:21',
   banner: [
       {
             "id": "ai-001",
@@ -223,7 +223,18 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b12/live/fb4ac130-bee3-11f1-a64c-550be9e3c66b.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-34c557",
+            "tag": "B2B营销",
+            "title": "Suppliers pile pressure on government over energy bills",
+            "content": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg",
             "category": "b2b"
       },
       {
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-9be05b",
-            "tag": "B2B营销",
-            "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-            "content": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-dd93ec",
+            "id": "wor-88cc25",
             "tag": "国际要闻",
-            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-            "content": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+            "content": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b12/live/fb4ac130-bee3-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3933d2",
+            "id": "wor-516c59",
             "tag": "国际要闻",
-            "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-            "content": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+            "title": "Cornell president says university 'must do better' after frat house rape allegations",
+            "content": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
             "category": "world"
       },
       {
-            "id": "wor-735b96",
+            "id": "wor-6c678a",
             "tag": "国际要闻",
-            "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-            "content": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "content": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       }
 ],
