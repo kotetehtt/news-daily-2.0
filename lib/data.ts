@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-04 06:10:21
+// Auto-generated news data at 2026-10-05 06:01:44
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月04日',
-  update_time: '2026-10-04 06:10:21',
+  date: '2026年10月05日',
+  update_time: '2026-10-05 06:01:44',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-c09daa",
+            "tag": "AI人工智能",
+            "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+            "content": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-34fb41",
             "tag": "AI人工智能",
             "title": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-bdfc52",
-            "tag": "AI人工智能",
-            "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-            "content": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,39 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-3933ac",
+            "tag": "B2B营销",
+            "title": "The job interview question you don't have to answer",
+            "content": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-b607b5",
+            "tag": "B2B营销",
+            "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+            "content": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-7d7607",
+            "tag": "B2B营销",
+            "title": "How India became dangerously addicted to Chinese imports",
+            "content": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/570e/live/a11df9f0-bc83-11f1-8bd0-b38b5eda40be.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-543a13",
             "tag": "B2B营销",
             "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -224,39 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-34c557",
-            "tag": "B2B营销",
-            "title": "Suppliers pile pressure on government over energy bills",
-            "content": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-68e3a8",
-            "tag": "B2B营销",
-            "title": "UK diesel prices top £2 a litre for first time, RAC says",
-            "content": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-14c116",
-            "tag": "B2B营销",
-            "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-            "content": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-88cc25",
+            "id": "wor-d5657c",
             "tag": "国际要闻",
-            "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-            "content": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+            "title": "US air force removes all bombers from British military base RAF Fairford",
+            "content": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-516c59",
+            "id": "wor-831b4e",
             "tag": "国际要闻",
-            "title": "Cornell president says university 'must do better' after frat house rape allegations",
-            "content": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+            "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+            "content": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png",
             "category": "world"
       },
       {
-            "id": "wor-6c678a",
+            "id": "wor-1939ea",
             "tag": "国际要闻",
-            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-            "content": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "title": "Watch: How Brazil's dramatic election unfolded",
+            "content": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg",
             "category": "world"
       }
 ],
