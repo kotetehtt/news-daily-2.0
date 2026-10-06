@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-05 06:01:44
+// Auto-generated news data at 2026-10-06 06:40:36
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月05日',
-  update_time: '2026-10-05 06:01:44',
+  date: '2026年10月06日',
+  update_time: '2026-10-06 06:40:36',
   banner: [
       {
             "id": "ai-001",
@@ -100,10 +100,21 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-c09daa",
+            "id": "ai-e74d59",
             "tag": "AI人工智能",
-            "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-            "content": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+            "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+            "content": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-b56f14",
+            "tag": "AI人工智能",
+            "title": "Trump chooses top spy boss to run new AI taskforce",
+            "content": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-51cff1",
-            "tag": "AI人工智能",
-            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-            "content": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-3933ac",
+            "id": "b2b-6316b0",
             "tag": "B2B营销",
-            "title": "The job interview question you don't have to answer",
-            "content": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+            "title": "Toddler pensions: Why we're saving £100 a month for our kids",
+            "content": "A growing number of parents are opening retirement funds for their children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2237/live/74ea0660-c14e-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b607b5",
+            "id": "b2b-b3cf84",
             "tag": "B2B营销",
-            "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-            "content": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+            "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+            "content": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7d7607",
+            "id": "b2b-0f67b7",
             "tag": "B2B营销",
-            "title": "How India became dangerously addicted to Chinese imports",
-            "content": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+            "title": "Last call for the mall? How shopping centres are reinventing themselves",
+            "content": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/570e/live/a11df9f0-bc83-11f1-8bd0-b38b5eda40be.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cbe/live/c8efc2c0-be85-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-543a13",
+            "id": "b2b-fb01e1",
             "tag": "B2B营销",
-            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-            "content": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+            "content": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/d2db7200-c0d5-11f1-bc2e-018d645d8d21.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d5657c",
+            "id": "wor-eefd9c",
             "tag": "国际要闻",
-            "title": "US air force removes all bombers from British military base RAF Fairford",
-            "content": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+            "content": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/976f/live/26933ef0-c14e-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-831b4e",
+            "id": "wor-83042c",
             "tag": "国际要闻",
-            "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-            "content": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+            "title": "France braces for national day of school protests after injuries and mass arrests",
+            "content": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png",
+            "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b73c/live/98ce53d0-c14c-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1939ea",
+            "id": "wor-9557bd",
             "tag": "国际要闻",
-            "title": "Watch: How Brazil's dramatic election unfolded",
-            "content": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+            "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+            "content": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1590/live/cccb3130-c093-11f1-a4af-19dbf5352a59.png",
             "category": "world"
       }
 ],
