@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-06 06:40:36
+// Auto-generated news data at 2026-10-07 06:17:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月06日',
-  update_time: '2026-10-06 06:40:36',
+  date: '2026年10月07日',
+  update_time: '2026-10-07 06:17:11',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e74d59",
+            "id": "ai-1a54a9",
             "tag": "AI人工智能",
-            "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-            "content": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+            "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+            "content": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b56f14",
+            "id": "ai-bc79ab",
             "tag": "AI人工智能",
-            "title": "Trump chooses top spy boss to run new AI taskforce",
-            "content": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+            "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+            "content": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-34fb41",
+            "id": "ai-bf3707",
             "tag": "AI人工智能",
-            "title": "OpenAI fires workers for 'mishandling sensitive information'",
-            "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+            "title": "Finland orders halt to work on two Google data centres",
+            "content": "The order affecting two planned data centres follows concerns over forest clearance.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-6316b0",
+            "id": "b2b-fda75f",
             "tag": "B2B营销",
-            "title": "Toddler pensions: Why we're saving £100 a month for our kids",
-            "content": "A growing number of parents are opening retirement funds for their children.",
+            "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+            "content": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2237/live/74ea0660-c14e-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/335a/live/8dbdf840-c1fd-11f1-9895-010ee6df064e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b3cf84",
+            "id": "b2b-0a6e90",
             "tag": "B2B营销",
-            "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-            "content": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+            "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+            "content": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/fbda9750-c213-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0f67b7",
+            "id": "b2b-4e1f9e",
             "tag": "B2B营销",
-            "title": "Last call for the mall? How shopping centres are reinventing themselves",
-            "content": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+            "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+            "content": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cbe/live/c8efc2c0-be85-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/272f/live/082e6960-c1a5-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fb01e1",
+            "id": "b2b-e51405",
             "tag": "B2B营销",
-            "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
-            "content": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+            "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+            "content": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/d2db7200-c0d5-11f1-bc2e-018d645d8d21.png",
+            "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-eefd9c",
+            "id": "wor-36a77b",
             "tag": "国际要闻",
-            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-            "content": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+            "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+            "content": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/976f/live/26933ef0-c14e-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b33f/live/56311ac0-c210-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-83042c",
+            "id": "wor-e63597",
             "tag": "国际要闻",
-            "title": "France braces for national day of school protests after injuries and mass arrests",
-            "content": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+            "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+            "content": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b73c/live/98ce53d0-c14c-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9557bd",
+            "id": "wor-5e93c7",
             "tag": "国际要闻",
-            "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-            "content": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+            "title": "What is pneumonic plague and how does it spread?",
+            "content": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1590/live/cccb3130-c093-11f1-a4af-19dbf5352a59.png",
+            "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b32/live/023d84b0-c195-11f1-aa62-b37233e4aed8.jpg",
             "category": "world"
       }
 ],
