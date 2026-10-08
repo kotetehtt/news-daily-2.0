@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-07 06:17:11
+// Auto-generated news data at 2026-10-08 06:26:58
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月07日',
-  update_time: '2026-10-07 06:17:11',
+  date: '2026年10月08日',
+  update_time: '2026-10-08 06:26:58',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-1a54a9",
+            "id": "ai-5521dc",
             "tag": "AI人工智能",
-            "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-            "content": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+            "title": "AI chip boom pushes Samsung profits to record $80bn",
+            "content": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c687z8127302o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-bc79ab",
+            "id": "ai-80d647",
             "tag": "AI人工智能",
-            "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-            "content": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+            "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+            "content": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-bf3707",
+            "id": "ai-5e010e",
             "tag": "AI人工智能",
-            "title": "Finland orders halt to work on two Google data centres",
-            "content": "The order affecting two planned data centres follows concerns over forest clearance.",
+            "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+            "content": "The research found that important guardrails for teens using ChatGPT often failed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-fda75f",
+            "id": "b2b-f9b2ea",
             "tag": "B2B营销",
-            "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
-            "content": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+            "title": "'Come all the way' back to EU, French finance minister tells UK",
+            "content": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/335a/live/8dbdf840-c1fd-11f1-9895-010ee6df064e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52ca/live/bf40aff0-c2db-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0a6e90",
+            "id": "b2b-aa8d35",
             "tag": "B2B营销",
-            "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
-            "content": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+            "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+            "content": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/fbda9750-c213-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d29e/live/f8595c00-c264-11f1-b3ac-93b64873b487.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4e1f9e",
+            "id": "b2b-6b8a2b",
             "tag": "B2B营销",
-            "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-            "content": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+            "title": "Hedgehog among four animals chosen to feature on new banknotes",
+            "content": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/272f/live/082e6960-c1a5-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab31/live/c6dee830-c277-11f1-babe-4199b0e7ccea.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e51405",
+            "id": "b2b-97e27c",
             "tag": "B2B营销",
-            "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-            "content": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+            "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+            "content": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9ff/live/0a1511f0-c2dd-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-36a77b",
+            "id": "wor-60b579",
             "tag": "国际要闻",
-            "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-            "content": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+            "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+            "content": "US and Lebanon protecting wanted Syrian general, BBC finds",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b33f/live/56311ac0-c210-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6350/live/ef6a77a0-c1a6-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e63597",
+            "id": "wor-5ec3b7",
             "tag": "国际要闻",
-            "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-            "content": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+            "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+            "content": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d330/live/7a937e50-c2bd-11f1-a495-0d8c3b3fd3d3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5e93c7",
+            "id": "wor-5daf47",
             "tag": "国际要闻",
-            "title": "What is pneumonic plague and how does it spread?",
-            "content": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+            "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+            "content": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b32/live/023d84b0-c195-11f1-aa62-b37233e4aed8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
             "category": "world"
       }
 ],
