@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-08 06:26:58
+// Auto-generated news data at 2026-10-09 06:28:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月08日',
-  update_time: '2026-10-08 06:26:58',
+  date: '2026年10月09日',
+  update_time: '2026-10-09 06:28:11',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-5521dc",
+            "id": "ai-9fe95d",
             "tag": "AI人工智能",
-            "title": "AI chip boom pushes Samsung profits to record $80bn",
-            "content": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+            "title": "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
+            "content": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c687z8127302o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-80d647",
+            "id": "ai-59fe29",
             "tag": "AI人工智能",
-            "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-            "content": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+            "title": "Why are more roofs not made of solar tiles?",
+            "content": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5e010e",
+            "id": "ai-7b04eb",
             "tag": "AI人工智能",
-            "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-            "content": "The research found that important guardrails for teens using ChatGPT often failed.",
+            "title": "White House blocks Microsoft from foreign worker hiring programme",
+            "content": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f9b2ea",
+            "id": "b2b-7ada3c",
             "tag": "B2B营销",
-            "title": "'Come all the way' back to EU, French finance minister tells UK",
-            "content": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+            "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+            "content": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52ca/live/bf40aff0-c2db-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-aa8d35",
+            "id": "b2b-24ff88",
             "tag": "B2B营销",
-            "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-            "content": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+            "title": "'Add me to WhatsApp' scam calls to be investigated",
+            "content": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d29e/live/f8595c00-c264-11f1-b3ac-93b64873b487.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6b8a2b",
+            "id": "b2b-e767b8",
             "tag": "B2B营销",
-            "title": "Hedgehog among four animals chosen to feature on new banknotes",
-            "content": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
+            "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+            "content": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab31/live/c6dee830-c277-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-97e27c",
+            "id": "b2b-05dbb4",
             "tag": "B2B营销",
-            "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-            "content": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+            "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+            "content": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9ff/live/0a1511f0-c2dd-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-60b579",
+            "id": "wor-fde0a2",
             "tag": "国际要闻",
-            "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-            "content": "US and Lebanon protecting wanted Syrian general, BBC finds",
+            "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+            "content": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6350/live/ef6a77a0-c1a6-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5ec3b7",
+            "id": "wor-5e55e1",
             "tag": "国际要闻",
-            "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-            "content": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+            "title": "Firing squad execution to be livestreamed, Pentagon says",
+            "content": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d330/live/7a937e50-c2bd-11f1-a495-0d8c3b3fd3d3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5daf47",
+            "id": "wor-4d90ab",
             "tag": "国际要闻",
-            "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-            "content": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+            "title": "ICE agent shoots man in New York City",
+            "content": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7221/live/91f77890-c384-11f1-ade5-f77879e85d6f.jpg",
             "category": "world"
       }
 ],
