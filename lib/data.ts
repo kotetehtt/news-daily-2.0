@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-09 06:28:11
+// Auto-generated news data at 2026-10-10 06:11:45
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月09日',
-  update_time: '2026-10-09 06:28:11',
+  date: '2026年10月10日',
+  update_time: '2026-10-10 06:11:45',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9fe95d",
+            "id": "ai-baea30",
             "tag": "AI人工智能",
-            "title": "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
-            "content": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+            "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+            "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-59fe29",
+            "id": "ai-e5a1db",
             "tag": "AI人工智能",
-            "title": "Why are more roofs not made of solar tiles?",
-            "content": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+            "title": "Anthropic bans users from being 'cruel' to its AI systems",
+            "content": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7b04eb",
+            "id": "ai-3e6503",
             "tag": "AI人工智能",
-            "title": "White House blocks Microsoft from foreign worker hiring programme",
-            "content": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
+            "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+            "content": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7ada3c",
+            "id": "b2b-e52953",
             "tag": "B2B营销",
-            "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-            "content": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "content": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-24ff88",
+            "id": "b2b-07f8c3",
             "tag": "B2B营销",
-            "title": "'Add me to WhatsApp' scam calls to be investigated",
-            "content": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "content": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e767b8",
+            "id": "b2b-7e0023",
             "tag": "B2B营销",
-            "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-            "content": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+            "title": "Boots has a new owner: Three ways it could affect you",
+            "content": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
+            "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-05dbb4",
+            "id": "b2b-2c8341",
             "tag": "B2B营销",
-            "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-            "content": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+            "title": "Burnham promises to curb non-compete rules in job contracts",
+            "content": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-fde0a2",
+            "id": "wor-4bf654",
             "tag": "国际要闻",
-            "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-            "content": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "content": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5e55e1",
+            "id": "wor-443688",
             "tag": "国际要闻",
-            "title": "Firing squad execution to be livestreamed, Pentagon says",
-            "content": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "content": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4d90ab",
+            "id": "wor-fd767c",
             "tag": "国际要闻",
-            "title": "ICE agent shoots man in New York City",
-            "content": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+            "title": "US country music star Ella Langley cancels show due to 'security threat'",
+            "content": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7221/live/91f77890-c384-11f1-ade5-f77879e85d6f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab10/live/c3d14350-b6a0-11f1-bc1f-3f186ca4140c.jpg",
             "category": "world"
       }
 ],
