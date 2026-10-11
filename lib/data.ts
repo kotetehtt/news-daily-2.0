@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-10 06:11:45
+// Auto-generated news data at 2026-10-11 06:09:41
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月10日',
-  update_time: '2026-10-10 06:11:45',
+  date: '2026年10月11日',
+  update_time: '2026-10-11 06:09:41',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-baea30",
+            "id": "ai-27285c",
             "tag": "AI人工智能",
-            "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-            "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+            "title": "King warns malicious online actors are evolving tactics",
+            "content": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-e5a1db",
+            "id": "ai-c14867",
             "tag": "AI人工智能",
-            "title": "Anthropic bans users from being 'cruel' to its AI systems",
-            "content": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+            "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+            "content": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-3e6503",
+            "id": "ai-8f7554",
             "tag": "AI人工智能",
-            "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-            "content": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+            "title": "How drones are hunting fires hidden beneath the Cairngorms",
+            "content": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg",
             "category": "ai"
       }
 ],
@@ -223,7 +223,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
             "category": "b2b"
       },
       {
@@ -234,7 +234,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
             "category": "b2b"
       },
       {
@@ -245,7 +245,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/120c/live/9c937870-c489-11f1-a915-a1cdb09cbaf6.jpg",
             "category": "b2b"
       },
       {
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-4bf654",
+            "id": "wor-b93d7d",
             "tag": "国际要闻",
-            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-            "content": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+            "content": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-443688",
+            "id": "wor-cd4e43",
             "tag": "国际要闻",
-            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-            "content": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "content": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
             "category": "world"
       },
       {
-            "id": "wor-fd767c",
+            "id": "wor-7aa4a2",
             "tag": "国际要闻",
-            "title": "US country music star Ella Langley cancels show due to 'security threat'",
-            "content": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+            "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+            "content": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab10/live/c3d14350-b6a0-11f1-bc1f-3f186ca4140c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
             "category": "world"
       }
 ],
