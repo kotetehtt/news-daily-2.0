@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-11 06:09:41
+// Auto-generated news data at 2026-10-12 06:17:42
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月11日',
-  update_time: '2026-10-11 06:09:41',
+  date: '2026年10月12日',
+  update_time: '2026-10-12 06:17:42',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-5f018e",
+            "tag": "AI人工智能",
+            "title": "AI is less regulated than milk, says Microsoft president",
+            "content": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-27285c",
             "tag": "AI人工智能",
             "title": "King warns malicious online actors are evolving tactics",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-8f7554",
-            "tag": "AI人工智能",
-            "title": "How drones are hunting fires hidden beneath the Cairngorms",
-            "content": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e52953",
+            "id": "b2b-335360",
             "tag": "B2B营销",
-            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-            "content": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "title": "Iran war threatens Healey's Budget plans, think tank warns",
+            "content": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48bb/live/aeeccb70-c3e4-11f1-badc-154546719036.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-07f8c3",
+            "id": "b2b-ca22e1",
             "tag": "B2B营销",
-            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-            "content": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "title": "Documents falsified to evade tax on Abramovich's wealth",
+            "content": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6be9/live/bde30ef0-c600-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7e0023",
+            "id": "b2b-1baef2",
             "tag": "B2B营销",
-            "title": "Boots has a new owner: Three ways it could affect you",
-            "content": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+            "title": "Trump faces growing backlash over plans to import diesel from Russia",
+            "content": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/120c/live/9c937870-c489-11f1-a915-a1cdb09cbaf6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2c8341",
+            "id": "b2b-5a397f",
             "tag": "B2B营销",
-            "title": "Burnham promises to curb non-compete rules in job contracts",
-            "content": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+            "title": "Debt advice that may leave you owing even more money",
+            "content": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+            "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b93d7d",
+            "id": "wor-7e0e3b",
             "tag": "国际要闻",
-            "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-            "content": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+            "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+            "content": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-cd4e43",
+            "id": "wor-c5eea3",
             "tag": "国际要闻",
-            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-            "content": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "title": "Trump faces growing backlash over plans to import diesel from Russia",
+            "content": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7aa4a2",
+            "id": "wor-91ad0f",
             "tag": "国际要闻",
-            "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-            "content": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+            "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+            "content": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2165/live/f588e620-c602-11f1-9a39-31b474234113.jpg",
             "category": "world"
       }
 ],
