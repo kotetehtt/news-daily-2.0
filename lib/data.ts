@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-13 06:58:00
+// Auto-generated news data at 2026-10-14 05:10:35
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月13日',
-  update_time: '2026-10-13 06:58:00',
+  date: '2026年10月14日',
+  update_time: '2026-10-14 05:10:35',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-aa78e7",
+            "id": "ai-a6b469",
             "tag": "AI人工智能",
-            "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-            "content": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+            "title": "How long will humans be needed for translation?",
+            "content": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-34b3fc",
+            "tag": "AI人工智能",
+            "title": "Is it OK for jobseekers or employers to use AI?",
+            "content": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-906161",
+            "tag": "AI人工智能",
+            "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+            "content": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-df83e5",
-            "tag": "AI人工智能",
-            "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-            "content": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-5f018e",
-            "tag": "AI人工智能",
-            "title": "AI is less regulated than milk, says Microsoft president",
-            "content": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e8151a",
+            "id": "b2b-e63149",
             "tag": "B2B营销",
-            "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-            "content": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+            "title": "Royal Mail losing 400 postal workers a week, says union",
+            "content": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f1829c",
+            "id": "b2b-e3f49c",
             "tag": "B2B营销",
-            "title": "I earn £120,000 a year making social media videos go viral",
-            "content": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+            "title": "Is it OK for jobseekers or employers to use AI?",
+            "content": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cf2/live/90f60900-c543-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-46f9e0",
+            "id": "b2b-fdd7ba",
             "tag": "B2B营销",
-            "title": "Heating oil customers face tough winter despite shake-up promise",
-            "content": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+            "content": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cf5/live/5a237390-c642-11f1-abff-0d918239b2e3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-afddb0",
+            "id": "b2b-c14c6b",
             "tag": "B2B营销",
-            "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-            "content": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+            "title": "Three things we've learnt about the UK economy from the IMF",
+            "content": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d39304",
+            "id": "wor-43af07",
             "tag": "国际要闻",
-            "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-            "content": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+            "content": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9618/live/c8280840-c6d0-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ff7437",
+            "id": "wor-7c136a",
             "tag": "国际要闻",
-            "title": "Breaking Bad actor RJ Mitte dies aged 34",
-            "content": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "content": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/680a/live/47547a30-c6cd-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
             "category": "world"
       },
       {
-            "id": "wor-225e1e",
+            "id": "wor-ba308c",
             "tag": "国际要闻",
-            "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-            "content": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+            "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+            "content": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       }
 ],
