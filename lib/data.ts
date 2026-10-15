@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-14 05:10:35
+// Auto-generated news data at 2026-10-15 04:59:05
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月14日',
-  update_time: '2026-10-14 05:10:35',
+  date: '2026年10月15日',
+  update_time: '2026-10-15 04:59:05',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-a6b469",
+            "id": "ai-f0eaae",
             "tag": "AI人工智能",
-            "title": "How long will humans be needed for translation?",
-            "content": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+            "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+            "content": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-34b3fc",
+            "id": "ai-4dc036",
             "tag": "AI人工智能",
-            "title": "Is it OK for jobseekers or employers to use AI?",
+            "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+            "content": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-d5a618",
+            "tag": "AI人工智能",
+            "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
             "content": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-906161",
-            "tag": "AI人工智能",
-            "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-            "content": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e63149",
+            "id": "b2b-2e22e4",
             "tag": "B2B营销",
-            "title": "Royal Mail losing 400 postal workers a week, says union",
-            "content": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+            "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+            "content": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e3f49c",
+            "id": "b2b-9c93d7",
             "tag": "B2B营销",
-            "title": "Is it OK for jobseekers or employers to use AI?",
-            "content": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+            "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+            "content": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fdd7ba",
+            "id": "b2b-f908d7",
             "tag": "B2B营销",
-            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-            "content": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+            "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+            "content": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c14c6b",
+            "id": "b2b-03fc2a",
             "tag": "B2B营销",
-            "title": "Three things we've learnt about the UK economy from the IMF",
-            "content": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+            "title": "How backlash against data centres could shape the US midterm elections",
+            "content": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-43af07",
+            "id": "wor-314616",
             "tag": "国际要闻",
-            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-            "content": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+            "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+            "content": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f7e/live/76dbc1b0-c848-11f1-94ec-7f952cae1636.jpg",
             "category": "world"
       },
       {
-            "id": "wor-7c136a",
+            "id": "wor-b5f0dd",
             "tag": "国际要闻",
-            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-            "content": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "title": "Student protesters attack government buildings in Albania",
+            "content": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
+            "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ba308c",
+            "id": "wor-f79a08",
             "tag": "国际要闻",
-            "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-            "content": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+            "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+            "content": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
             "category": "world"
       }
 ],
