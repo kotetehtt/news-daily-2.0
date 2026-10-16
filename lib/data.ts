@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-15 04:59:05
+// Auto-generated news data at 2026-10-16 04:48:36
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月15日',
-  update_time: '2026-10-15 04:59:05',
+  date: '2026年10月16日',
+  update_time: '2026-10-16 04:48:36',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f0eaae",
+            "id": "ai-1c3ffc",
             "tag": "AI人工智能",
-            "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-            "content": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+            "title": "Porn showing choking or incest to be banned from early November, government says",
+            "content": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-4dc036",
+            "id": "ai-408876",
             "tag": "AI人工智能",
-            "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-            "content": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+            "title": "Living with a stink? Technology might help",
+            "content": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d5a618",
+            "id": "ai-d83609",
             "tag": "AI人工智能",
-            "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-            "content": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+            "content": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ab0/live/49c33180-6bce-11f1-a94c-73f00a91c697.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2e22e4",
+            "id": "b2b-b7f7f9",
             "tag": "B2B营销",
-            "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-            "content": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+            "title": "Banks say Healey is planning Budget tax raid on their profits",
+            "content": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41e4/live/21134080-c8bd-11f1-bdfb-e3788aeae9ec.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9c93d7",
+            "id": "b2b-8c5430",
             "tag": "B2B营销",
-            "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+            "title": "I find it quite demoralising in store - why I do all my shopping online",
+            "content": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-44c08d",
+            "tag": "B2B营销",
+            "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+            "content": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-02f66b",
+            "tag": "B2B营销",
+            "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
             "content": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-f908d7",
-            "tag": "B2B营销",
-            "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-            "content": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-03fc2a",
-            "tag": "B2B营销",
-            "title": "How backlash against data centres could shape the US midterm elections",
-            "content": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-314616",
+            "id": "wor-23838e",
             "tag": "国际要闻",
-            "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-            "content": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+            "title": "Three children and teacher killed in US primary school shooting",
+            "content": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f7e/live/76dbc1b0-c848-11f1-94ec-7f952cae1636.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b5f0dd",
+            "id": "wor-03e1b5",
             "tag": "国际要闻",
-            "title": "Student protesters attack government buildings in Albania",
-            "content": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+            "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+            "content": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f79a08",
+            "id": "wor-6fa4ca",
             "tag": "国际要闻",
-            "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-            "content": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "content": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
             "category": "world"
       }
 ],
