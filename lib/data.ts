@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-16 04:48:36
+// Auto-generated news data at 2026-10-17 04:48:41
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月16日',
-  update_time: '2026-10-16 04:48:36',
+  date: '2026年10月17日',
+  update_time: '2026-10-17 04:48:41',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-1c3ffc",
+            "id": "ai-ac6c23",
             "tag": "AI人工智能",
-            "title": "Porn showing choking or incest to be banned from early November, government says",
-            "content": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+            "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+            "content": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png",
             "category": "ai"
       },
       {
-            "id": "ai-408876",
+            "id": "ai-e657fe",
             "tag": "AI人工智能",
-            "title": "Living with a stink? Technology might help",
-            "content": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+            "title": "Russian man linked to deadly London hospitals hack arrested",
+            "content": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
             "category": "ai"
       },
       {
-            "id": "ai-d83609",
+            "id": "ai-f0862b",
             "tag": "AI人工智能",
-            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-            "content": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+            "title": "Snapchat and Instagram grooming becoming 'easier'",
+            "content": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ab0/live/49c33180-6bce-11f1-a94c-73f00a91c697.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
             "category": "ai"
       }
 ],
@@ -216,14 +216,25 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-b7f7f9",
+            "id": "b2b-298605",
             "tag": "B2B营销",
-            "title": "Banks say Healey is planning Budget tax raid on their profits",
+            "title": "Banks expect to be hit with higher taxes in Budget",
             "content": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41e4/live/21134080-c8bd-11f1-bdfb-e3788aeae9ec.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-fee176",
+            "tag": "B2B营销",
+            "title": "Watch: Did Tesla really just unveil a flying car?",
+            "content": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
             "category": "b2b"
       },
       {
@@ -234,29 +245,18 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7cc/live/e0cf8ba0-c92f-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-44c08d",
+            "id": "b2b-728bb5",
             "tag": "B2B营销",
-            "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-            "content": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+            "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+            "content": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-02f66b",
-            "tag": "B2B营销",
-            "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-            "content": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-23838e",
+            "id": "wor-ef1d56",
             "tag": "国际要闻",
-            "title": "Three children and teacher killed in US primary school shooting",
-            "content": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+            "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+            "content": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
             "category": "world"
       },
       {
-            "id": "wor-03e1b5",
+            "id": "wor-91fa7c",
             "tag": "国际要闻",
-            "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-            "content": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "content": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6fa4ca",
+            "id": "wor-821f5f",
             "tag": "国际要闻",
-            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-            "content": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "title": "Trump waives several Russia sanctions as new US law takes effect",
+            "content": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
             "category": "world"
       }
 ],
