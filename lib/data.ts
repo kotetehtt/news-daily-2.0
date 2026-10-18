@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-17 04:48:41
+// Auto-generated news data at 2026-10-18 04:54:49
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月17日',
-  update_time: '2026-10-17 04:48:41',
+  date: '2026年10月18日',
+  update_time: '2026-10-18 04:54:49',
   banner: [
       {
             "id": "ai-001",
@@ -100,10 +100,21 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-5b4e71",
+            "tag": "AI人工智能",
+            "title": "No further action against government adviser's wife over Palestine Action post, police say",
+            "content": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-ac6c23",
             "tag": "AI人工智能",
             "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-            "content": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+            "content": "The Australian government hopes to protect social media users from being served content they don't want to see.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
-            "category": "ai"
-      },
-      {
-            "id": "ai-f0862b",
-            "tag": "AI人工智能",
-            "title": "Snapchat and Instagram grooming becoming 'easier'",
-            "content": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ef1d56",
+            "id": "wor-7d4673",
             "tag": "国际要闻",
-            "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-            "content": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "content": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-91fa7c",
+            "id": "wor-59b3c3",
             "tag": "国际要闻",
-            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-            "content": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "title": "European diplomats attacked by Israeli settlers in West Bank",
+            "content": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
             "category": "world"
       },
       {
-            "id": "wor-821f5f",
+            "id": "wor-cc39e8",
             "tag": "国际要闻",
-            "title": "Trump waives several Russia sanctions as new US law takes effect",
-            "content": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+            "title": "Deadly fire breaks out at Canada military base",
+            "content": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
             "category": "world"
       }
 ],
