@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-18 04:54:49
+// Auto-generated news data at 2026-10-19 05:03:38
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月18日',
-  update_time: '2026-10-18 04:54:49',
+  date: '2026年10月19日',
+  update_time: '2026-10-19 05:03:38',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-5b4e71",
+            "id": "ai-c66c0c",
             "tag": "AI人工智能",
-            "title": "No further action against government adviser's wife over Palestine Action post, police say",
-            "content": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+            "content": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ac6c23",
+            "id": "ai-637693",
             "tag": "AI人工智能",
-            "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-            "content": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+            "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+            "content": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-e657fe",
+            "id": "ai-eed9e8",
             "tag": "AI人工智能",
-            "title": "Russian man linked to deadly London hospitals hack arrested",
-            "content": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+            "title": "Don't fall for this - how to protect yourself from AI scams",
+            "content": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
+            "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-298605",
+            "id": "b2b-d7b27b",
             "tag": "B2B营销",
-            "title": "Banks expect to be hit with higher taxes in Budget",
-            "content": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+            "title": "Microsoft pulls out of UK's largest AI data centre",
+            "content": "Tech firm Nscale says it is still committed to building the site in Essex.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fee176",
+            "id": "b2b-0538d2",
             "tag": "B2B营销",
-            "title": "Watch: Did Tesla really just unveil a flying car?",
-            "content": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+            "title": "Home sellers cut asking prices on 3,000 properties a day",
+            "content": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
+            "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8c5430",
+            "id": "b2b-1fe0ef",
             "tag": "B2B营销",
-            "title": "I find it quite demoralising in store - why I do all my shopping online",
-            "content": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+            "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+            "content": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7cc/live/e0cf8ba0-c92f-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-728bb5",
+            "id": "b2b-9e6f47",
             "tag": "B2B营销",
-            "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-            "content": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+            "content": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-7d4673",
+            "id": "wor-bac7ed",
             "tag": "国际要闻",
-            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-            "content": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "content": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-59b3c3",
+            "id": "wor-c14ef5",
             "tag": "国际要闻",
-            "title": "European diplomats attacked by Israeli settlers in West Bank",
-            "content": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+            "title": "France's government under pressure after weekend of widespread violence",
+            "content": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-cc39e8",
+            "id": "wor-f5accf",
             "tag": "国际要闻",
-            "title": "Deadly fire breaks out at Canada military base",
-            "content": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+            "title": "Major fire at Canada military base leaves four dead, dozens injured",
+            "content": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
             "category": "world"
       }
 ],
