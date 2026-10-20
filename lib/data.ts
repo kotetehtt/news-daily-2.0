@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-19 05:03:38
+// Auto-generated news data at 2026-10-20 05:06:05
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月19日',
-  update_time: '2026-10-19 05:03:38',
+  date: '2026年10月20日',
+  update_time: '2026-10-20 05:06:05',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-c66c0c",
+            "id": "ai-3c14a3",
             "tag": "AI人工智能",
-            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-            "content": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+            "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+            "content": "The Saudi government did not immediately respond to BBC requests for comment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
             "category": "ai"
       },
       {
-            "id": "ai-637693",
+            "id": "ai-ccfa19",
             "tag": "AI人工智能",
-            "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-            "content": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+            "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+            "content": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-eed9e8",
+            "id": "ai-c297be",
             "tag": "AI人工智能",
-            "title": "Don't fall for this - how to protect yourself from AI scams",
-            "content": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+            "title": "Uber wins bid to throw out £200m black cab claims",
+            "content": "Uber wins bid to throw out £200m black cab claims",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55c0/live/e258cdd0-0819-11ef-8205-3fa833ece17b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d7b27b",
+            "id": "b2b-8443cf",
             "tag": "B2B营销",
-            "title": "Microsoft pulls out of UK's largest AI data centre",
-            "content": "Tech firm Nscale says it is still committed to building the site in Essex.",
+            "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+            "content": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-0538d2",
+            "id": "b2b-8d89f0",
             "tag": "B2B营销",
-            "title": "Home sellers cut asking prices on 3,000 properties a day",
-            "content": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+            "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+            "content": "The BBC hears from people who think dating events are better value for money than dating apps.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1fe0ef",
+            "id": "b2b-a349a1",
             "tag": "B2B营销",
-            "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-            "content": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+            "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+            "content": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9e6f47",
+            "id": "b2b-4063ae",
             "tag": "B2B营销",
-            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-            "content": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+            "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+            "content": "The Saudi government did not immediately respond to BBC requests for comment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-bac7ed",
+            "id": "wor-938cfe",
             "tag": "国际要闻",
-            "title": "Macron calls for 'calm and order' after riots across France",
-            "content": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "content": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c14ef5",
+            "id": "wor-f1a589",
             "tag": "国际要闻",
-            "title": "France's government under pressure after weekend of widespread violence",
-            "content": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+            "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+            "content": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
             "category": "world"
       },
       {
-            "id": "wor-f5accf",
+            "id": "wor-114b0a",
             "tag": "国际要闻",
-            "title": "Major fire at Canada military base leaves four dead, dozens injured",
-            "content": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+            "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+            "content": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       }
 ],
