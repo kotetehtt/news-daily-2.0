@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-20 05:06:05
+// Auto-generated news data at 2026-10-21 05:07:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月20日',
-  update_time: '2026-10-20 05:06:05',
+  date: '2026年10月21日',
+  update_time: '2026-10-21 05:07:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-3c14a3",
+            "id": "ai-111f01",
             "tag": "AI人工智能",
-            "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-            "content": "The Saudi government did not immediately respond to BBC requests for comment.",
+            "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+            "content": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ccfa19",
+            "id": "ai-fdddab",
             "tag": "AI人工智能",
-            "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-            "content": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
             "category": "ai"
       },
       {
-            "id": "ai-c297be",
+            "id": "ai-dd4f10",
             "tag": "AI人工智能",
-            "title": "Uber wins bid to throw out £200m black cab claims",
-            "content": "Uber wins bid to throw out £200m black cab claims",
+            "title": "The tech helping crack decades-old cold cases",
+            "content": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55c0/live/e258cdd0-0819-11ef-8205-3fa833ece17b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8443cf",
+            "id": "b2b-2b9439",
             "tag": "B2B营销",
-            "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-            "content": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-8d89f0",
+            "id": "b2b-2b61b3",
             "tag": "B2B营销",
-            "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-            "content": "The BBC hears from people who think dating events are better value for money than dating apps.",
+            "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+            "content": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a349a1",
+            "id": "b2b-6c9d5f",
             "tag": "B2B营销",
-            "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-            "content": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+            "title": "Google resolves cloud outage affecting UK banks and websites",
+            "content": "Revolut was one of the hardest hit, with banking services going down for many customers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4063ae",
+            "id": "b2b-a18e01",
             "tag": "B2B营销",
-            "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-            "content": "The Saudi government did not immediately respond to BBC requests for comment.",
+            "title": "UK government expected to approve Jackdaw gas field",
+            "content": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+            "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-938cfe",
+            "id": "wor-c3c1fe",
             "tag": "国际要闻",
-            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-            "content": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+            "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+            "content": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9998/live/a337cac0-cd01-11f1-9999-4d9f447f1e4c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-f1a589",
+            "id": "wor-24bc0a",
             "tag": "国际要闻",
-            "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-            "content": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+            "title": "France is divided over who to blame for weekend riots and what to learn from them",
+            "content": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
+            "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
             "category": "world"
       },
       {
-            "id": "wor-114b0a",
+            "id": "wor-6b19c5",
             "tag": "国际要闻",
-            "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-            "content": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
             "category": "world"
       }
 ],
