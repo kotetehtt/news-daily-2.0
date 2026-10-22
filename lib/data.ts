@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-21 05:07:17
+// Auto-generated news data at 2026-10-22 05:10:16
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月21日',
-  update_time: '2026-10-21 05:07:17',
+  date: '2026年10月22日',
+  update_time: '2026-10-22 05:10:16',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-111f01",
+            "id": "ai-967157",
             "tag": "AI人工智能",
-            "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-            "content": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+            "title": "UK working to identify exposure after global cyber-security warning",
+            "content": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-fdddab",
+            "id": "ai-8856c7",
             "tag": "AI人工智能",
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-dd4f10",
+            "id": "ai-5c5a88",
             "tag": "AI人工智能",
-            "title": "The tech helping crack decades-old cold cases",
-            "content": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+            "title": "Trump's green card curbs test Indian tech workers' American dream",
+            "content": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2b9439",
+            "id": "b2b-77b3db",
             "tag": "B2B营销",
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+            "content": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2b61b3",
+            "id": "b2b-5d8b7c",
             "tag": "B2B营销",
-            "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-            "content": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "content": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6c9d5f",
+            "id": "b2b-cdce7d",
             "tag": "B2B营销",
-            "title": "Google resolves cloud outage affecting UK banks and websites",
-            "content": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a18e01",
+            "id": "b2b-1a2ca8",
             "tag": "B2B营销",
-            "title": "UK government expected to approve Jackdaw gas field",
-            "content": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+            "title": "No purchase, no seats: Starbucks China rolls out new policy",
+            "content": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c3c1fe",
+            "id": "wor-30126b",
             "tag": "国际要闻",
-            "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-            "content": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "content": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9998/live/a337cac0-cd01-11f1-9999-4d9f447f1e4c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
             "category": "world"
       },
       {
-            "id": "wor-24bc0a",
+            "id": "wor-5d7f93",
             "tag": "国际要闻",
-            "title": "France is divided over who to blame for weekend riots and what to learn from them",
-            "content": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6b19c5",
+            "id": "wor-80a246",
             "tag": "国际要闻",
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+            "content": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+            "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
             "category": "world"
       }
 ],
