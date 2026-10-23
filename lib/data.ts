@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-22 05:10:16
+// Auto-generated news data at 2026-10-23 05:10:09
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月22日',
-  update_time: '2026-10-22 05:10:16',
+  date: '2026年10月23日',
+  update_time: '2026-10-23 05:10:09',
   banner: [
       {
             "id": "ai-001",
@@ -100,14 +100,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-967157",
+            "id": "ai-92c2fc",
             "tag": "AI人工智能",
-            "title": "UK working to identify exposure after global cyber-security warning",
-            "content": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+            "content": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-470478",
+            "tag": "AI人工智能",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "content": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg",
             "category": "ai"
       },
       {
@@ -118,18 +129,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-5c5a88",
-            "tag": "AI人工智能",
-            "title": "Trump's green card curbs test Indian tech workers' American dream",
-            "content": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-77b3db",
+            "id": "b2b-51199b",
             "tag": "B2B营销",
-            "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-            "content": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+            "title": "Grid operator says lights will stay on this winter after concerns",
+            "content": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5d8b7c",
+            "id": "b2b-46dd0e",
             "tag": "B2B营销",
-            "title": "Websites taken down worldwide as critical cyber-security update issued",
-            "content": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+            "content": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-cdce7d",
+            "id": "b2b-5e7f85",
             "tag": "B2B营销",
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+            "content": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1a2ca8",
+            "id": "b2b-5da207",
             "tag": "B2B营销",
-            "title": "No purchase, no seats: Starbucks China rolls out new policy",
-            "content": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+            "title": "'I wasn't thinking straight' says five jobs civil servant",
+            "content": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-30126b",
+            "id": "wor-2c9d9a",
             "tag": "国际要闻",
-            "title": "Websites taken down worldwide as critical cyber-security update issued",
-            "content": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+            "content": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5d7f93",
+            "id": "wor-497b50",
             "tag": "国际要闻",
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+            "content": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-80a246",
+            "id": "wor-18e18e",
             "tag": "国际要闻",
-            "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-            "content": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+            "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+            "content": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
             "category": "world"
       }
 ],
