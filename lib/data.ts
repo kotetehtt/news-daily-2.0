@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-23 05:10:09
+// Auto-generated news data at 2026-10-24 04:53:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月23日',
-  update_time: '2026-10-23 05:10:09',
+  date: '2026年10月24日',
+  update_time: '2026-10-24 04:53:02',
   banner: [
       {
             "id": "ai-001",
@@ -100,25 +100,14 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-92c2fc",
+            "id": "ai-31d52f",
             "tag": "AI人工智能",
-            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-            "content": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+            "content": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-470478",
-            "tag": "AI人工智能",
-            "title": "Race to update services' computer systems after cyber-security flaw found",
-            "content": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
             "category": "ai"
       },
       {
@@ -130,6 +119,17 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-b6b0fc",
+            "tag": "AI人工智能",
+            "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+            "content": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-51199b",
+            "id": "b2b-6c3acd",
             "tag": "B2B营销",
-            "title": "Grid operator says lights will stay on this winter after concerns",
-            "content": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+            "title": "How does the UK state pension compare with other countries?",
+            "content": "Do British pensioners have it better or worse than those in other countries?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-46dd0e",
+            "id": "b2b-721269",
             "tag": "B2B营销",
-            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-            "content": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+            "content": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5e7f85",
+            "id": "b2b-c7b3b3",
             "tag": "B2B营销",
-            "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-            "content": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+            "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+            "content": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5da207",
+            "id": "b2b-794c23",
             "tag": "B2B营销",
-            "title": "'I wasn't thinking straight' says five jobs civil servant",
-            "content": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+            "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+            "content": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-2c9d9a",
+            "id": "wor-56b2a2",
             "tag": "国际要闻",
-            "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-            "content": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+            "title": "France prepares for day of protest a week after nationwide riots",
+            "content": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6313/live/f6761da0-cf08-11f1-b95c-310d5f3c558a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-497b50",
+            "id": "wor-df7f36",
             "tag": "国际要闻",
-            "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-            "content": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+            "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+            "content": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-18e18e",
+            "id": "wor-846f83",
             "tag": "国际要闻",
-            "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-            "content": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+            "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+            "content": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89c2/live/dded51c0-cf5a-11f1-b46b-8fe3882d26eb.jpg",
             "category": "world"
       }
 ],
