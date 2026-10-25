@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-24 04:53:02
+// Auto-generated news data at 2026-10-25 05:04:00
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月24日',
-  update_time: '2026-10-24 04:53:02',
+  date: '2026年10月25日',
+  update_time: '2026-10-25 05:04:00',
   banner: [
       {
             "id": "ai-001",
@@ -216,6 +216,28 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-f6cf45",
+            "tag": "B2B营销",
+            "title": "Budget to include £1bn for social and affordable housing",
+            "content": "The move will take funding for the 10-year programme to more than £40bn.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-8bf7ed",
+            "tag": "B2B营销",
+            "title": "Rosebank: Life on the oil field at the centre of a political storm",
+            "content": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-6c3acd",
             "tag": "B2B营销",
             "title": "How does the UK state pension compare with other countries?",
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-c7b3b3",
-            "tag": "B2B营销",
-            "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-            "content": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-794c23",
-            "tag": "B2B营销",
-            "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-            "content": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-56b2a2",
+            "id": "wor-b46828",
             "tag": "国际要闻",
-            "title": "France prepares for day of protest a week after nationwide riots",
-            "content": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+            "content": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6313/live/f6761da0-cf08-11f1-b95c-310d5f3c558a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
             "category": "world"
       },
       {
-            "id": "wor-df7f36",
+            "id": "wor-53bbdf",
             "tag": "国际要闻",
-            "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-            "content": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+            "title": "Ukraine says Starlink connection 'now stable' after network limits",
+            "content": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-846f83",
+            "id": "wor-1b0c81",
             "tag": "国际要闻",
-            "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
-            "content": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+            "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+            "content": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89c2/live/dded51c0-cf5a-11f1-b46b-8fe3882d26eb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
             "category": "world"
       }
 ],
