@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-25 05:04:00
+// Auto-generated news data at 2026-10-26 05:07:38
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月25日',
-  update_time: '2026-10-25 05:04:00',
+  date: '2026年10月26日',
+  update_time: '2026-10-26 05:07:38',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-9f5308",
+            "tag": "AI人工智能",
+            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+            "content": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+            "category": "ai"
+      },
+      {
             "id": "ai-31d52f",
             "tag": "AI人工智能",
             "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-b6b0fc",
-            "tag": "AI人工智能",
-            "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-            "content": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
             "category": "ai"
       }
 ],
@@ -216,14 +216,36 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f6cf45",
+            "id": "b2b-1ca57e",
             "tag": "B2B营销",
-            "title": "Budget to include £1bn for social and affordable housing",
-            "content": "The move will take funding for the 10-year programme to more than £40bn.",
+            "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+            "content": "The economic is positive now but come January things could become trickier for the Labour government",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-e389b6",
+            "tag": "B2B营销",
+            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+            "content": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-369f24",
+            "tag": "B2B营销",
+            "title": "Will a new code end 'rip-off parking charges'?",
+            "content": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
             "category": "b2b"
       },
       {
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-6c3acd",
-            "tag": "B2B营销",
-            "title": "How does the UK state pension compare with other countries?",
-            "content": "Do British pensioners have it better or worse than those in other countries?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-721269",
-            "tag": "B2B营销",
-            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-            "content": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b46828",
+            "id": "wor-571847",
             "tag": "国际要闻",
-            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-            "content": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+            "content": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
             "category": "world"
       },
       {
-            "id": "wor-53bbdf",
+            "id": "wor-50f989",
             "tag": "国际要闻",
-            "title": "Ukraine says Starlink connection 'now stable' after network limits",
-            "content": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+            "title": "Deeply divided Israel braces for pivotal election",
+            "content": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1b0c81",
+            "id": "wor-2b000f",
             "tag": "国际要闻",
-            "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-            "content": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+            "title": "Venezuelan opposition leader María Machado returns after months in exile",
+            "content": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
             "category": "world"
       }
 ],
