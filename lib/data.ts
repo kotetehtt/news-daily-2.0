@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-26 05:07:38
+// Auto-generated news data at 2026-10-27 05:22:16
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月26日',
-  update_time: '2026-10-26 05:07:38',
+  date: '2026年10月27日',
+  update_time: '2026-10-27 05:22:16',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9f5308",
+            "id": "ai-f87711",
             "tag": "AI人工智能",
-            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-            "content": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+            "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+            "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-31d52f",
+            "id": "ai-a0f28d",
             "tag": "AI人工智能",
-            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-            "content": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+            "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+            "content": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-8856c7",
+            "id": "ai-85c604",
             "tag": "AI人工智能",
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "content": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+            "content": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-1ca57e",
+            "id": "b2b-4d1fba",
             "tag": "B2B营销",
-            "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-            "content": "The economic is positive now but come January things could become trickier for the Labour government",
+            "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+            "content": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e389b6",
+            "id": "b2b-3bbb8f",
             "tag": "B2B营销",
-            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-            "content": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+            "content": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-369f24",
+            "id": "b2b-9d750c",
             "tag": "B2B营销",
-            "title": "Will a new code end 'rip-off parking charges'?",
-            "content": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+            "content": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-8bf7ed",
+            "id": "b2b-6fbed3",
             "tag": "B2B营销",
-            "title": "Rosebank: Life on the oil field at the centre of a political storm",
-            "content": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+            "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+            "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-571847",
+            "id": "wor-194b61",
             "tag": "国际要闻",
-            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-            "content": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "title": "Lula wins fourth term in dramatic Brazil election comeback",
+            "content": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-50f989",
+            "id": "wor-a4b7c2",
             "tag": "国际要闻",
-            "title": "Deeply divided Israel braces for pivotal election",
-            "content": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+            "title": "Ex-FBI chief James Comey faces federal charges for third time",
+            "content": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-2b000f",
+            "id": "wor-3676f6",
             "tag": "国际要闻",
-            "title": "Venezuelan opposition leader María Machado returns after months in exile",
-            "content": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+            "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+            "content": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
             "category": "world"
       }
 ],
