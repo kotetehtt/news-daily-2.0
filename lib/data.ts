@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-27 05:22:16
+// Auto-generated news data at 2026-10-28 06:00:55
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月27日',
-  update_time: '2026-10-27 05:22:16',
+  date: '2026年10月28日',
+  update_time: '2026-10-28 06:00:55',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,20 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f87711",
+            "id": "ai-d1be4c",
             "tag": "AI人工智能",
-            "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+            "title": "'An annoying buzz': The search for stealthier drones",
+            "content": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-2200ee",
+            "tag": "AI人工智能",
+            "title": "Apple to replace iPhone Duos affected by screen problem",
             "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
             "source": "BBC News",
             "time": "今日",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-85c604",
-            "tag": "AI人工智能",
-            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-            "content": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-4d1fba",
+            "id": "b2b-1556fe",
             "tag": "B2B营销",
-            "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-            "content": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+            "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+            "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3bbb8f",
+            "id": "b2b-7d87f1",
             "tag": "B2B营销",
-            "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-            "content": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "content": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-9d750c",
+            "id": "b2b-3439ee",
             "tag": "B2B营销",
-            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-            "content": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+            "content": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6fbed3",
+            "id": "b2b-7090b6",
             "tag": "B2B营销",
-            "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-            "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+            "title": "China's families are now supporting more old people than kids",
+            "content": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-194b61",
+            "id": "wor-c502ff",
             "tag": "国际要闻",
-            "title": "Lula wins fourth term in dramatic Brazil election comeback",
-            "content": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+            "title": "Norway and Finland leaders hold rare call with Putin",
+            "content": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a4b7c2",
+            "id": "wor-60938b",
             "tag": "国际要闻",
-            "title": "Ex-FBI chief James Comey faces federal charges for third time",
-            "content": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+            "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+            "content": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3676f6",
+            "id": "wor-559c27",
             "tag": "国际要闻",
-            "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-            "content": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+            "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+            "content": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
             "category": "world"
       }
 ],
