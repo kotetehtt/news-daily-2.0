@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-28 06:00:55
+// Auto-generated news data at 2026-10-29 06:11:32
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月28日',
-  update_time: '2026-10-28 06:00:55',
+  date: '2026年10月29日',
+  update_time: '2026-10-29 06:11:32',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-d1be4c",
+            "id": "ai-02028e",
             "tag": "AI人工智能",
-            "title": "'An annoying buzz': The search for stealthier drones",
-            "content": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+            "title": "Ofcom outlines ways social media can verify ages of users",
+            "content": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-2200ee",
+            "id": "ai-3a91eb",
             "tag": "AI人工智能",
-            "title": "Apple to replace iPhone Duos affected by screen problem",
-            "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+            "title": "Details of thousands of US immigration agents leaked in major hack",
+            "content": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-a0f28d",
+            "id": "ai-da2496",
             "tag": "AI人工智能",
-            "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-            "content": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+            "title": "Microsoft profits soar days after announcing thousands of layoffs",
+            "content": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-1556fe",
+            "id": "b2b-f25f9b",
             "tag": "B2B营销",
-            "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-            "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+            "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+            "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7d87f1",
+            "id": "b2b-7cc14b",
             "tag": "B2B营销",
-            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-            "content": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+            "content": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3439ee",
+            "id": "b2b-03f2a1",
             "tag": "B2B营销",
-            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-            "content": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+            "title": "What we now know about the UK economy in four charts",
+            "content": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7090b6",
+            "id": "b2b-4ca9b5",
             "tag": "B2B营销",
-            "title": "China's families are now supporting more old people than kids",
-            "content": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+            "title": "What the Budget offers for under 25s - and what it leaves out",
+            "content": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c502ff",
+            "id": "wor-58fc13",
             "tag": "国际要闻",
-            "title": "Norway and Finland leaders hold rare call with Putin",
-            "content": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+            "title": "High-speed train crash kills at least 68 people in Spain",
+            "content": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
             "category": "world"
       },
       {
-            "id": "wor-60938b",
+            "id": "wor-de7577",
             "tag": "国际要闻",
-            "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-            "content": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+            "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+            "content": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-559c27",
+            "id": "wor-731b4b",
             "tag": "国际要闻",
-            "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-            "content": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+            "content": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       }
 ],
