@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-29 06:11:32
+// Auto-generated news data at 2026-10-30 06:11:32
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月29日',
-  update_time: '2026-10-29 06:11:32',
+  date: '2026年10月30日',
+  update_time: '2026-10-30 06:11:32',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-02028e",
+            "id": "ai-a4eda6",
             "tag": "AI人工智能",
-            "title": "Ofcom outlines ways social media can verify ages of users",
+            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-685e2f",
+            "tag": "AI人工智能",
+            "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-aebfe5",
+            "tag": "AI人工智能",
+            "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
             "content": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-3a91eb",
-            "tag": "AI人工智能",
-            "title": "Details of thousands of US immigration agents leaked in major hack",
-            "content": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-da2496",
-            "tag": "AI人工智能",
-            "title": "Microsoft profits soar days after announcing thousands of layoffs",
-            "content": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f25f9b",
+            "id": "b2b-7d7b23",
             "tag": "B2B营销",
-            "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-            "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7cc14b",
+            "id": "b2b-7eaf33",
             "tag": "B2B营销",
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "content": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+            "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-03f2a1",
+            "id": "b2b-576987",
             "tag": "B2B营销",
-            "title": "What we now know about the UK economy in four charts",
-            "content": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+            "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+            "content": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4ca9b5",
+            "id": "b2b-569e9d",
             "tag": "B2B营销",
-            "title": "What the Budget offers for under 25s - and what it leaves out",
-            "content": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+            "title": "US interest rates held steady and economy grows - what it means for you",
+            "content": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-58fc13",
+            "id": "wor-1a4863",
             "tag": "国际要闻",
-            "title": "High-speed train crash kills at least 68 people in Spain",
-            "content": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+            "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+            "content": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
             "category": "world"
       },
       {
-            "id": "wor-de7577",
+            "id": "wor-a77f97",
             "tag": "国际要闻",
-            "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-            "content": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
             "category": "world"
       },
       {
-            "id": "wor-731b4b",
+            "id": "wor-1db21d",
             "tag": "国际要闻",
-            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-            "content": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+            "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+            "content": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg",
             "category": "world"
       }
 ],
