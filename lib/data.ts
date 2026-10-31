@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-30 06:11:32
+// Auto-generated news data at 2026-10-31 06:05:28
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月30日',
-  update_time: '2026-10-30 06:11:32',
+  date: '2026年10月31日',
+  update_time: '2026-10-31 06:05:28',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-a4eda6",
+            "id": "ai-7e4cd1",
             "tag": "AI人工智能",
-            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "content": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-685e2f",
+            "id": "ai-88008c",
             "tag": "AI人工智能",
-            "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+            "content": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-ce7852",
+            "tag": "AI人工智能",
+            "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-aebfe5",
-            "tag": "AI人工智能",
-            "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-            "content": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7d7b23",
+            "id": "b2b-e813c2",
             "tag": "B2B营销",
-            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "content": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7eaf33",
+            "id": "b2b-e3b1b0",
             "tag": "B2B营销",
-            "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+            "content": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-576987",
+            "id": "b2b-e66f5a",
             "tag": "B2B营销",
-            "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-            "content": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+            "title": "What we know about Binance's $6.3bn hack",
+            "content": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-569e9d",
+            "id": "b2b-4b96e2",
             "tag": "B2B营销",
-            "title": "US interest rates held steady and economy grows - what it means for you",
-            "content": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+            "title": "City of London chief tops UK Black Powerlist",
+            "content": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1a4863",
+            "id": "wor-c60475",
             "tag": "国际要闻",
-            "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-            "content": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government.",
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "content": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a77f97",
+            "id": "wor-965725",
             "tag": "国际要闻",
-            "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-            "content": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "content": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1db21d",
+            "id": "wor-4b0db9",
             "tag": "国际要闻",
-            "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-            "content": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "content": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       }
 ],
