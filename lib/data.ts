@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-10-31 06:05:28
+// Auto-generated news data at 2026-11-01 06:35:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年10月31日',
-  update_time: '2026-10-31 06:05:28',
+  date: '2026年11月01日',
+  update_time: '2026-11-01 06:35:11',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-261e04",
+            "tag": "AI人工智能",
+            "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+            "content": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-7e4cd1",
             "tag": "AI人工智能",
             "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ce7852",
-            "tag": "AI人工智能",
-            "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-            "content": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c60475",
+            "id": "wor-f77bfe",
             "tag": "国际要闻",
-            "title": "US approves sale of 500 Patriot missiles to Ukraine",
-            "content": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "title": "Shops looted as German cost of living protests turn violent",
+            "content": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
             "category": "world"
       },
       {
-            "id": "wor-965725",
+            "id": "wor-a64b5c",
             "tag": "国际要闻",
-            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-            "content": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+            "content": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4b0db9",
+            "id": "wor-da6ce5",
             "tag": "国际要闻",
-            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-            "content": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+            "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+            "content": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       }
 ],
