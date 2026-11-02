@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-01 06:35:11
+// Auto-generated news data at 2026-11-02 06:35:20
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月01日',
-  update_time: '2026-11-01 06:35:11',
+  date: '2026年11月02日',
+  update_time: '2026-11-02 06:35:20',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-7fa9f4",
+            "tag": "AI人工智能",
+            "title": "Binance users withdraw $3.6bn after record crypto hack",
+            "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-261e04",
             "tag": "AI人工智能",
             "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-88008c",
-            "tag": "AI人工智能",
-            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-            "content": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e813c2",
+            "id": "b2b-961dd7",
             "tag": "B2B营销",
-            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-            "content": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "title": "Binance users withdraw $3.6bn after record crypto hack",
+            "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e3b1b0",
+            "id": "b2b-01a339",
             "tag": "B2B营销",
-            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-            "content": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+            "title": "Don't get caught out by new Buy Now Pay Later rules",
+            "content": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e66f5a",
+            "id": "b2b-48891a",
             "tag": "B2B营销",
-            "title": "What we know about Binance's $6.3bn hack",
-            "content": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "title": "Thousands of jobs at Virgin Media O2 to be cut",
+            "content": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4b96e2",
+            "id": "b2b-ae3d3e",
             "tag": "B2B营销",
-            "title": "City of London chief tops UK Black Powerlist",
-            "content": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+            "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+            "content": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-f77bfe",
+            "id": "wor-13768f",
             "tag": "国际要闻",
-            "title": "Shops looted as German cost of living protests turn violent",
-            "content": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+            "content": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8c3/live/4a47a4d0-d66b-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a64b5c",
+            "id": "wor-8014d5",
             "tag": "国际要闻",
-            "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-            "content": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+            "title": "Nine killed as small jet crashes on Florida street",
+            "content": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg",
             "category": "world"
       },
       {
-            "id": "wor-da6ce5",
+            "id": "wor-155ddf",
             "tag": "国际要闻",
-            "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-            "content": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+            "title": "Trump makes fevered campaign push in final weekend before election",
+            "content": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/6d764030-d650-11f1-ada6-c195ef2b6417.jpg",
             "category": "world"
       }
 ],
