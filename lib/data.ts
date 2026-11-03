@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-02 06:35:20
+// Auto-generated news data at 2026-11-03 07:05:18
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月02日',
-  update_time: '2026-11-02 06:35:20',
+  date: '2026年11月03日',
+  update_time: '2026-11-03 07:05:18',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-7fa9f4",
+            "id": "ai-b308ac",
             "tag": "AI人工智能",
-            "title": "Binance users withdraw $3.6bn after record crypto hack",
-            "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+            "title": "Apple unsure when more foldable iPhones will be available after selling out",
+            "content": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-261e04",
+            "id": "ai-8ad136",
             "tag": "AI人工智能",
-            "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-            "content": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+            "title": "North Korea denies being behind record $6.3bn Binance hack",
+            "content": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7e4cd1",
+            "id": "ai-01052a",
             "tag": "AI人工智能",
-            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-            "content": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+            "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+            "content": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-961dd7",
+            "id": "b2b-ae66d8",
             "tag": "B2B营销",
-            "title": "Binance users withdraw $3.6bn after record crypto hack",
-            "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "content": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f8/live/9e311b90-d750-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-01a339",
+            "id": "b2b-c8c435",
             "tag": "B2B营销",
-            "title": "Don't get caught out by new Buy Now Pay Later rules",
-            "content": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "content": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-48891a",
+            "id": "b2b-6d8dd7",
             "tag": "B2B营销",
-            "title": "Thousands of jobs at Virgin Media O2 to be cut",
-            "content": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+            "title": "North Korea denies being behind record $6.3bn Binance hack",
+            "content": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ae3d3e",
+            "id": "b2b-75f0e4",
             "tag": "B2B营销",
-            "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-            "content": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+            "title": "Apple unsure when more foldable iPhones will be available after selling out",
+            "content": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-13768f",
+            "id": "wor-42d7a4",
             "tag": "国际要闻",
-            "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-            "content": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+            "title": "US strikes Iran ahead of midterm elections",
+            "content": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8c3/live/4a47a4d0-d66b-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8014d5",
+            "id": "wor-8f8a60",
             "tag": "国际要闻",
-            "title": "Nine killed as small jet crashes on Florida street",
-            "content": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+            "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+            "content": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
             "category": "world"
       },
       {
-            "id": "wor-155ddf",
+            "id": "wor-3d828d",
             "tag": "国际要闻",
-            "title": "Trump makes fevered campaign push in final weekend before election",
-            "content": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+            "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+            "content": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb59/live/6d764030-d650-11f1-ada6-c195ef2b6417.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
             "category": "world"
       }
 ],
