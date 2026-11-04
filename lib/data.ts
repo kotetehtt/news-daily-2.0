@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-03 07:05:18
+// Auto-generated news data at 2026-11-04 06:50:01
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月03日',
-  update_time: '2026-11-03 07:05:18',
+  date: '2026年11月04日',
+  update_time: '2026-11-04 06:50:01',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-b308ac",
+            "id": "ai-a4d88c",
             "tag": "AI人工智能",
-            "title": "Apple unsure when more foldable iPhones will be available after selling out",
-            "content": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+            "title": "Graduates are managing AI - but are they learning much else?",
+            "content": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-8ad136",
+            "id": "ai-d70fc0",
             "tag": "AI人工智能",
-            "title": "North Korea denies being behind record $6.3bn Binance hack",
-            "content": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+            "content": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-01052a",
+            "id": "ai-6c31bc",
             "tag": "AI人工智能",
-            "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-            "content": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+            "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+            "content": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-a9407f",
+            "tag": "B2B营销",
+            "title": "Poundland supplier 'will lose millions' if retailer collapses",
+            "content": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/222a/live/3804e900-d7be-11f1-8a3d-5320e3fab176.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-ae66d8",
             "tag": "B2B营销",
             "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -223,40 +234,29 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f8/live/9e311b90-d750-11f1-b441-2b33b063138f.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c8c435",
+            "id": "b2b-10d38e",
             "tag": "B2B营销",
-            "title": "Shop freezers in seven European countries hit by cyber-attack",
-            "content": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+            "content": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6d8dd7",
+            "id": "b2b-346ea9",
             "tag": "B2B营销",
-            "title": "North Korea denies being behind record $6.3bn Binance hack",
-            "content": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+            "content": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-75f0e4",
-            "tag": "B2B营销",
-            "title": "Apple unsure when more foldable iPhones will be available after selling out",
-            "content": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-42d7a4",
+            "id": "wor-62d256",
             "tag": "国际要闻",
-            "title": "US strikes Iran ahead of midterm elections",
-            "content": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+            "title": "South Carolina elects Democratic senator for first time in almost three decades",
+            "content": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg",
             "category": "world"
       },
       {
-            "id": "wor-8f8a60",
+            "id": "wor-ffdda9",
             "tag": "国际要闻",
-            "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-            "content": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+            "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+            "content": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg",
             "category": "world"
       },
       {
-            "id": "wor-3d828d",
+            "id": "wor-95f8a9",
             "tag": "国际要闻",
-            "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-            "content": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+            "title": "Florida Republicans fend off Democrats as state elects first black governor",
+            "content": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+            "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
             "category": "world"
       }
 ],
