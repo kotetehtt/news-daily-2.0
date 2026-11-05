@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-04 06:50:01
+// Auto-generated news data at 2026-11-05 07:09:32
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月04日',
-  update_time: '2026-11-04 06:50:01',
+  date: '2026年11月05日',
+  update_time: '2026-11-05 07:09:32',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-d1f8f4",
+            "tag": "AI人工智能",
+            "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+            "content": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-977f9a",
+            "tag": "AI人工智能",
+            "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+            "content": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-a4d88c",
             "tag": "AI人工智能",
             "title": "Graduates are managing AI - but are they learning much else?",
@@ -107,29 +129,7 @@ const newsData: NewsData = {
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d70fc0",
-            "tag": "AI人工智能",
-            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-            "content": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-6c31bc",
-            "tag": "AI人工智能",
-            "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-            "content": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-a9407f",
+            "id": "b2b-c7ac42",
             "tag": "B2B营销",
-            "title": "Poundland supplier 'will lose millions' if retailer collapses",
-            "content": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+            "title": "Interest rates expected to rise for first time in over three years",
+            "content": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/222a/live/3804e900-d7be-11f1-8a3d-5320e3fab176.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ae66d8",
+            "id": "b2b-7ac276",
             "tag": "B2B营销",
-            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-            "content": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "content": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-10d38e",
+            "id": "b2b-369994",
             "tag": "B2B营销",
-            "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-            "content": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+            "title": "Democrats won on affordability. Can they deliver it?",
+            "content": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ab9/live/2af7a860-d8e5-11f1-8a29-751f921d505b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-346ea9",
+            "id": "b2b-0876c8",
             "tag": "B2B营销",
-            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-            "content": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+            "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+            "content": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-62d256",
+            "id": "wor-e12824",
             "tag": "国际要闻",
-            "title": "South Carolina elects Democratic senator for first time in almost three decades",
-            "content": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+            "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+            "content": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ffdda9",
+            "id": "wor-201753",
             "tag": "国际要闻",
-            "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-            "content": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+            "title": "What Democrats can and can't do with their new power after taking Congress",
+            "content": "Democrats can vote legislation through. But Trump still has veto power.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-95f8a9",
+            "id": "wor-95df6d",
             "tag": "国际要闻",
-            "title": "Florida Republicans fend off Democrats as state elects first black governor",
-            "content": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+            "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+            "content": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       }
 ],
