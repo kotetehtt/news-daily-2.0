@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-05 07:09:32
+// Auto-generated news data at 2026-11-06 07:09:24
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月05日',
-  update_time: '2026-11-05 07:09:32',
+  date: '2026年11月06日',
+  update_time: '2026-11-06 07:09:24',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-006437",
+            "tag": "AI人工智能",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-d95e1f",
+            "tag": "AI人工智能",
+            "title": "The engine parts that 'fight the laws of the universe'",
+            "content": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-d1f8f4",
             "tag": "AI人工智能",
             "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-977f9a",
-            "tag": "AI人工智能",
-            "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-            "content": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-a4d88c",
-            "tag": "AI人工智能",
-            "title": "Graduates are managing AI - but are they learning much else?",
-            "content": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-c7ac42",
+            "id": "b2b-f5014c",
             "tag": "B2B营销",
-            "title": "Interest rates expected to rise for first time in over three years",
-            "content": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-ba97f0",
+            "tag": "B2B营销",
+            "title": "Firms told to publish salaries in job adverts ahead of new law",
+            "content": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-5f111c",
+            "tag": "B2B营销",
+            "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+            "content": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-aba697",
+            "tag": "B2B营销",
+            "title": "Interest rates hiked to 4% in first increase in over three years",
+            "content": "Most analysts expected the increase from 3.75% to 4%.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-7ac276",
-            "tag": "B2B营销",
-            "title": "Pound rises to its highest level since the Brexit referendum",
-            "content": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-369994",
-            "tag": "B2B营销",
-            "title": "Democrats won on affordability. Can they deliver it?",
-            "content": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ab9/live/2af7a860-d8e5-11f1-8a29-751f921d505b.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-0876c8",
-            "tag": "B2B营销",
-            "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-            "content": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e12824",
+            "id": "wor-25d9a3",
             "tag": "国际要闻",
-            "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-            "content": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
             "category": "world"
       },
       {
-            "id": "wor-201753",
+            "id": "wor-b9c123",
             "tag": "国际要闻",
-            "title": "What Democrats can and can't do with their new power after taking Congress",
-            "content": "Democrats can vote legislation through. But Trump still has veto power.",
+            "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+            "content": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
             "category": "world"
       },
       {
-            "id": "wor-95df6d",
+            "id": "wor-f4af88",
             "tag": "国际要闻",
-            "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-            "content": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+            "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+            "content": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
             "category": "world"
       }
 ],
