@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-06 07:09:24
+// Auto-generated news data at 2026-11-07 06:21:16
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月06日',
-  update_time: '2026-11-06 07:09:24',
+  date: '2026年11月07日',
+  update_time: '2026-11-07 06:21:16',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-006437",
+            "id": "ai-5b47ea",
             "tag": "AI人工智能",
-            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+            "content": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d95e1f",
+            "id": "ai-0153a8",
             "tag": "AI人工智能",
-            "title": "The engine parts that 'fight the laws of the universe'",
-            "content": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+            "title": "AI stocks climb after trillions wiped from market values",
+            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d1f8f4",
+            "id": "ai-ca94ea",
             "tag": "AI人工智能",
-            "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-            "content": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+            "title": "Why the US midterms sparked an AI stock selloff",
+            "content": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f5014c",
+            "id": "b2b-756b6a",
             "tag": "B2B营销",
-            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "title": "AI stocks climb after trillions wiped from market values",
+            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ba97f0",
+            "id": "b2b-7c5003",
             "tag": "B2B营销",
-            "title": "Firms told to publish salaries in job adverts ahead of new law",
-            "content": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+            "title": "Why the US midterms sparked an AI stock selloff",
+            "content": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5f111c",
+            "id": "b2b-d972c7",
             "tag": "B2B营销",
-            "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-            "content": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+            "title": "How does it affect me if share prices fall?",
+            "content": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png",
+            "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-aba697",
+            "id": "b2b-9fa02d",
             "tag": "B2B营销",
-            "title": "Interest rates hiked to 4% in first increase in over three years",
-            "content": "Most analysts expected the increase from 3.75% to 4%.",
+            "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+            "content": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-25d9a3",
+            "id": "wor-067d34",
             "tag": "国际要闻",
-            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-            "content": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "title": "AI stocks climb after trillions wiped from market values",
+            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b9c123",
+            "id": "wor-71ee26",
             "tag": "国际要闻",
-            "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-            "content": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+            "title": "Four midterms takeaways for 2028 White House race",
+            "content": "The buzz about the presidential election is already under way - here's what we learned this week.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
             "category": "world"
       },
       {
-            "id": "wor-f4af88",
+            "id": "wor-a122f5",
             "tag": "国际要闻",
-            "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-            "content": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+            "title": "Two dead after bus crashes in France, officials say",
+            "content": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
             "category": "world"
       }
 ],
