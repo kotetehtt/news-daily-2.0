@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-07 06:21:16
+// Auto-generated news data at 2026-11-08 06:28:17
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月07日',
-  update_time: '2026-11-07 06:21:16',
+  date: '2026年11月08日',
+  update_time: '2026-11-08 06:28:17',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-b81cc1",
+            "tag": "AI人工智能",
+            "title": "Can the Zelda remake capture the magic of the original?",
+            "content": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-5b47ea",
             "tag": "AI人工智能",
             "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-ca94ea",
-            "tag": "AI人工智能",
-            "title": "Why the US midterms sparked an AI stock selloff",
-            "content": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       }
 ],
@@ -216,6 +216,17 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
+            "id": "b2b-96dac1",
+            "tag": "B2B营销",
+            "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+            "content": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+            "category": "b2b"
+      },
+      {
             "id": "b2b-756b6a",
             "tag": "B2B营销",
             "title": "AI stocks climb after trillions wiped from market values",
@@ -246,17 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-9fa02d",
-            "tag": "B2B营销",
-            "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-            "content": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-067d34",
+            "id": "wor-e9a495",
             "tag": "国际要闻",
-            "title": "AI stocks climb after trillions wiped from market values",
-            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "title": "What we know so far after Krakow gun attack",
+            "content": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
             "category": "world"
       },
       {
-            "id": "wor-71ee26",
+            "id": "wor-76549d",
             "tag": "国际要闻",
-            "title": "Four midterms takeaways for 2028 White House race",
-            "content": "The buzz about the presidential election is already under way - here's what we learned this week.",
+            "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+            "content": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+            "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a122f5",
+            "id": "wor-a0185e",
             "tag": "国际要闻",
-            "title": "Two dead after bus crashes in France, officials say",
-            "content": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+            "title": "No clear winner after tight New Zealand general election",
+            "content": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       }
 ],
