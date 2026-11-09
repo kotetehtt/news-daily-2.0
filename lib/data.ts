@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-08 06:28:17
+// Auto-generated news data at 2026-11-09 06:59:30
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月08日',
-  update_time: '2026-11-08 06:28:17',
+  date: '2026年11月09日',
+  update_time: '2026-11-09 06:59:30',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-446de9",
+            "tag": "AI人工智能",
+            "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+            "content": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-046257",
+            "tag": "AI人工智能",
+            "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+            "content": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-b81cc1",
             "tag": "AI人工智能",
             "title": "Can the Zelda remake capture the magic of the original?",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-5b47ea",
-            "tag": "AI人工智能",
-            "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-            "content": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-0153a8",
-            "tag": "AI人工智能",
-            "title": "AI stocks climb after trillions wiped from market values",
-            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-96dac1",
+            "id": "b2b-d4433c",
             "tag": "B2B营销",
-            "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-            "content": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+            "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+            "content": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-756b6a",
+            "id": "b2b-efabc9",
             "tag": "B2B营销",
-            "title": "AI stocks climb after trillions wiped from market values",
-            "content": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "title": "Doing these things now will help you save money at Christmas",
+            "content": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-7c5003",
+            "id": "b2b-5d7286",
             "tag": "B2B营销",
-            "title": "Why the US midterms sparked an AI stock selloff",
-            "content": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+            "title": "Government's EV targets expected to be reduced this week",
+            "content": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d972c7",
+            "id": "b2b-28bae9",
             "tag": "B2B营销",
-            "title": "How does it affect me if share prices fall?",
-            "content": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+            "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+            "content": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e9a495",
+            "id": "wor-295718",
             "tag": "国际要闻",
-            "title": "What we know so far after Krakow gun attack",
-            "content": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+            "title": "Krakow shooting suspect has died in hospital, police say",
+            "content": "At least six people were killed in the shooting and a dozen more were injured.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg",
             "category": "world"
       },
       {
-            "id": "wor-76549d",
+            "id": "wor-801abd",
             "tag": "国际要闻",
-            "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-            "content": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+            "title": "Inside the French drug gangs recruiting children to kill",
+            "content": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a0185e",
+            "id": "wor-b22a7a",
             "tag": "国际要闻",
-            "title": "No clear winner after tight New Zealand general election",
-            "content": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+            "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+            "content": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
             "category": "world"
       }
 ],
