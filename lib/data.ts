@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-09 06:59:30
+// Auto-generated news data at 2026-11-10 07:36:33
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月09日',
-  update_time: '2026-11-09 06:59:30',
+  date: '2026年11月10日',
+  update_time: '2026-11-10 07:36:33',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-446de9",
+            "id": "ai-cd8e83",
             "tag": "AI人工智能",
-            "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-            "content": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "content": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-046257",
+            "id": "ai-d50991",
             "tag": "AI人工智能",
-            "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-            "content": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+            "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+            "content": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-b81cc1",
+            "id": "ai-ab3807",
             "tag": "AI人工智能",
-            "title": "Can the Zelda remake capture the magic of the original?",
-            "content": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-d4433c",
+            "id": "b2b-f26f71",
             "tag": "B2B营销",
-            "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-            "content": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-efabc9",
+            "id": "b2b-1c7c12",
             "tag": "B2B营销",
-            "title": "Doing these things now will help you save money at Christmas",
-            "content": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "content": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5d7286",
+            "id": "b2b-60653b",
             "tag": "B2B营销",
-            "title": "Government's EV targets expected to be reduced this week",
-            "content": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+            "title": "I took Vinted to court to get my money back",
+            "content": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-28bae9",
+            "id": "b2b-5cb9e8",
             "tag": "B2B营销",
-            "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-            "content": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+            "title": "How a civil servant got away with juggling five jobs for so long",
+            "content": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-295718",
+            "id": "wor-d633ee",
             "tag": "国际要闻",
-            "title": "Krakow shooting suspect has died in hospital, police say",
-            "content": "At least six people were killed in the shooting and a dozen more were injured.",
+            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-801abd",
+            "id": "wor-6f490c",
             "tag": "国际要闻",
-            "title": "Inside the French drug gangs recruiting children to kill",
-            "content": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+            "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+            "content": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
             "category": "world"
       },
       {
-            "id": "wor-b22a7a",
+            "id": "wor-009393",
             "tag": "国际要闻",
-            "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-            "content": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+            "title": "Trump says more US attacks on Iran 'highly unlikely'",
+            "content": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
             "category": "world"
       }
 ],
