@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-10 07:36:33
+// Auto-generated news data at 2026-11-11 06:54:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月10日',
-  update_time: '2026-11-10 07:36:33',
+  date: '2026年11月11日',
+  update_time: '2026-11-11 06:54:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-cd8e83",
+            "id": "ai-ae000e",
             "tag": "AI人工智能",
-            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-            "content": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "title": "Robot vessels take on the dangerous work of mine hunting",
+            "content": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-d50991",
+            "id": "ai-8256ee",
             "tag": "AI人工智能",
-            "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-            "content": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+            "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+            "content": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ab3807",
+            "id": "ai-365d14",
             "tag": "AI人工智能",
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+            "content": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-f26f71",
+            "id": "b2b-7967d6",
             "tag": "B2B营销",
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+            "content": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1c7c12",
+            "id": "b2b-119b2e",
             "tag": "B2B营销",
-            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-            "content": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+            "content": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-60653b",
+            "id": "b2b-6b2353",
             "tag": "B2B营销",
-            "title": "I took Vinted to court to get my money back",
-            "content": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+            "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+            "content": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-5cb9e8",
+            "id": "b2b-889b46",
             "tag": "B2B营销",
-            "title": "How a civil servant got away with juggling five jobs for so long",
-            "content": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+            "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+            "content": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-d633ee",
+            "id": "wor-599839",
             "tag": "国际要闻",
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+            "content": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
             "category": "world"
       },
       {
-            "id": "wor-6f490c",
+            "id": "wor-d3e43e",
             "tag": "国际要闻",
-            "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-            "content": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+            "title": "US Army soldier suspected of spying for Russia arrested in UK",
+            "content": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
             "category": "world"
       },
       {
-            "id": "wor-009393",
+            "id": "wor-a4d57e",
             "tag": "国际要闻",
-            "title": "Trump says more US attacks on Iran 'highly unlikely'",
-            "content": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+            "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+            "content": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       }
 ],
