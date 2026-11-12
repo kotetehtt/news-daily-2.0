@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-11 06:54:39
+// Auto-generated news data at 2026-11-12 07:30:41
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月11日',
-  update_time: '2026-11-11 06:54:39',
+  date: '2026年11月12日',
+  update_time: '2026-11-12 07:30:41',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-4383f2",
+            "tag": "AI人工智能",
+            "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+            "content": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-ce4a1b",
+            "tag": "AI人工智能",
+            "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+            "content": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
+            "category": "ai"
+      },
+      {
             "id": "ai-ae000e",
             "tag": "AI人工智能",
             "title": "Robot vessels take on the dangerous work of mine hunting",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-8256ee",
-            "tag": "AI人工智能",
-            "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-            "content": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-365d14",
-            "tag": "AI人工智能",
-            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "content": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       }
 ],
@@ -216,9 +216,31 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-7967d6",
+            "id": "b2b-1af3cb",
             "tag": "B2B营销",
-            "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+            "title": "UK economy grows at fastest rate for more than two years",
+            "content": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-38a86c",
+            "tag": "B2B营销",
+            "title": "Some under-25s should get fewer benefits, Milburn review to say",
+            "content": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-b823a4",
+            "tag": "B2B营销",
+            "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
             "content": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
             "source": "BBC News",
             "time": "今日",
@@ -227,36 +249,14 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-119b2e",
+            "id": "b2b-bef536",
             "tag": "B2B营销",
-            "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+            "title": "Christmas toy rush being driven by squishies and building sets",
             "content": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-6b2353",
-            "tag": "B2B营销",
-            "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-            "content": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-889b46",
-            "tag": "B2B营销",
-            "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-            "content": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-599839",
+            "id": "wor-ebf9bc",
             "tag": "国际要闻",
-            "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-            "content": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+            "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+            "content": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d3e43e",
+            "id": "wor-5da985",
             "tag": "国际要闻",
-            "title": "US Army soldier suspected of spying for Russia arrested in UK",
-            "content": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+            "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+            "content": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
+            "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a4d57e",
+            "id": "wor-db5c85",
             "tag": "国际要闻",
-            "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-            "content": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+            "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+            "content": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
             "category": "world"
       }
 ],
