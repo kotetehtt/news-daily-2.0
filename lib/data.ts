@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-12 07:30:41
+// Auto-generated news data at 2026-11-13 07:01:34
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月12日',
-  update_time: '2026-11-12 07:30:41',
+  date: '2026年11月13日',
+  update_time: '2026-11-13 07:01:34',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-4383f2",
+            "id": "ai-6129ee",
             "tag": "AI人工智能",
-            "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-            "content": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "content": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ce4a1b",
+            "id": "ai-199175",
             "tag": "AI人工智能",
-            "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-            "content": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+            "title": "Global Microsoft outage affecting tens of thousands of users",
+            "content": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
+            "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-ae000e",
+            "id": "ai-12d80d",
             "tag": "AI人工智能",
-            "title": "Robot vessels take on the dangerous work of mine hunting",
-            "content": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+            "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+            "content": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-1af3cb",
+            "id": "b2b-ed712e",
             "tag": "B2B营销",
-            "title": "UK economy grows at fastest rate for more than two years",
-            "content": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "content": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-38a86c",
+            "id": "b2b-108e91",
             "tag": "B2B营销",
-            "title": "Some under-25s should get fewer benefits, Milburn review to say",
-            "content": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+            "content": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-b823a4",
+            "id": "b2b-c82b58",
             "tag": "B2B营销",
-            "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-            "content": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+            "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+            "content": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-bef536",
+            "id": "b2b-736ffb",
             "tag": "B2B营销",
-            "title": "Christmas toy rush being driven by squishies and building sets",
-            "content": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+            "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+            "content": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ebf9bc",
+            "id": "wor-d2bf1c",
             "tag": "国际要闻",
-            "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-            "content": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "content": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5da985",
+            "id": "wor-d5ee7d",
             "tag": "国际要闻",
-            "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-            "content": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+            "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+            "content": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
             "category": "world"
       },
       {
-            "id": "wor-db5c85",
+            "id": "wor-bd47ed",
             "tag": "国际要闻",
-            "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-            "content": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+            "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+            "content": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
             "category": "world"
       }
 ],
