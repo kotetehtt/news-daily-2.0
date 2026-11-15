@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-14 06:51:43
+// Auto-generated news data at 2026-11-15 06:56:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月14日',
-  update_time: '2026-11-14 06:51:43',
+  date: '2026年11月15日',
+  update_time: '2026-11-15 06:56:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,9 +100,20 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-dcd600",
+            "id": "ai-0267bd",
             "tag": "AI人工智能",
-            "title": "Microsoft says services fully restored after for day-long global outage",
+            "title": "Italy fines Meta €805m over accessing users' photos",
+            "content": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-70dffc",
+            "tag": "AI人工智能",
+            "title": "Microsoft says services fully restored after day-long global outage",
             "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
             "source": "BBC News",
             "time": "今日",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-d59d41",
-            "tag": "AI人工智能",
-            "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-            "content": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
             "category": "ai"
       }
 ],
@@ -216,9 +216,31 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-431042",
+            "id": "b2b-952f7e",
             "tag": "B2B营销",
-            "title": "Microsoft says services fully restored after for day-long global outage",
+            "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+            "content": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-15f05e",
+            "tag": "B2B营销",
+            "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+            "content": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-81b134",
+            "tag": "B2B营销",
+            "title": "Microsoft says services fully restored after day-long global outage",
             "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
             "source": "BBC News",
             "time": "今日",
@@ -235,28 +257,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-9aa688",
-            "tag": "B2B营销",
-            "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-            "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-78e7e9",
-            "tag": "B2B营销",
-            "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-            "content": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-c76554",
+            "id": "wor-1e362c",
             "tag": "国际要闻",
-            "title": "What we know about the longest ground stop since 9/11",
-            "content": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "content": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-432c5e",
+            "id": "wor-bd3b2a",
             "tag": "国际要闻",
-            "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-            "content": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+            "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+            "content": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-0bae7e",
+            "id": "wor-c48498",
             "tag": "国际要闻",
-            "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-            "content": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+            "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+            "content": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
             "category": "world"
       }
 ],
