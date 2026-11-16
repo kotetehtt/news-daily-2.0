@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-15 06:56:39
+// Auto-generated news data at 2026-11-16 07:01:39
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月15日',
-  update_time: '2026-11-15 06:56:39',
+  date: '2026年11月16日',
+  update_time: '2026-11-16 07:01:39',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-0267bd",
+            "id": "ai-e0eee3",
             "tag": "AI人工智能",
-            "title": "Italy fines Meta €805m over accessing users' photos",
-            "content": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+            "title": "Investors sue chip giant Intel after 29% stock plunge",
+            "content": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-70dffc",
+            "id": "ai-3e8b2a",
             "tag": "AI人工智能",
-            "title": "Microsoft says services fully restored after day-long global outage",
-            "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-9bd36f",
+            "id": "ai-3e9ebb",
             "tag": "AI人工智能",
-            "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-            "content": "The next title in the series is expected to be the biggest video game release ever.",
+            "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+            "content": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-952f7e",
+            "id": "b2b-9473d0",
             "tag": "B2B营销",
-            "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-            "content": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+            "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+            "content": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-15f05e",
+            "id": "b2b-91ae15",
             "tag": "B2B营销",
-            "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-            "content": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+            "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+            "content": "The report being launched this week will suggest gradually reducing employment costs over five years.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-81b134",
+            "id": "b2b-33b758",
             "tag": "B2B营销",
-            "title": "Microsoft says services fully restored after day-long global outage",
-            "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-678d74",
+            "id": "b2b-23b69f",
             "tag": "B2B营销",
-            "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-            "content": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "title": "Investors sue chip giant Intel after 29% stock plunge",
+            "content": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-1e362c",
+            "id": "wor-78ae94",
             "tag": "国际要闻",
-            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-            "content": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "content": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bd3b2a",
+            "id": "wor-5dea24",
             "tag": "国际要闻",
-            "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-            "content": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+            "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+            "content": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
             "category": "world"
       },
       {
-            "id": "wor-c48498",
+            "id": "wor-98f69d",
             "tag": "国际要闻",
-            "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-            "content": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
             "category": "world"
       }
 ],
