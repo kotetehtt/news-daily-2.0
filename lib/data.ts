@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-16 07:01:39
+// Auto-generated news data at 2026-11-17 08:16:20
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月16日',
-  update_time: '2026-11-16 07:01:39',
+  date: '2026年11月17日',
+  update_time: '2026-11-17 08:16:20',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e0eee3",
+            "id": "ai-420239",
             "tag": "AI人工智能",
-            "title": "Investors sue chip giant Intel after 29% stock plunge",
-            "content": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+            "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+            "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-3e8b2a",
+            "id": "ai-6441e9",
             "tag": "AI人工智能",
-            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+            "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+            "content": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-3e9ebb",
+            "id": "ai-5c1ec5",
             "tag": "AI人工智能",
-            "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-            "content": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+            "title": "The AI start-ups fixing India's broken roads and messy land records",
+            "content": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
+            "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-9473d0",
+            "id": "b2b-e92c43",
             "tag": "B2B营销",
-            "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-            "content": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+            "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+            "content": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-91ae15",
+            "id": "b2b-a8e723",
             "tag": "B2B营销",
-            "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
-            "content": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+            "title": "OpenAI sued by California over Hugging Face attack",
+            "content": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-33b758",
+            "id": "b2b-f2e0e1",
             "tag": "B2B营销",
-            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+            "title": "We couldn't afford a house alone, so we bought one with strangers",
+            "content": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-23b69f",
+            "id": "b2b-40200e",
             "tag": "B2B营销",
-            "title": "Investors sue chip giant Intel after 29% stock plunge",
-            "content": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+            "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+            "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-78ae94",
+            "id": "wor-e584c4",
             "tag": "国际要闻",
-            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-            "content": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+            "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+            "content": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5dea24",
+            "id": "wor-5468cc",
             "tag": "国际要闻",
-            "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-            "content": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+            "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+            "content": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
             "category": "world"
       },
       {
-            "id": "wor-98f69d",
+            "id": "wor-5c651c",
             "tag": "国际要闻",
-            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-            "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+            "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+            "content": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
             "category": "world"
       }
 ],
