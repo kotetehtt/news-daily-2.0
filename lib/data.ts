@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-17 08:16:20
+// Auto-generated news data at 2026-11-18 07:48:56
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月17日',
-  update_time: '2026-11-17 08:16:20',
+  date: '2026年11月18日',
+  update_time: '2026-11-18 07:48:56',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-420239",
+            "id": "ai-54e2e5",
             "tag": "AI人工智能",
-            "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-            "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+            "title": "How important are Nvidia and Jensen Huang to the US economy?",
+            "content": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-6441e9",
+            "id": "ai-fde346",
             "tag": "AI人工智能",
-            "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-            "content": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+            "title": "Security flaw found in Java, world's third-largest programming language",
+            "content": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-5c1ec5",
+            "id": "ai-866481",
             "tag": "AI人工智能",
-            "title": "The AI start-ups fixing India's broken roads and messy land records",
-            "content": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+            "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+            "content": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-e92c43",
+            "id": "b2b-5babbd",
             "tag": "B2B营销",
-            "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
-            "content": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+            "content": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a8e723",
+            "id": "b2b-2cdfa9",
             "tag": "B2B营销",
-            "title": "OpenAI sued by California over Hugging Face attack",
-            "content": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+            "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+            "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-f2e0e1",
+            "id": "b2b-88ecf4",
             "tag": "B2B营销",
-            "title": "We couldn't afford a house alone, so we bought one with strangers",
-            "content": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+            "title": "How important are Nvidia and Jensen Huang to the US economy?",
+            "content": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-40200e",
+            "id": "b2b-3ff302",
             "tag": "B2B营销",
-            "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-            "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+            "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+            "content": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-e584c4",
+            "id": "wor-567534",
             "tag": "国际要闻",
-            "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-            "content": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+            "content": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5468cc",
+            "id": "wor-4d2c5e",
             "tag": "国际要闻",
-            "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-            "content": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+            "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+            "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-5c651c",
+            "id": "wor-72da0a",
             "tag": "国际要闻",
-            "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-            "content": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+            "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+            "content": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg",
             "category": "world"
       }
 ],
