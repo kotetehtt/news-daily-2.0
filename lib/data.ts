@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-18 07:48:56
+// Auto-generated news data at 2026-11-19 07:44:57
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月18日',
-  update_time: '2026-11-18 07:48:56',
+  date: '2026年11月19日',
+  update_time: '2026-11-19 07:44:57',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-54e2e5",
+            "id": "ai-dd4a88",
             "tag": "AI人工智能",
-            "title": "How important are Nvidia and Jensen Huang to the US economy?",
-            "content": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+            "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+            "content": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-fde346",
+            "id": "ai-300f7a",
             "tag": "AI人工智能",
-            "title": "Security flaw found in Java, world's third-largest programming language",
-            "content": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+            "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+            "content": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-866481",
+            "id": "ai-bb7f86",
             "tag": "AI人工智能",
-            "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-            "content": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+            "title": "The seven Anthropic founders who are about to become multi-billionaires",
+            "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5babbd",
+            "id": "b2b-5cdf51",
             "tag": "B2B营销",
-            "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
-            "content": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+            "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+            "content": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-2cdfa9",
+            "id": "b2b-4c0318",
             "tag": "B2B营销",
-            "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-            "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+            "content": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-88ecf4",
+            "id": "b2b-72e3e3",
             "tag": "B2B营销",
-            "title": "How important are Nvidia and Jensen Huang to the US economy?",
-            "content": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+            "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+            "content": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-3ff302",
+            "id": "b2b-c22f05",
             "tag": "B2B营销",
-            "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-            "content": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+            "title": "The seven Anthropic founders who are about to become multi-billionaires",
+            "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-567534",
+            "id": "wor-58a9ab",
             "tag": "国际要闻",
-            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-            "content": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+            "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+            "content": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68f5/live/b1b32250-e3ec-11f1-99a1-253766e7ad8b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4d2c5e",
+            "id": "wor-d71b36",
             "tag": "国际要闻",
-            "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-            "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "content": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
             "category": "world"
       },
       {
-            "id": "wor-72da0a",
+            "id": "wor-1b7839",
             "tag": "国际要闻",
-            "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-            "content": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+            "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+            "content": "No state has ever been found guilty by an international court of committing genocide.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
             "category": "world"
       }
 ],
