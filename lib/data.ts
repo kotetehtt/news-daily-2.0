@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-19 07:44:57
+// Auto-generated news data at 2026-11-20 07:37:08
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月19日',
-  update_time: '2026-11-19 07:44:57',
+  date: '2026年11月20日',
+  update_time: '2026-11-20 07:37:08',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-dd4a88",
+            "id": "ai-659b73",
             "tag": "AI人工智能",
-            "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-            "content": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+            "title": "Should AI be judging our credit worthiness?",
+            "content": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-300f7a",
+            "id": "ai-732c8a",
             "tag": "AI人工智能",
-            "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
-            "content": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+            "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+            "content": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-bb7f86",
+            "id": "ai-919562",
             "tag": "AI人工智能",
-            "title": "The seven Anthropic founders who are about to become multi-billionaires",
-            "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "content": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-5cdf51",
+            "id": "b2b-061b0a",
             "tag": "B2B营销",
-            "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
-            "content": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+            "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
+            "content": "People stocking up on long-life food drove retail sales higher October, according to official data.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-4c0318",
+            "id": "b2b-dc479d",
             "tag": "B2B营销",
-            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-            "content": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "content": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-72e3e3",
+            "id": "b2b-33570c",
             "tag": "B2B营销",
-            "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-            "content": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+            "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+            "content": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-c22f05",
+            "id": "b2b-b5e262",
             "tag": "B2B营销",
-            "title": "The seven Anthropic founders who are about to become multi-billionaires",
-            "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+            "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+            "content": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-58a9ab",
+            "id": "wor-b525ad",
             "tag": "国际要闻",
-            "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-            "content": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+            "title": "UK and EU to agree youth mobility scheme, BBC understands",
+            "content": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68f5/live/b1b32250-e3ec-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d71b36",
+            "id": "wor-00536d",
             "tag": "国际要闻",
-            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-            "content": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "content": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       },
       {
-            "id": "wor-1b7839",
+            "id": "wor-9baaac",
             "tag": "国际要闻",
-            "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-            "content": "No state has ever been found guilty by an international court of committing genocide.",
+            "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+            "content": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
             "category": "world"
       }
 ],
