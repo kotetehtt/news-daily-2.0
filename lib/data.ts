@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-20 07:37:08
+// Auto-generated news data at 2026-11-21 07:33:02
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月20日',
-  update_time: '2026-11-20 07:37:08',
+  date: '2026年11月21日',
+  update_time: '2026-11-21 07:33:02',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-659b73",
+            "id": "ai-65a5a2",
             "tag": "AI人工智能",
-            "title": "Should AI be judging our credit worthiness?",
-            "content": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+            "title": "Can AI really help spot Black Friday deals? We put it to the test",
+            "content": "We put four AI models to the test to see if they could save us money on a new TV.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-732c8a",
+            "id": "ai-74ebfd",
             "tag": "AI人工智能",
-            "title": "GTA 6 breaks records as estimated sales top $2.3bn",
-            "content": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+            "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+            "content": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-a13f3d",
+            "tag": "AI人工智能",
+            "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+            "content": "The mammoth figure surpasses every video game launch and single-day film box office record.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-919562",
-            "tag": "AI人工智能",
-            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-            "content": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-061b0a",
+            "id": "b2b-ebebc6",
             "tag": "B2B营销",
-            "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
-            "content": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "content": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-dc479d",
+            "id": "b2b-ac3c62",
             "tag": "B2B营销",
-            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-            "content": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-33570c",
+            "id": "b2b-1ee982",
             "tag": "B2B营销",
-            "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-            "content": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "content": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-b5e262",
+            "id": "b2b-fa3247",
             "tag": "B2B营销",
-            "title": "GTA 6 breaks records as estimated sales top $2.3bn",
-            "content": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+            "title": "Trump threatens ban on US firms building AI data centres overseas",
+            "content": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-b525ad",
+            "id": "wor-8e5f1b",
             "tag": "国际要闻",
-            "title": "UK and EU to agree youth mobility scheme, BBC understands",
-            "content": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "content": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
             "category": "world"
       },
       {
-            "id": "wor-00536d",
+            "id": "wor-bfeb10",
             "tag": "国际要闻",
-            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-            "content": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+            "content": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
             "category": "world"
       },
       {
-            "id": "wor-9baaac",
+            "id": "wor-d8551d",
             "tag": "国际要闻",
-            "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-            "content": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+            "title": "French police officers sentenced for beating of music producer Michel Zecler",
+            "content": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       }
 ],
