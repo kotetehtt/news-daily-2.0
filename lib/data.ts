@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-21 07:33:02
+// Auto-generated news data at 2026-11-22 07:14:54
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月21日',
-  update_time: '2026-11-21 07:33:02',
+  date: '2026年11月22日',
+  update_time: '2026-11-22 07:14:54',
   banner: [
       {
             "id": "ai-001",
@@ -111,9 +111,9 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-74ebfd",
+            "id": "ai-7a0a4e",
             "tag": "AI人工智能",
-            "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+            "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
             "content": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
             "source": "BBC News",
             "time": "今日",
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-8e5f1b",
+            "id": "wor-613a2b",
             "tag": "国际要闻",
-            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-            "content": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "title": "New draft deal aims to avert collapse of talks at climate summit",
+            "content": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-bfeb10",
+            "id": "wor-e84108",
             "tag": "国际要闻",
-            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-            "content": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+            "content": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
             "category": "world"
       },
       {
-            "id": "wor-d8551d",
+            "id": "wor-270cd4",
             "tag": "国际要闻",
-            "title": "French police officers sentenced for beating of music producer Michel Zecler",
-            "content": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+            "title": "Russia-bound ship attacked in Gulf of Finland",
+            "content": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
             "category": "world"
       }
 ],
