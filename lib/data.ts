@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-22 07:14:54
+// Auto-generated news data at 2026-11-23 07:58:48
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月22日',
-  update_time: '2026-11-22 07:14:54',
+  date: '2026年11月23日',
+  update_time: '2026-11-23 07:58:48',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,17 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-f6db9f",
+            "tag": "AI人工智能",
+            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+            "content": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-65a5a2",
             "tag": "AI人工智能",
             "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -119,17 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-a13f3d",
-            "tag": "AI人工智能",
-            "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-            "content": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-ebebc6",
+            "id": "b2b-8e474e",
             "tag": "B2B营销",
-            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-            "content": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "title": "Energy bills will soar - here's how you can ease the pain",
+            "content": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-ac3c62",
+            "id": "b2b-a00628",
             "tag": "B2B营销",
-            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-            "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "title": "What is going on with Poundland?",
+            "content": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-1ee982",
+            "id": "b2b-6b3bb2",
             "tag": "B2B营销",
-            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-            "content": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "title": "Pip assessments need 'fundamental overhaul', report to say",
+            "content": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-fa3247",
+            "id": "b2b-e8197c",
             "tag": "B2B营销",
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "content": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+            "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+            "content": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-613a2b",
+            "id": "wor-743c04",
             "tag": "国际要闻",
-            "title": "New draft deal aims to avert collapse of talks at climate summit",
-            "content": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+            "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+            "content": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e84108",
+            "id": "wor-e5b75f",
             "tag": "国际要闻",
-            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-            "content": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "content": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       },
       {
-            "id": "wor-270cd4",
+            "id": "wor-a5c57f",
             "tag": "国际要闻",
-            "title": "Russia-bound ship attacked in Gulf of Finland",
-            "content": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+            "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+            "content": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
             "category": "world"
       }
 ],
