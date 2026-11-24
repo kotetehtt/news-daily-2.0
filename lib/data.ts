@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-23 07:58:48
+// Auto-generated news data at 2026-11-24 10:13:36
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月23日',
-  update_time: '2026-11-23 07:58:48',
+  date: '2026年11月24日',
+  update_time: '2026-11-24 10:13:36',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-f6db9f",
+            "id": "ai-feffb5",
             "tag": "AI人工智能",
-            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-            "content": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+            "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+            "content": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-65a5a2",
+            "id": "ai-349223",
             "tag": "AI人工智能",
-            "title": "Can AI really help spot Black Friday deals? We put it to the test",
-            "content": "We put four AI models to the test to see if they could save us money on a new TV.",
+            "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+            "content": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-7a0a4e",
+            "id": "ai-c1f178",
             "tag": "AI人工智能",
-            "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-            "content": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+            "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+            "content": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-8e474e",
+            "id": "b2b-c0f034",
             "tag": "B2B营销",
-            "title": "Energy bills will soar - here's how you can ease the pain",
-            "content": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+            "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+            "content": "Companies building flats that they then rent out could usher in big changes for renters",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-a00628",
+            "id": "b2b-44f983",
             "tag": "B2B营销",
-            "title": "What is going on with Poundland?",
-            "content": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+            "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+            "content": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6b3bb2",
+            "id": "b2b-df8898",
             "tag": "B2B营销",
-            "title": "Pip assessments need 'fundamental overhaul', report to say",
-            "content": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+            "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+            "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-e8197c",
+            "id": "b2b-d07562",
             "tag": "B2B营销",
-            "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-            "content": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+            "content": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d27/live/d9940160-e7d2-11f1-939f-471cde339c0e.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-743c04",
+            "id": "wor-657d3d",
             "tag": "国际要闻",
-            "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-            "content": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+            "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+            "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
             "category": "world"
       },
       {
-            "id": "wor-e5b75f",
+            "id": "wor-795011",
             "tag": "国际要闻",
-            "title": "What's next after no deal at COP31 climate talks?",
-            "content": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "title": "What Jensen Huang's return teaches China's Xi about Trump",
+            "content": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
             "category": "world"
       },
       {
-            "id": "wor-a5c57f",
+            "id": "wor-201107",
             "tag": "国际要闻",
-            "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-            "content": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+            "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+            "content": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       }
 ],
