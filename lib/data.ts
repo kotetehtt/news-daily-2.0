@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-24 10:13:36
+// Auto-generated news data at 2026-11-25 08:57:47
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月24日',
-  update_time: '2026-11-24 10:13:36',
+  date: '2026年11月25日',
+  update_time: '2026-11-25 08:57:47',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-feffb5",
+            "id": "ai-e24ee0",
             "tag": "AI人工智能",
-            "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-            "content": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+            "title": "US attorney general dodges questions about Nvidia investigation",
+            "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
             "category": "ai"
       },
       {
-            "id": "ai-349223",
+            "id": "ai-9f6fe7",
             "tag": "AI人工智能",
-            "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-            "content": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+            "content": "The verdict follows a months-long trial in New York.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-c1f178",
+            "id": "ai-511682",
             "tag": "AI人工智能",
-            "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-            "content": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+            "title": "Why tiny cars are taking off across Europe",
+            "content": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-c0f034",
+            "id": "b2b-2cc9d0",
             "tag": "B2B营销",
-            "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
-            "content": "Companies building flats that they then rent out could usher in big changes for renters",
+            "title": "Energy bills to rise by 26% from January",
+            "content": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9855/live/6f788a40-e8a3-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-44f983",
+            "id": "b2b-6bf3cb",
             "tag": "B2B营销",
-            "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-            "content": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+            "title": "US preparing to unveil plan for new tariffs on global trading partners",
+            "content": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-df8898",
+            "id": "b2b-a7ddcf",
             "tag": "B2B营销",
-            "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-            "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+            "title": "What will the energy cap changes mean for my bills?",
+            "content": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-d07562",
+            "id": "b2b-f215a7",
             "tag": "B2B营销",
-            "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-            "content": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+            "title": "Trump's rescue of Nvidia's Huang brings political risks",
+            "content": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d27/live/d9940160-e7d2-11f1-939f-471cde339c0e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-657d3d",
+            "id": "wor-ba4429",
             "tag": "国际要闻",
-            "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-            "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+            "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+            "content": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
             "category": "world"
       },
       {
-            "id": "wor-795011",
+            "id": "wor-feb9fd",
             "tag": "国际要闻",
-            "title": "What Jensen Huang's return teaches China's Xi about Trump",
-            "content": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+            "title": "US attorney general dodges questions about Nvidia investigation",
+            "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
             "category": "world"
       },
       {
-            "id": "wor-201107",
+            "id": "wor-04ba50",
             "tag": "国际要闻",
-            "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-            "content": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+            "content": "The verdict follows a months-long trial in New York.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
             "category": "world"
       }
 ],
