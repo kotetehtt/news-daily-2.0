@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-25 08:57:47
+// Auto-generated news data at 2026-11-26 08:44:11
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月25日',
-  update_time: '2026-11-25 08:57:47',
+  date: '2026年11月26日',
+  update_time: '2026-11-26 08:44:11',
   banner: [
       {
             "id": "ai-001",
@@ -100,17 +100,6 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-e24ee0",
-            "tag": "AI人工智能",
-            "title": "US attorney general dodges questions about Nvidia investigation",
-            "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-            "category": "ai"
-      },
-      {
             "id": "ai-9f6fe7",
             "tag": "AI人工智能",
             "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
@@ -122,14 +111,25 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-511682",
+            "id": "ai-c50c11",
             "tag": "AI人工智能",
-            "title": "Why tiny cars are taking off across Europe",
-            "content": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+            "title": "EA adds AI-generated John Motson to FC 27 video game",
+            "content": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-f7d685",
+            "tag": "AI人工智能",
+            "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+            "content": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-2cc9d0",
+            "id": "b2b-a7a63c",
             "tag": "B2B营销",
-            "title": "Energy bills to rise by 26% from January",
-            "content": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+            "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+            "content": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9855/live/6f788a40-e8a3-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-6bf3cb",
+            "id": "b2b-594451",
             "tag": "B2B营销",
-            "title": "US preparing to unveil plan for new tariffs on global trading partners",
+            "title": "Poundland collapses putting 11,000 jobs at risk",
+            "content": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-89a506",
+            "tag": "B2B营销",
+            "title": "What's gone wrong at Poundland?",
+            "content": "Poundland has collapse into administration. Why?",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+            "category": "b2b"
+      },
+      {
+            "id": "b2b-607bee",
+            "tag": "B2B营销",
+            "title": "US announces new tariffs on host of countries including China",
             "content": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
             "source": "BBC News",
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-a7ddcf",
-            "tag": "B2B营销",
-            "title": "What will the energy cap changes mean for my bills?",
-            "content": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
-            "category": "b2b"
-      },
-      {
-            "id": "b2b-f215a7",
-            "tag": "B2B营销",
-            "title": "Trump's rescue of Nvidia's Huang brings political risks",
-            "content": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-ba4429",
+            "id": "wor-dd400d",
             "tag": "国际要闻",
-            "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-            "content": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "content": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb9c/live/c1d62ef0-e8da-11f1-99b6-a35a62fa4264.jpg",
             "category": "world"
       },
       {
-            "id": "wor-feb9fd",
+            "id": "wor-4dadbe",
             "tag": "国际要闻",
-            "title": "US attorney general dodges questions about Nvidia investigation",
-            "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "content": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+            "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       },
       {
-            "id": "wor-04ba50",
+            "id": "wor-ca1ff9",
             "tag": "国际要闻",
-            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-            "content": "The verdict follows a months-long trial in New York.",
+            "title": "Desperate appeals from women on death row in Iran after protests",
+            "content": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
             "category": "world"
       }
 ],
