@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-26 08:44:11
+// Auto-generated news data at 2026-11-27 08:54:47
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月26日',
-  update_time: '2026-11-26 08:44:11',
+  date: '2026年11月27日',
+  update_time: '2026-11-27 08:54:47',
   banner: [
       {
             "id": "ai-001",
@@ -100,36 +100,36 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
-            "id": "ai-9f6fe7",
+            "id": "ai-3d12eb",
             "tag": "AI人工智能",
-            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-            "content": "The verdict follows a months-long trial in New York.",
+            "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+            "content": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-c50c11",
+            "id": "ai-2cb2b4",
             "tag": "AI人工智能",
-            "title": "EA adds AI-generated John Motson to FC 27 video game",
-            "content": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+            "title": "Asia made a big AI bet on Nvidia. What happens now?",
+            "content": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
             "category": "ai"
       },
       {
-            "id": "ai-f7d685",
+            "id": "ai-226518",
             "tag": "AI人工智能",
-            "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-            "content": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+            "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+            "content": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
             "category": "ai"
       }
 ],
@@ -216,47 +216,47 @@ const newsData: NewsData = {
             "category": "b2b"
       },
       {
-            "id": "b2b-a7a63c",
+            "id": "b2b-3f9aae",
             "tag": "B2B营销",
-            "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-            "content": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+            "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+            "content": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-594451",
+            "id": "b2b-3647d4",
             "tag": "B2B营销",
-            "title": "Poundland collapses putting 11,000 jobs at risk",
-            "content": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+            "content": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
             "category": "b2b"
       },
       {
-            "id": "b2b-89a506",
+            "id": "b2b-b98b2c",
             "tag": "B2B营销",
-            "title": "What's gone wrong at Poundland?",
-            "content": "Poundland has collapse into administration. Why?",
+            "title": "UK to pay 'participation' fee to deliver EU deals",
+            "content": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
             "category": "b2b"
       },
       {
-            "id": "b2b-607bee",
+            "id": "b2b-da3ad3",
             "tag": "B2B营销",
-            "title": "US announces new tariffs on host of countries including China",
-            "content": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "title": "Asia made a big AI bet on Nvidia. What happens now?",
+            "content": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
             "category": "b2b"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-dd400d",
+            "id": "wor-6bcb2d",
             "tag": "国际要闻",
-            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-            "content": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "content": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb9c/live/c1d62ef0-e8da-11f1-99b6-a35a62fa4264.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
             "category": "world"
       },
       {
-            "id": "wor-4dadbe",
+            "id": "wor-253fde",
             "tag": "国际要闻",
-            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-            "content": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+            "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+            "content": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
             "category": "world"
       },
       {
-            "id": "wor-ca1ff9",
+            "id": "wor-483291",
             "tag": "国际要闻",
-            "title": "Desperate appeals from women on death row in Iran after protests",
-            "content": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+            "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+            "content": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+            "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       }
 ],
