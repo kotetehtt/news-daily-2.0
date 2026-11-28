@@ -1,4 +1,4 @@
-// Auto-generated news data at 2026-11-27 08:54:47
+// Auto-generated news data at 2026-11-28 08:15:27
 // DO NOT EDIT MANUALLY
 
 export interface NewsItem {
@@ -27,8 +27,8 @@ export interface NewsData {
 };
 
 const newsData: NewsData = {
-  date: '2026年11月27日',
-  update_time: '2026-11-27 08:54:47',
+  date: '2026年11月28日',
+  update_time: '2026-11-28 08:15:27',
   banner: [
       {
             "id": "ai-001",
@@ -100,6 +100,28 @@ const newsData: NewsData = {
             "category": "ai"
       },
       {
+            "id": "ai-3346c7",
+            "tag": "AI人工智能",
+            "title": "Pensions and benefits services still down after 'cyber incident'",
+            "content": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+            "category": "ai"
+      },
+      {
+            "id": "ai-2a90ce",
+            "tag": "AI人工智能",
+            "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+            "content": "With an official PC version potentially still months away, fans are getting impatient.",
+            "source": "BBC News",
+            "time": "今日",
+            "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+            "category": "ai"
+      },
+      {
             "id": "ai-3d12eb",
             "tag": "AI人工智能",
             "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -108,28 +130,6 @@ const newsData: NewsData = {
             "time": "今日",
             "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo",
             "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-2cb2b4",
-            "tag": "AI人工智能",
-            "title": "Asia made a big AI bet on Nvidia. What happens now?",
-            "content": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
-            "category": "ai"
-      },
-      {
-            "id": "ai-226518",
-            "tag": "AI人工智能",
-            "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-            "content": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-            "source": "BBC News",
-            "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
             "category": "ai"
       }
 ],
@@ -295,36 +295,36 @@ const newsData: NewsData = {
             "category": "world"
       },
       {
-            "id": "wor-6bcb2d",
+            "id": "wor-d60d3b",
             "tag": "国际要闻",
-            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-            "content": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+            "content": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
             "category": "world"
       },
       {
-            "id": "wor-253fde",
+            "id": "wor-d71c54",
             "tag": "国际要闻",
-            "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-            "content": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+            "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+            "content": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
             "category": "world"
       },
       {
-            "id": "wor-483291",
+            "id": "wor-1ac44d",
             "tag": "国际要闻",
-            "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-            "content": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+            "title": "Eight killed in Peruvian military helicopter crash",
+            "content": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
             "source": "BBC News",
             "time": "今日",
-            "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg",
+            "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
             "category": "world"
       }
 ],
